@@ -1,0 +1,404 @@
+{
+  "paths": {
+    "0": [
+      "texture/xp",
+      2,
+      1
+    ],
+    "1": [
+      "texture/irrow",
+      2,
+      1
+    ],
+    "2": [
+      "big/HandBack_1",
+      2,
+      1
+    ],
+    "3": [
+      "texture/play",
+      2,
+      1
+    ],
+    "4": [
+      "big/play_frame",
+      2,
+      1
+    ],
+    "5": [
+      "texture/zp",
+      2,
+      1
+    ],
+    "6": [
+      "texture/wz",
+      2,
+      1
+    ],
+    "7": [
+      "texture/dhk2",
+      2,
+      1
+    ],
+    "8": [
+      "big/Back_3",
+      3
+    ],
+    "9": [
+      "texture/coin",
+      2,
+      1
+    ],
+    "10": [
+      "texture/play_button",
+      2,
+      1
+    ],
+    "11": [
+      "texture/fdj",
+      2,
+      1
+    ],
+    "12": [
+      "texture/cl",
+      2,
+      1
+    ],
+    "13": [
+      "texture/AutoAtlas",
+      4
+    ],
+    "14": [
+      "texture/play_icon",
+      2,
+      1
+    ],
+    "15": [
+      "big/head",
+      3
+    ],
+    "16": [
+      "big/handBack",
+      3
+    ],
+    "17": [
+      "texture/line_2",
+      2,
+      1
+    ],
+    "18": [
+      "texture/back",
+      2,
+      1
+    ],
+    "19": [
+      "texture/star1",
+      2,
+      1
+    ],
+    "20": [
+      "texture/line_1",
+      2,
+      1
+    ],
+    "21": [
+      "texture/load",
+      2,
+      1
+    ],
+    "22": [
+      "anim/xp",
+      1
+    ],
+    "23": [
+      "item",
+      0
+    ],
+    "24": [
+      "guideItem",
+      0
+    ],
+    "25": [
+      "big/play_frame",
+      3
+    ],
+    "26": [
+      "texture/dhk",
+      2,
+      1
+    ],
+    "27": [
+      "big/Back_3",
+      2,
+      1
+    ],
+    "28": [
+      "texture/base",
+      2,
+      1
+    ],
+    "29": [
+      "texture/wx",
+      2,
+      1
+    ],
+    "30": [
+      "texture/tx",
+      2,
+      1
+    ],
+    "31": [
+      "mj/mj",
+      4
+    ],
+    "32": [
+      "GameView",
+      0
+    ],
+    "33": [
+      "mj/mj",
+      3
+    ],
+    "34": [
+      "texture/stop",
+      2,
+      1
+    ],
+    "35": [
+      "texture/line",
+      2,
+      1
+    ],
+    "36": [
+      "big/Back_2",
+      2,
+      1
+    ],
+    "37": [
+      "big/HandBack_1",
+      3
+    ],
+    "38": [
+      "texture/ts",
+      2,
+      1
+    ],
+    "39": [
+      "big/Back_2",
+      3
+    ],
+    "40": [
+      "texture/hand",
+      2,
+      1
+    ],
+    "41": [
+      "big/handBack",
+      2,
+      1
+    ],
+    "42": [
+      "texture/rect",
+      2,
+      1
+    ],
+    "43": [
+      "big/head",
+      2,
+      1
+    ]
+  },
+  "types": [
+    "cc.Prefab",
+    "cc.AnimationClip",
+    "cc.SpriteFrame",
+    "cc.Texture2D",
+    "cc.SpriteAtlas"
+  ],
+  "uuids": [
+    "07B66qNp9Owp5wzdw0D3d1",
+    "10KJ0oyuVHaKoyTbSy8t7P",
+    "11C+tCl8tG6ZEzDGTT2FA8",
+    "17jxeVMfBGvKj+C4Wm0Ej7",
+    "1bQC3tBadH04VQEhfYvxy9",
+    "1b9RgMgwRA5ZVFUp/IDlov",
+    "1fpmOESlhHjYkWo3u/rxZ2",
+    "22wezvIxpJD7voddHjxBzJ",
+    "23TCECbLBG7Lyc0twJclh2",
+    "26A1cOZgVEDpvtf2EpmlZ5",
+    "2aI8akzNxO9odmHeFe5VvD",
+    "2bfve40r1MKYxiWx3P4aX+",
+    "2fRZpFZj1ACq3ximl+VLSt",
+    "390PGqhJ1AOY3hY4aLBR8n",
+    "3aWnR1K4lPwZ/U1UtDiew4",
+    "3cwvCF9e9BDry6dcEHqJ5e",
+    "3eVq4l/L1Iwoj8uoq+UbBD",
+    "44mJjv7wVEErpPvqyUkgOY",
+    "45DIBDQeZHq5Lz5wgw0Uwc",
+    "45E6HGvJ5LXaVEwsEWze4E",
+    "46aT3PF0ZHopPUJaFV/GlQ",
+    "548vTDjclJ9ZuiaWTxppl2",
+    "59oYPEUFxFNa6lq+EmUgA7",
+    "5bpBQAtOdA8q/UKwknW3yX",
+    "64UMYQ40RE4ri8IGpvm2gn",
+    "72qiNydVZP0K5+1/wxo/M2",
+    "78dIXGbYZKza5rHoKVwwHu",
+    "78iKwVag5LTK4z/pel1Rt6",
+    "877RzVRaJOIYFXJKo2N9a6",
+    "8b4x3i9XZCr667rJu2kW2r",
+    "90j+uMrfFBr4L6ru5JyU6l",
+    "960sDVc51PDou57nbQiCAs",
+    "98HlpcWMNIXJoe2ccUlM/e",
+    "a0MJ4vXHtAkoApbjZmPZ0q",
+    "aekLyWHBlLMZ4pd0THNVZV",
+    "b2w2ZUUMBMUJ9dlUIapJv2",
+    "b7D/2rPlREya3sOj+tPFsp",
+    "bcc6/1qZpKjJyIEK4oG5qH",
+    "ca0rhrH05JBJ35gZmS7jrJ",
+    "cdlbR4UuNBlZ9h9tNXIuHo",
+    "d4XVT+v01Pf4ULH1O7dVRj",
+    "dcwoQP8kxJF4FC8+n1ziSz",
+    "f95xnKgIFEZJbtvBYckrlR",
+    "fbiHNWpi1FUa1ax6TgnFVK",
+    "02delMVqdBD70a/HSD99FK",
+    "07OfNns59EsKM/CT6pQ4tg",
+    "0bIEJ9ClBOsIM7EtkI7O92",
+    "0c/Bhb5pBETYA7zPT2e2D8",
+    "0e2C1Lk15ELJ8gjiycromg",
+    "167ee3baa",
+    "17FxlSWilKS6iaZahu35cx",
+    "1c6d61bYBEKrmRl77Vh5Jp",
+    "1dIkiXYbtIVK4MY2xwoo2s",
+    "20c/P7YetPHJmK03EOQkNV",
+    "21+hOCGZtNGoN9Z4Xk8Png",
+    "2bIzl1oQZNXbJ1vZEkr8dQ",
+    "38Ms4IdetHsIdjV+pWBK7W",
+    "53zsZA0/RPtbksh4TuY4VA",
+    "55LUSHEQ5McJaxAFqvmxvZ",
+    "57GnsoQVtOZafakOVU0Zqk",
+    "60FS6E+iRJDbDdOqnqgXFX",
+    "61osW4Oh9PBqSFAqIZyylg",
+    "6c7LDkJsxFt7sYTgk0QHuY",
+    "785nzxBQJHf6shx9LxW2qj",
+    "7eMCHkPiZLtZ1BpD3bDY64",
+    "7fPA7pUdRM7YTEC5iDIb/c",
+    "8eCqVA+HZL8ZGGxCfJFfsn",
+    "94NI+sF21NNJ7Snm6dbUth",
+    "94POvpCaVMyoDvN4lwzPnj",
+    "984eSnwadPEr+1X7PK5q4F",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "a3wFDPPcFM0Zga7NYzhGfV",
+    "a88I/uVbNLGZE1H/YCvZR+",
+    "b92szOcllIoatb9RMYUShc",
+    "c0ChAijTZBFLMxJNK9mUiH",
+    "c0VCLct/xFF7S4w7UZ3/sg",
+    "c2qclcfv9O2pz6RU0wtZJq",
+    "c5CpevoT5PL6PwMt6SkYMB",
+    "ccYiavZq9GobVKYWiB6p8e",
+    "e4YyCQN2FB4rLQwlBEEQ4U",
+    "e7ksyOlUJO96mOH6raOtm/",
+    "ebFqpfx5FMn5mMtYDpSY1O",
+    "ecpdLyjvZBwrvm+cedCcQy"
+  ],
+  "scenes": {},
+  "redirect": [
+    44,
+    0,
+    82,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "02d3be63e": [
+      0,
+      45,
+      46,
+      47,
+      48,
+      1,
+      2,
+      49,
+      50,
+      3,
+      4,
+      5,
+      51,
+      52,
+      6,
+      53,
+      54,
+      7,
+      8,
+      9,
+      10,
+      55,
+      11,
+      12,
+      56,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      57,
+      21,
+      58,
+      59,
+      22,
+      23,
+      60,
+      61,
+      24,
+      62,
+      25,
+      26,
+      27,
+      63,
+      64,
+      65,
+      28,
+      29,
+      66,
+      30,
+      67,
+      68,
+      31,
+      32,
+      69,
+      33,
+      70,
+      71,
+      72,
+      34,
+      35,
+      36,
+      73,
+      37,
+      74,
+      75,
+      76,
+      77,
+      38,
+      78,
+      39,
+      40,
+      41,
+      79,
+      80,
+      81,
+      42,
+      43
+    ]
+  },
+  "name": "game",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

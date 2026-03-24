@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "eeL1dNvAZN94AQAQS7E7/G"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "HolidaysAtlas",
+      "rect": [
+        0,
+        0,
+        395,
+        256
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        395,
+        256
+      ],
+      "capInsets": [
+        0,
+        114,
+        0,
+        89
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

@@ -1,0 +1,125 @@
+{
+  "paths": {
+    "0": [
+      "ui/FakeUI_atlas0",
+      2
+    ],
+    "1": [
+      "common/HolidaysAtlas",
+      2
+    ],
+    "2": [
+      "audios/游戏失败2",
+      0
+    ],
+    "3": [
+      "audios/成功",
+      0
+    ],
+    "4": [
+      "audios/游戏失败1",
+      0
+    ],
+    "5": [
+      "ui/FakeUI_atlas0",
+      1,
+      1
+    ],
+    "6": [
+      "audios/点击按钮5",
+      0
+    ],
+    "7": [
+      "config/game-setting-default",
+      3
+    ],
+    "8": [
+      "config/game-setting-wx",
+      3
+    ],
+    "9": [
+      "audios/挪动牌",
+      0
+    ],
+    "10": [
+      "audios/耶2",
+      0
+    ],
+    "11": [
+      "audios/耶",
+      0
+    ],
+    "12": [
+      "audios/背景音乐2",
+      0
+    ],
+    "13": [
+      "ui/FakeUI",
+      4
+    ],
+    "14": [
+      "audios/消除1",
+      0
+    ],
+    "15": [
+      "audios/消除2",
+      0
+    ],
+    "16": [
+      "audios/洗牌声",
+      0
+    ],
+    "17": [
+      "audios/点击按钮",
+      0
+    ],
+    "18": [
+      "common/HolidaysAtlas",
+      1,
+      1
+    ]
+  },
+  "types": [
+    "cc.AudioClip",
+    "cc.SpriteFrame",
+    "cc.Texture2D",
+    "cc.JsonAsset",
+    "cc.BufferAsset"
+  ],
+  "uuids": [
+    "c2/4FinMNNt6FeR02gPoCt",
+    "eeL1dNvAZN94AQAQS7E7/G",
+    "071csieftHbptQn7jMJmst",
+    "0f7o/AYM9PqqkLKicBBSKE",
+    "101YY9q49G64upkYmm84BV",
+    "17f/+QSbNJjZEFlpE113GN",
+    "22xoiwu9tBOb9/7tPHuMlT",
+    "2caFb6NIpIjpqZZzYEkE4a",
+    "3bbhXwckNBVq0uOo1WBdxG",
+    "56InZh9CVNrbjnlZ39lLdW",
+    "64BKiVFuVLKoaRfdqdjxqP",
+    "7bzaEswB9B5b6T/lcWRv1E",
+    "a7wGv5pNlO0LrH0wtflyGD",
+    "b54NdpGjNDa4dX7H+1jn6B",
+    "b9kMo8HE5O5ZGzSm5d0CLB",
+    "c8URDf/+dDJ7I0CnIqJ7kd",
+    "d0ny0qD3JIn4aQBas2iGPe",
+    "e52nSXsRxNKqhUG5n/rJjU",
+    "e7PKKO3dtKyLa3iAwzEyJU"
+  ],
+  "scenes": {},
+  "redirect": [],
+  "deps": [],
+  "packs": {
+    "0caff3b93": [
+      0,
+      1
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

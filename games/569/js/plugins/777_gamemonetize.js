@@ -1,0 +1,39 @@
+﻿//=================================================================================================
+// 777_gamemonetize.js
+//=================================================================================================
+/*:
+* @plugindesc gamemonetize sdk
+* @author 無名
+*
+*
+* @help
+* === 說明 ===
+* gamemonetize sdk
+* 調用出廣告: sdk.showBanner();
+*
+*
+*/
+window.SDK_OPTIONS = {
+      gameId: "5vi8khqoyp3ldh3p5b5i4kg6ba4dt9ey", // Fill the game_id
+      onEvent: function (a) {
+         switch (a.name) {
+            case "SDK_GAME_PAUSE":
+               // pause game logic / mute audio
+               break;
+            case "SDK_GAME_START":
+               // advertisement done, resume game logic and unmute audio
+               break;
+            case "SDK_READY":
+               // when sdk is ready
+               break;
+            case "SDK_ERROR":
+               // when sdk get error
+               break;
+         }
+      }
+   };
+(function (a, b, c) {
+   var d = a.getElementsByTagName(b)[0];
+   a.getElementById(c) || (a = a.createElement(b), a.id = c, 
+   a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+})(document, "script", "gamemonetize-sdk"); 
