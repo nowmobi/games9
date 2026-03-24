@@ -1,0 +1,31 @@
+{
+  "paths": {
+    "0": [
+      "images/yad",
+      0,
+      1
+    ],
+    "1": [
+      "images/yad",
+      1
+    ]
+  },
+  "types": [
+    "cc.SpriteFrame",
+    "cc.Texture2D"
+  ],
+  "uuids": [
+    "2cx8LBdrRH1q9fOPHwUQwl",
+    "c4KdNUfNBExYYnhh5qhuLm"
+  ],
+  "scenes": {},
+  "redirect": [],
+  "deps": [],
+  "packs": {},
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>halloween pumpkin Jigsaw Joyride</title>
+
+    <meta name="viewport" content="width=device-width,user-scalable=no,minimum-scale=1.0,minimal-ui=1" />
+    <!-- request GPU rasterization from Chrome browsers, where available -->
+    <!-- http://www.html5rocks.com/en/mobile/fullscreen/ -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="msapplication-tap-highlight" content="no" />
+    <!-- disable built-in tap highlight on windows phone ie10 and ie11 -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+
+
+    <style type="text/css">
+        body {
+            position: fixed;
+            /* prevent scrolling while the game is active */
+            margin: 0;
+            padding: 0;
+            background: #872f87;
+            border: none;
+            overflow: hidden;
+            user-select: none;
+            -moz-user_select: none;
+            -webkit-user-select: none;
+            -ms-user-select: none;
+        }
+    </style>
+
+
+    <!-- 3rd party libraries -->
+    <script type="text/javascript" src="lib/pixi_453pjb.min.js"></script>
+    <script type="text/javascript" src="lib/howler.min.js"></script>
+    <script type="text/javascript" src="lib/Tween.min.js"></script>
+    <script type="text/javascript" src="lib/mobile-detect.min.js"></script>
+    <script type="text/javascript" src="lib/stats.min.js"></script>
+    <script type="text/javascript" src="lib/ifvisible.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="app.js"></script>
+    <script type="text/javascript" src="GMsdk.js"></script>
+
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+
+
+<body>
+    <div id="focusDiv" tabindex="-1">
+        <script type="text/javascript">
+            new Main().createGame();
+        </script>
+
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "28VYuOv0dBsoxf7rqcG3u6"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "di3",
+      "rect": [
+        0,
+        0,
+        260,
+        201
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        260,
+        201
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

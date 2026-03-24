@@ -1,0 +1,1068 @@
+{
+  "paths": {
+    "0": [
+      "td/LAMP",
+      0
+    ],
+    "1": [
+      "cl/4",
+      0
+    ],
+    "2": [
+      "qz/WALLPAPER",
+      1,
+      1
+    ],
+    "3": [
+      "dm/FLOOR_INACTIVE",
+      0
+    ],
+    "4": [
+      "cl/item4",
+      0
+    ],
+    "5": [
+      "qz/item3",
+      0
+    ],
+    "6": [
+      "xuankuang_2",
+      1,
+      1
+    ],
+    "7": [
+      "cl/item2",
+      0
+    ],
+    "8": [
+      "cj/TABLE",
+      1,
+      1
+    ],
+    "9": [
+      "cj/TABLE_INACTIVE",
+      0
+    ],
+    "10": [
+      "guanbi",
+      1,
+      1
+    ],
+    "11": [
+      "dt/item4",
+      0
+    ],
+    "12": [
+      "qz/WALLPAPER_INACTIVE",
+      0
+    ],
+    "13": [
+      "dm/1",
+      0
+    ],
+    "14": [
+      "dikuang_1",
+      1,
+      1
+    ],
+    "15": [
+      "cl/CURTAIn",
+      0
+    ],
+    "16": [
+      "td/LAMP_INACTIVE",
+      1,
+      1
+    ],
+    "17": [
+      "td/0",
+      0
+    ],
+    "18": [
+      "cj/0",
+      0
+    ],
+    "19": [
+      "td/item1",
+      0
+    ],
+    "20": [
+      "qz/3",
+      0
+    ],
+    "21": [
+      "sf/2",
+      0
+    ],
+    "22": [
+      "dt/CARPET_INACTIVE",
+      0
+    ],
+    "23": [
+      "dt/3",
+      0
+    ],
+    "24": [
+      "dt/item2",
+      0
+    ],
+    "25": [
+      "dm/item4",
+      0
+    ],
+    "26": [
+      "dt/2",
+      0
+    ],
+    "27": [
+      "cj/TABLE",
+      0
+    ],
+    "28": [
+      "dt/4",
+      0
+    ],
+    "29": [
+      "jinyong",
+      0
+    ],
+    "30": [
+      "dm/FLOOR_INACTIVE",
+      1,
+      1
+    ],
+    "31": [
+      "td/LAMP_INACTIVE",
+      0
+    ],
+    "32": [
+      "qz/item4",
+      0
+    ],
+    "33": [
+      "cl/CURTAIn_INACTIVE",
+      0
+    ],
+    "34": [
+      "qz/WALLPAPER",
+      0
+    ],
+    "35": [
+      "dikuang_2",
+      0
+    ],
+    "36": [
+      "dm/3",
+      0
+    ],
+    "37": [
+      "cj/item2",
+      0
+    ],
+    "38": [
+      "qz/0",
+      0
+    ],
+    "39": [
+      "cl/CURTAIn_INACTIVE",
+      1,
+      1
+    ],
+    "40": [
+      "jiagekuang",
+      1,
+      1
+    ],
+    "41": [
+      "dikuang_1",
+      0
+    ],
+    "42": [
+      "dm/2",
+      0
+    ],
+    "43": [
+      "td/1",
+      0
+    ],
+    "44": [
+      "cl/CURTAIn",
+      1,
+      1
+    ],
+    "45": [
+      "dm/0",
+      0
+    ],
+    "46": [
+      "td/2",
+      0
+    ],
+    "47": [
+      "cj/item1",
+      0
+    ],
+    "48": [
+      "sf/COUCH_INACTIVE",
+      0
+    ],
+    "49": [
+      "cj/3",
+      0
+    ],
+    "50": [
+      "qz/WALLPAPER_INACTIVE",
+      1,
+      1
+    ],
+    "51": [
+      "qz/2",
+      0
+    ],
+    "52": [
+      "cl/2",
+      0
+    ],
+    "53": [
+      "jinyong",
+      1,
+      1
+    ],
+    "54": [
+      "sf/COUCH",
+      0
+    ],
+    "55": [
+      "cj/2",
+      0
+    ],
+    "56": [
+      "qz/item2",
+      0
+    ],
+    "57": [
+      "sf/item1",
+      0
+    ],
+    "58": [
+      "sf/COUCH_INACTIVE",
+      1,
+      1
+    ],
+    "59": [
+      "gouxuan",
+      0
+    ],
+    "60": [
+      "td/3",
+      0
+    ],
+    "61": [
+      "sf/3",
+      0
+    ],
+    "62": [
+      "dm/FLOOR",
+      0
+    ],
+    "63": [
+      "sf/item2",
+      0
+    ],
+    "64": [
+      "td/item3",
+      0
+    ],
+    "65": [
+      "jiagekuang",
+      0
+    ],
+    "66": [
+      "dm/item3",
+      0
+    ],
+    "67": [
+      "dt/CARPET",
+      0
+    ],
+    "68": [
+      "cj/item3",
+      0
+    ],
+    "69": [
+      "sf/0",
+      0
+    ],
+    "70": [
+      "dt/CARPET_INACTIVE",
+      1,
+      1
+    ],
+    "71": [
+      "sf/COUCH",
+      1,
+      1
+    ],
+    "72": [
+      "td/item2",
+      0
+    ],
+    "73": [
+      "dm/item1",
+      0
+    ],
+    "74": [
+      "dt/0",
+      0
+    ],
+    "75": [
+      "cj/TABLE_INACTIVE",
+      1,
+      1
+    ],
+    "76": [
+      "sf/item3",
+      0
+    ],
+    "77": [
+      "cl/1",
+      0
+    ],
+    "78": [
+      "cj/0",
+      1,
+      1
+    ],
+    "79": [
+      "sf/1",
+      0
+    ],
+    "80": [
+      "dt/1",
+      0
+    ],
+    "81": [
+      "dm/item2",
+      0
+    ],
+    "82": [
+      "dt/CARPET",
+      1,
+      1
+    ],
+    "83": [
+      "xuankuang_1",
+      0
+    ],
+    "84": [
+      "td/LAMP",
+      1,
+      1
+    ],
+    "85": [
+      "xuankuang_1",
+      1,
+      1
+    ],
+    "86": [
+      "dm/FLOOR",
+      1,
+      1
+    ],
+    "87": [
+      "dt/item3",
+      0
+    ],
+    "88": [
+      "qz/1",
+      0
+    ],
+    "89": [
+      "guanbi",
+      0
+    ],
+    "90": [
+      "dm/item5",
+      0
+    ],
+    "91": [
+      "qz/item1",
+      0
+    ],
+    "92": [
+      "cl/item1",
+      0
+    ],
+    "93": [
+      "dikuang_2",
+      1,
+      1
+    ],
+    "94": [
+      "xuankuang_2",
+      0
+    ],
+    "95": [
+      "dt/item1",
+      0
+    ],
+    "96": [
+      "dm/5",
+      0
+    ],
+    "97": [
+      "cj/1",
+      0
+    ],
+    "98": [
+      "dm/0",
+      1,
+      1
+    ],
+    "99": [
+      "cl/3",
+      0
+    ],
+    "100": [
+      "cl/item3",
+      0
+    ],
+    "101": [
+      "dm/4",
+      0
+    ],
+    "102": [
+      "cl/0",
+      0
+    ],
+    "103": [
+      "qz/4",
+      0
+    ],
+    "104": [
+      "td/item2",
+      1,
+      1
+    ],
+    "105": [
+      "qz/item3",
+      1,
+      1
+    ],
+    "106": [
+      "td/0",
+      1,
+      1
+    ],
+    "107": [
+      "dt/item4",
+      1,
+      1
+    ],
+    "108": [
+      "qz/1",
+      1,
+      1
+    ],
+    "109": [
+      "dm/item1",
+      1,
+      1
+    ],
+    "110": [
+      "dt/item1",
+      1,
+      1
+    ],
+    "111": [
+      "cl/3",
+      1,
+      1
+    ],
+    "112": [
+      "dm/item4",
+      1,
+      1
+    ],
+    "113": [
+      "sf/item2",
+      1,
+      1
+    ],
+    "114": [
+      "cj/2",
+      1,
+      1
+    ],
+    "115": [
+      "cl/1",
+      1,
+      1
+    ],
+    "116": [
+      "dm/item5",
+      1,
+      1
+    ],
+    "117": [
+      "gouxuan",
+      1,
+      1
+    ],
+    "118": [
+      "cl/0",
+      1,
+      1
+    ],
+    "119": [
+      "cl/2",
+      1,
+      1
+    ],
+    "120": [
+      "sf/0",
+      1,
+      1
+    ],
+    "121": [
+      "qz/3",
+      1,
+      1
+    ],
+    "122": [
+      "dm/2",
+      1,
+      1
+    ],
+    "123": [
+      "cl/item4",
+      1,
+      1
+    ],
+    "124": [
+      "sf/item1",
+      1,
+      1
+    ],
+    "125": [
+      "dm/4",
+      1,
+      1
+    ],
+    "126": [
+      "cj/item1",
+      1,
+      1
+    ],
+    "127": [
+      "sf/2",
+      1,
+      1
+    ],
+    "128": [
+      "cj/3",
+      1,
+      1
+    ],
+    "129": [
+      "qz/0",
+      1,
+      1
+    ],
+    "130": [
+      "qz/item4",
+      1,
+      1
+    ],
+    "131": [
+      "cj/item3",
+      1,
+      1
+    ],
+    "132": [
+      "cj/1",
+      1,
+      1
+    ],
+    "133": [
+      "dt/2",
+      1,
+      1
+    ],
+    "134": [
+      "dm/1",
+      1,
+      1
+    ],
+    "135": [
+      "dm/3",
+      1,
+      1
+    ],
+    "136": [
+      "cl/item2",
+      1,
+      1
+    ],
+    "137": [
+      "sf/item3",
+      1,
+      1
+    ],
+    "138": [
+      "dt/item3",
+      1,
+      1
+    ],
+    "139": [
+      "qz/2",
+      1,
+      1
+    ],
+    "140": [
+      "cl/4",
+      1,
+      1
+    ],
+    "141": [
+      "sf/1",
+      1,
+      1
+    ],
+    "142": [
+      "td/2",
+      1,
+      1
+    ],
+    "143": [
+      "dt/0",
+      1,
+      1
+    ],
+    "144": [
+      "td/item3",
+      1,
+      1
+    ],
+    "145": [
+      "cj/item2",
+      1,
+      1
+    ],
+    "146": [
+      "td/item1",
+      1,
+      1
+    ],
+    "147": [
+      "dm/item3",
+      1,
+      1
+    ],
+    "148": [
+      "dt/1",
+      1,
+      1
+    ],
+    "149": [
+      "qz/item2",
+      1,
+      1
+    ],
+    "150": [
+      "qz/item1",
+      1,
+      1
+    ],
+    "151": [
+      "dt/4",
+      1,
+      1
+    ],
+    "152": [
+      "dt/item2",
+      1,
+      1
+    ],
+    "153": [
+      "td/3",
+      1,
+      1
+    ],
+    "154": [
+      "td/1",
+      1,
+      1
+    ],
+    "155": [
+      "cl/item3",
+      1,
+      1
+    ],
+    "156": [
+      "qz/4",
+      1,
+      1
+    ],
+    "157": [
+      "dm/5",
+      1,
+      1
+    ],
+    "158": [
+      "cl/item1",
+      1,
+      1
+    ],
+    "159": [
+      "dm/item2",
+      1,
+      1
+    ],
+    "160": [
+      "sf/3",
+      1,
+      1
+    ],
+    "161": [
+      "dt/3",
+      1,
+      1
+    ]
+  },
+  "types": [
+    "cc.Texture2D",
+    "cc.SpriteFrame"
+  ],
+  "uuids": [
+    "01euthS99MX6E5GKVW8rVg",
+    "018atc6zBLlo8tMN2pQyf3",
+    "039tWqz8NNIp4W7/xMhrK0",
+    "06XaS77RBBhKXJ9UBZktB5",
+    "07ImYLpU1FY58cCoqZHmHv",
+    "09XBI5sGFKaoP2R7uToqWs",
+    "09zyLcWvJOY6SmkjqeZb17",
+    "0c3UodoupKv5aoaB6GLxYI",
+    "0dUXlS3xJHjZgnvDbaQ8bx",
+    "14JBpuDVVBsroewLufn0OH",
+    "1787C5v5xIMpUoVqIlPNcS",
+    "18ljziJMhNmYs244FPYRaP",
+    "1bIRAxZpZCVqoJ7WGnUCge",
+    "1ed688s9hPj7NQWp9rnRLy",
+    "24LTi5ovBMUoBImbGvZsWx",
+    "26oGSFkxRAd5fRHnjr087C",
+    "28yzQGv7dCZ4N8Vqo6AJ4x",
+    "2cekHvD2hH8JmYlANrp5/9",
+    "2crRGZ5IFAkK9p9ZA/pvpC",
+    "2dsUUmegVP8anAj6hhpx28",
+    "2eqpVT7clIaJKMxLygdMHd",
+    "2e6zyrFlZFdo3+jYAvXxVx",
+    "2fq06C8bZP+4Nfv/Yko0h2",
+    "308vqA6XxJh4rs8KYxWt/9",
+    "35xVRqJ7ZLbpd3HvNLcY5H",
+    "3cBJN+fSRLCZQ7GNvZkI5A",
+    "3cOwnUpZ5N2p5KfBMnymaY",
+    "3fhFe787dJ3Jmn3OrSGqmu",
+    "42N8+h8w5DlYt/ocLSvJXo",
+    "45RpvUuctOcJneamWIPDBT",
+    "46Ckq/Rr1IRbSimU7onpQN",
+    "47mTIYknZLUKeyaHRiRcRt",
+    "4aB6iG2SFG+rRnoeE5CiQI",
+    "4dGmJd8I1JKbgkHlSo+LGA",
+    "4d+ikv/SlBtZ2X/XhC9aof",
+    "4eZFMLNd5OXY1njbW7WTsa",
+    "4e2ByH7TlEmrhL97uvd7iW",
+    "54wBit+A5ChoSNp6i3sE94",
+    "55oqy5ZjlJCpkE9W1sv6IX",
+    "63qRObJ09AGL3oAu0uFKEb",
+    "6bAgD1C9RFH4bAlMUpzwzc",
+    "6bhKORGENFUooJw0132okX",
+    "6cwq2tC91CqqFXKirU8Yh+",
+    "70A/odgUhElqy5UgFG7R8F",
+    "706CZ2IUdOtY6EwfJro3ua",
+    "72WeZamAZLgZX5se2SryAi",
+    "72uNiNvG9JwpTluo8BW3gr",
+    "73MDSa2YFHErautt09i4PG",
+    "76HwaekuJLHIh7qG/4OOWb",
+    "83fdSf6mdIAK0PlDXm8WqI",
+    "86OKKqG4FLC5hE6rdsoaVv",
+    "873tSPgStP+oeLg3Eh51+y",
+    "90BQzzDK5LGY7uFMvX/lyw",
+    "90Xv6AsnFLPrXA4I2vGrw0",
+    "92mFTKiw9JCadPPqhMKPTC",
+    "94WFiklnxJ1azCiFF9FIDN",
+    "94ea1/vSVL4byKhEcAt9m+",
+    "95Ii8sN6pGspPG1hQDRbq0",
+    "95UslewL1Nro35b2GQ5WTL",
+    "9bJaWgCTlJhYMlVCiXNfpz",
+    "9dDan4b2dLc47UeKH2HF2H",
+    "9fuoeKdlFNNbyRZ5wjR5Sk",
+    "a0Br888HtC+aOF3bnggVNp",
+    "a2j5iYe61NzqWGUMHT4I+B",
+    "a3j9VsgHpPGrE8OxfTQUI4",
+    "a6CErnKKpEFJ4o6tt7TLg0",
+    "a7jMo6FS5AWq3uc4vHPR8/",
+    "a9OLpONbJJm7oBqzLxjeTG",
+    "abMTfrpaJIG57y2aaWRBxn",
+    "af4zLputJG9aNNNsIpJS9J",
+    "b0OfdyWmxICrJ54WcTCphH",
+    "b0fuL2FXxALIwGVmm3VYQ5",
+    "b74NjxjHBL17CHwITipwVJ",
+    "b9j55s7kxPq7U6gpviUQSx",
+    "bb92jW73NDTY//B5nDoqYV",
+    "c5Bq2ZERNBiJ9R4Q3Qh2p1",
+    "c8rIOzyn1Ojocf6Bwf5j/k",
+    "caqebNYOxAoqcSl27MOO6f",
+    "ce6Ji3481FrrcF147DhozM",
+    "cfQeup4U5BMYKYKb0Dx0Pd",
+    "d0Ntw/031Nl6Lx8GLxIcbH",
+    "d2kXZwPLVBeJ0OWDDqCKYl",
+    "d6e8Fxad1Pio7h7KU9kfCR",
+    "d8upMIUeRAmq9ZrH5fD8WI",
+    "dfavHkB1dE1J1FY8AB90wv",
+    "e3kYUXe4pMd5fj7TYA9Q9l",
+    "e3zUN6Aj5MAZPGEGcZY/Kn",
+    "e5JDEfSZ5Lv5x82T60yNDd",
+    "eaPFg1PjFN9KL25h+Do3Ti",
+    "ebTkJWsn9C0qTF9s8wBKD7",
+    "eccH+LCBpLk5a253zJajsB",
+    "edZzJmeUlPw7DUK4ucjh1M",
+    "efF6QI+11GJ5kT1fFjrNeJ",
+    "efaqjC9jlAMrCH1FvrHkJf",
+    "f1e4CFdhhF4Kzmce7uQP6X",
+    "f18nUR3ZZOvI3uw081Z7xH",
+    "f4x6WKCV1Cvp3LH5fxDNmH",
+    "f5OxsfVZZDoo/5CdUd+7f6",
+    "favOaDFThCR7dew/oBF+F7",
+    "fbyLB1wZdImaJvyCFh9tpa",
+    "fcMjDerRxKi6So/XdwEnuP",
+    "fd2co8KzxGQbJc7JvLF8iH",
+    "feztTJWHhM/Yq/nX+wpxZQ",
+    "ffjlijTclHWpQhTxOCK9X4",
+    "012HoFpXdJm5ngcOL5f8SB",
+    "03PuirVENOUKdQW7chswC6",
+    "08l6jqh4VKqoZrthq/YBZS",
+    "0aOR/gt01LZ7saVyEYkjDe",
+    "12ym36qBRJvKQpz+j3tGhh",
+    "14SibuofFLIZMqihIvI1Wq",
+    "1c2dEQSPJADINF2buc9KdE",
+    "1fHcy7QE1Od67qRqXLQs8Q",
+    "21rEVg33BER4TPc0axJT+/",
+    "2e0EmEJ0VM+b+6HZHtDSyD",
+    "34bCHivOJPPrLocDzP9Yg4",
+    "36N6jTPKNMJZ+y6JQdebzt",
+    "37FY632wBPs427qBhfB3Wg",
+    "375ZqRVRBGQoiqGyOzQS1k",
+    "39ZKxh+JNCMZYJb+MLZ2F2",
+    "3egHaq69pIhocmzSeg5Bch",
+    "45KOzTNv1G7acCH0ra+EpM",
+    "45l/TKilFHN6qFFbkMfjXY",
+    "4eByydEcJFR5mcmpGHq+mg",
+    "5aHgziuLVNALLyv/E5urj/",
+    "5d0mTEoaZNuL7G6KW0XfMB",
+    "69csVhJcZIHp0M8bxDYaka",
+    "6bJth115FLdo33scei+X+u",
+    "6fBZ3vkj5FjafQuG5cFAgE",
+    "6fTXqBdzNO8KpWvLvQjZnL",
+    "6fxScGBqVMhLLBeHSDs9Oq",
+    "72nBf/W79EcpCs79BErc3V",
+    "75UeIEosZHbYbEJdDSs5jP",
+    "76xi9xcmRJ54O6939wPKpW",
+    "7evThZEupNh6VGomK6bB3t",
+    "7fqlEtPpJE3Zl9s9Mcugtp",
+    "801ZpWMphEuYlPKlM/7GHi",
+    "813f2b5LpOUYsn6LC0opNP",
+    "8eSXeojIRP9LD2kYE95rIP",
+    "9360tGcDVG+azhUgOUU6ay",
+    "9ewi41FI5FuZdpLXp9gqOz",
+    "a2prLyUKhFirambT4p1vUu",
+    "a9bqdvlQlO9Kor6XA9HJtK",
+    "acJtGSSiFDD74HKj4z+Lnj",
+    "b2wGyjskJL+Ylix+oC3hmJ",
+    "b53Kks23pF+onTdzFHcFQk",
+    "b6dXE+2UtHc4Pjl0X5daPQ",
+    "b7ezjP5RREBYr89ErQBowY",
+    "b93J7Ty6xBr5EOqCDJ56BO",
+    "bd3zy/sAdI/oHASWd9iK06",
+    "c50BArL6NAvK0DW77JNeHb",
+    "cbb1gQEN5B0aOmEYNPAB9b",
+    "d58iKF9kNJ57WTAqdUVQkD",
+    "d7dQT0yElHUJ9Bd+eSbhRe",
+    "dekdMf9gtAk6S2d1+xdbTk",
+    "e4JmjuiDpNiY4ySF6ErLm9",
+    "ecl2H13ABMBJpcgper6pR5",
+    "ed1G9lRcdB577My3XjCA+/",
+    "f4SOq/yYFI54sEEdmhTGvH",
+    "f7Jg6sIwpONLCXrkVHOcK5",
+    "fdDnMmR+tEOruJKZfGFdbS",
+    "fdhZmyLT9Ny4OF6OsIzy+e",
+    "feWXYdGphHFYzUFLhfAg+a"
+  ],
+  "scenes": {},
+  "redirect": [
+    0,
+    0,
+    2,
+    0,
+    3,
+    0,
+    6,
+    0,
+    8,
+    0,
+    9,
+    0,
+    10,
+    0,
+    12,
+    0,
+    14,
+    0,
+    15,
+    0,
+    16,
+    0,
+    18,
+    1,
+    22,
+    0,
+    27,
+    0,
+    29,
+    0,
+    30,
+    0,
+    31,
+    0,
+    33,
+    0,
+    34,
+    0,
+    35,
+    0,
+    39,
+    0,
+    40,
+    0,
+    41,
+    0,
+    44,
+    0,
+    45,
+    1,
+    48,
+    0,
+    50,
+    0,
+    53,
+    0,
+    54,
+    0,
+    58,
+    0,
+    62,
+    0,
+    65,
+    0,
+    67,
+    0,
+    70,
+    0,
+    71,
+    0,
+    75,
+    0,
+    78,
+    1,
+    82,
+    0,
+    83,
+    0,
+    84,
+    0,
+    85,
+    0,
+    86,
+    0,
+    89,
+    0,
+    93,
+    0,
+    94,
+    0,
+    98,
+    1
+  ],
+  "deps": [
+    "resources",
+    "main"
+  ],
+  "packs": {
+    "0f378c1d3": [
+      1,
+      4,
+      5,
+      7,
+      11,
+      13,
+      17,
+      19,
+      20,
+      21,
+      23,
+      24,
+      25,
+      26,
+      28,
+      32,
+      36,
+      37,
+      38,
+      42,
+      43,
+      46,
+      47,
+      49,
+      51,
+      52,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      63,
+      64,
+      66,
+      68,
+      69,
+      72,
+      73,
+      74,
+      76,
+      77,
+      79,
+      80,
+      81,
+      87,
+      88,
+      90,
+      91,
+      92,
+      95,
+      96,
+      97,
+      99,
+      100,
+      101,
+      102,
+      103
+    ]
+  },
+  "name": "decorate",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

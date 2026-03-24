@@ -1,0 +1,235 @@
+timeSyncInterval: 60 # 同步时间的时间间隔秒
+
+# 游戏相关配置
+game:
+  isDragMatch: false # 操作模式：拖拽或点击
+  freezeDruation: 5 # 冻结时间道具持续时长
+  freezePrice: 10 # 冻结时间道具价格
+  removePrice: 10 # 自动消除道具价格
+  freeCoin: 20 # 商店免费金币数量
+  startBuffGameTime: 300 # 开局奖励游戏时长加成
+  startBuffComboTime: 0.3 # 开局奖励连击时间加成
+  toyPutInRate: [6,4] # 玩具投放比例，普通道具与稀有道具出现占比
+  reliveAddCoin: 10 # 复活加金币数量
+  levelChestMax: 5 # 关卡宝箱每几关可开启
+  levelChestAddCoin: 10 # 关卡宝箱开启加金币数量
+  starChestMax: 1000 # 星星宝箱每多少颗可开启
+  starChestAddCoin: 10 # 星星宝箱开启加金币数量
+  starChestUnlockToyRate: 0.1 # 星星宝箱开启解锁稀有玩具概率
+  pigChestMax: 100 # 金猪宝箱最大储存量
+  pigChestPayCount: 2 # 金猪宝箱开启看视频次数
+  pigChestAddCoin: 10 # 金猪宝箱每次关卡胜利加金币数量
+  comboDuration: 10 # 连击持续时长
+  comboCount: [3,5,10,15,20]
+  comboTime: [8,7,6,5,4]
+
+bigame:
+  bytedanceOn: false
+  platform: 'wechat'
+  # platform: 'oppo'
+  # platform: 'vivo'
+  # platform: 'bytedance'
+
+  oppoNativeBannerLaybackshow: 0 # 移动底部banner功能
+  bytedancShareAvatar: 'item_hero09'
+
+  wxStartGameAd: false
+  wxWhiteListForce: false
+  wxGameEndAdWinState: 1 # 0 关闭，1弹引流，2弹插页
+  wxGameEndAdLoseState: 1 # 0 关闭，1弹引流，2弹插页
+
+# 广告展示相关配置
+adShowRule:
+  performanceMatter: false # 禁止在战斗过程中尝试重新加载广告
+  showBannerStartLevel: 2 # 第几关后开始显示banner
+  showInterstitialStartLevel: 2 # 第几关后显示插页
+  showInterstitialInterval: 1 # 每隔几次显示插页
+
+# 计费点配置
+payPoints:
+  start_game_big_person: # 大力士开局
+    type: video
+
+  game_add_3dice: # 游戏内增加三个骰子
+    type: video
+
+  game_cd_half: # 骰子CD减半
+    type: video
+
+  game_big_person: # 游戏内小人变大
+    type: video
+
+  shop_unlock:  # 商店解锁角色
+    type: coin
+
+  shop_unlock_video:  # 商店解锁角色
+    type: video
+
+  sign_double_reward:  # 签到双倍领取
+    type: video
+
+  game_end_3x_reward:  # 三倍奖励
+    type: video
+
+  free_new_skin:
+    type: video
+
+  home_person_lvup_video:
+    type: video
+
+  home_power_lvup_video:
+    type: video
+
+  shop_add_coin:  # 商店加金币
+    type: video
+  relive: # 复活
+    type: video
+  lucky_draw: # 胜利结算摇奖
+    type: video
+  pig_chest:  # 开金猪
+    type: video
+    entryScale: true
+  start_buff:  # 开局奖励
+    type: video
+    entryScale: true
+  buy_power:  # 游戏内道具购买
+    type: video
+
+hack: # 套路控制
+  payPointEntrySwapRule: [ 0 ] # 交换计费点按钮的位置规则 0: 计费在上跳过在下，1跳过在上计费在下
+
+share: # 分享配置
+  maxShareTimePerDay: 2 # 每天最多成功分享次数
+  params: #分享参数配置
+    templateId: 1h1qddii6om2n6qpn2 # 分享模板 ID
+    title: 大力出奇迹 # 标题
+    desc: 大力pk我最强！ # 文字内容
+    imageUrl:  # 图片地址
+    videoTopics: ["大力出奇迹", "抖音小游戏"] # 视频话题(仅抖音支持) ，目前由 hashtag_list 代替，为保证兼容性，建议同时填写两个。
+    video_title: null # 生成输入的默认文案
+    hashtag_list: null # 视频话题(仅抖音支持)
+    defaultBgm:  # 抖音 pgc 音乐的短链(仅抖音支持，需要基础库版本大于 1.90) 。
+    videoTag: null # 分享视频的标签，可以结合获取抖音视频排行榜使用
+
+ads: # 广告配置
+  bytedance:
+    banner: # Banner 广告
+      id: 87nrdmo8pk75na7ks7 # 广告 ID
+      refreshIntervals: 30 # 刷新频率（秒）
+      size: small # 尺寸，small 或 big
+    interstitial: # 插页广告
+      id: 56pn815a8n7hn4cki7 # 广告 ID
+    rewardVideo: # 激励视频广告
+      id: 1e137jb11hcb18n3c9 # 广告 ID
+  wechat:
+    dummy: false
+    banner: # Banner 广告
+      id: adunit-2874d2e537f6af15 # 广告 ID
+      refreshIntervals: 30 # 刷新频率（秒）
+      size: small # 尺寸，small 或 big
+    interstitial: # 插页广告
+      id: adunit-7946a92ec1264250 # 广告 ID
+    rewardVideo: # 激励视频广告
+      id: adunit-e77a1b0db3d9576a # 广告 ID
+  oppo:
+    normalBanner: # 普通Banner 广告
+      id: 305105 # 广告 ID
+      size: small # 尺寸，small 或 big
+    boxBanner: # 互推盒子Banner广告
+      id: 305111 # 广告 ID
+    rewardVideo: # 激励视频广告
+      id: 305107 # 广告 ID
+    nativeAd: # 原生广告
+      id: 305113 # 广告 ID
+  vivo:
+    banner: # Banner 广告
+      id: 76a56684474643efa1691df085c17edb # 广告 ID
+      refreshIntervals: 30 # 刷新频率（秒）
+    interstitial: # 插页广告
+      id: 4e45c5c85d0e40e88e8a61ee5ebdfe1c # 广告 ID
+    rewardVideo: # 激励视频广告
+      id: c4f235de87944c4c8f539d54d130e9d1 # 广告 ID
+    nativeAd: # 原生广告
+      id: 0606ab05e2f448c3a6087a2c412f50f6 # 广告 ID
+
+forceLogin: true # 强制用户登录一次游戏
+postScore: true # 上报分数
+leaderboard: # 排行榜相关
+  enabled: true # 开启排行榜功能
+  defaultDuration: 1 # 默认时间维度 0 天 1 周
+
+rules:
+  # 开启作弊
+  cheatOn: true
+
+  hideLeaderBoard: false
+  hideBannerAd: false
+
+  # 结算获得金币
+  coinEarn:
+    win: 30
+    lose: 10
+
+  # 赢/输给高段位
+  rankHigher:
+    win: 7
+    lose: 0
+
+  # 赢/输给低段位
+  rankLower:
+    win: 3
+    lose: 0
+
+  # 赢/输给相同段位
+  rankEqual:
+    win: 5
+    lose: 0
+
+  # 发射充能时间
+  chargeTime: 5
+
+  # 骰子结算时间(s)
+  diceCalculateTime: 1.2
+
+  # 击中小人回弹系数
+  personHitRestitutionFactor: 1.9
+
+  # 挡板旋转半径
+  blockRadius: 3
+
+  # 挡板旋转速度时间系数
+  blockRotSpeedFactor: 1000
+
+  # 骰子摩擦力系数
+  diceFriction: 0.6
+  # 骰子弹力
+  diceRestitution: 0.4
+
+  # 地面摩擦力
+  platformFriction: 0.8
+  # 地面弹力
+  platformRestitution: 0.1
+
+  # 匹配
+  match:
+    lower: 0.8
+    higher: 1.2
+
+  # AI每秒攻击概率
+  ai0AttackRate: 0.2
+  ai1AttackRate: 0.6
+  ai2AttackRate: 0.9
+
+  # 新手局数（AI会强制为1001）
+  newbieGameNum: 10
+  # 刷绿色皮肤的局数（只有一个饰品解锁）
+  uncommonSkinGameNum: 3
+
+  # 持有骰子个数限制，-1为无限，达到上限之后不会再转CD
+  diceLimit: 1
+
+  vivo:
+    shortcutSkin: ''
+
+  oppo:
+    shortcutSkin: ''

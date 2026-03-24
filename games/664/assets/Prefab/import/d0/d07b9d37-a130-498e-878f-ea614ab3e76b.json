@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "1af4325e1"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "level_hongQuan",
+      "rect": [
+        291,
+        610,
+        175,
+        175
+      ],
+      "offset": [
+        0,
+        0
+      ],
+      "originalSize": [
+        175,
+        175
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

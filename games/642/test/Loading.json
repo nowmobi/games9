@@ -1,0 +1,143 @@
+{
+  "type": "View",
+  "props": {
+    "width": 750,
+    "top": 0,
+    "right": 0,
+    "left": 0,
+    "height": 1334,
+    "bottom": 0
+  },
+  "compId": 2,
+  "child": [
+    {
+      "type": "Image",
+      "props": {
+        "skin": "gameUI/bg_loading.jpg",
+        "name": "fullUI",
+        "centerY": 0,
+        "centerX": 0
+      },
+      "compId": 19,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "y": 246,
+            "x": 123,
+            "visible": false,
+            "skin": "gameUI/logo.png"
+          },
+          "compId": 20
+        }
+      ]
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 0,
+        "x": 0,
+        "width": 750,
+        "top": 0,
+        "name": "topUI",
+        "mouseThrough": true,
+        "height": 640,
+        "centerX": 0
+      },
+      "compId": 12
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 347,
+        "x": 0,
+        "width": 750,
+        "name": "middleUI",
+        "mouseThrough": true,
+        "height": 640,
+        "centerY": 0,
+        "centerX": 0
+      },
+      "compId": 13
+    },
+    {
+      "type": "Box",
+      "props": {
+        "y": 694,
+        "x": 0,
+        "width": 750,
+        "name": "bottomUI",
+        "mouseThrough": true,
+        "height": 640,
+        "centerX": 0,
+        "bottom": 0
+      },
+      "compId": 14,
+      "child": [
+        {
+          "type": "Image",
+          "props": {
+            "y": 369,
+            "skin": "gameUI/bar_00.png",
+            "sizeGrid": "0,33,0,32",
+            "name": "loding_bg",
+            "centerX": 0
+          },
+          "compId": 21,
+          "child": [
+            {
+              "type": "Panel",
+              "props": {
+                "y": 2,
+                "x": 2,
+                "width": 524,
+                "name": "lodingVal",
+                "height": 50
+              },
+              "compId": 23,
+              "child": [
+                {
+                  "type": "Image",
+                  "props": {
+                    "skin": "gameUI/bar_01.png",
+                    "sizeGrid": "0,26,0,24"
+                  },
+                  "compId": 24
+                }
+              ]
+            },
+            {
+              "type": "Label",
+              "props": {
+                "y": 70,
+                "text": "100%",
+                "strokeColor": "#000000",
+                "stroke": 3,
+                "name": "progressText",
+                "fontSize": 50,
+                "color": "#ffffff",
+                "centerX": 0,
+                "bold": true
+              },
+              "compId": 31
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Script",
+      "props": {
+        "runtime": "LayaLoading.ts"
+      },
+      "compId": 32
+    }
+  ],
+  "loadList": [
+    "gameUI/bg_loading.jpg",
+    "gameUI/logo.png",
+    "gameUI/bar_00.png",
+    "gameUI/bar_01.png"
+  ],
+  "loadList3D": []
+}

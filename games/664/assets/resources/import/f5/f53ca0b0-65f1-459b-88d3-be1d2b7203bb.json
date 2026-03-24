@@ -1,0 +1,386 @@
+[
+  1,
+  0,
+  0,
+  [
+    [
+      "cc.JsonAsset",
+      [
+        "_name",
+        "json"
+      ],
+      1
+    ]
+  ],
+  [
+    [
+      0,
+      0,
+      1,
+      3
+    ]
+  ],
+  [
+    [
+      0,
+      "levelDate",
+      [
+        {
+          "levelnumber": 1,
+          "levelname": "Who's the man",
+          "levelmubiao": "Which of the three is the man?",
+          "leveltishi": "See whose legs have leg hair",
+          "levelwin": "You're quite a little wit!"
+        },
+        {
+          "levelnumber": 2,
+          "levelname": "Who will die?",
+          "levelmubiao": "Which one of them is going to die?",
+          "leveltishi": "Knock the gun out of his hand",
+          "levelwin": "This board is too weak."
+        },
+        {
+          "levelnumber": 3,
+          "levelname": "Who will be rescued?",
+          "levelmubiao": "Which one of them is easy to be rescued?",
+          "leveltishi": "It's easier to be rescued with a flare gun",
+          "levelwin": "With a flare gun in hand, there's more hope for rescue, right?"
+        },
+        {
+          "levelnumber": 4,
+          "levelname": "Rescue the Flower",
+          "levelmubiao": "Rescue the wilted flower",
+          "leveltishi": "Let the wilted flower get some sunlight.",
+          "levelwin": "I'll say thank you on Flower's behalf. That's very kind of you."
+        },
+        {
+          "levelnumber": 5,
+          "levelname": "Where's the code?",
+          "levelmubiao": "What's the Password",
+          "leveltishi": "What does the flash show?",
+          "levelwin": "Surprised? There's a pretty girl at the door. "
+        },
+        {
+          "levelnumber": 6,
+          "levelname": "Vampire",
+          "levelmubiao": "Who is the fake vampire",
+          "leveltishi": "Slide the moon down the hill.",
+          "levelwin": "Is the man in the center cosplaying?"
+        },
+        {
+          "levelnumber": 7,
+          "levelname": "Find the clues",
+          "levelmubiao": "Find the clues in the picture",
+          "leveltishi": "Find the items in order.",
+          "levelwin": "Next time you can turn on the light, it's easier to find."
+        },
+        {
+          "levelnumber": 8,
+          "levelname": "Criminal",
+          "levelmubiao": "Restore the prisoner  photo",
+          "leveltishi": "Restore the prisoner's photo",
+          "levelwin": "You've got the look of a little detective."
+        },
+        {
+          "levelnumber": 9,
+          "levelname": "Five stars.",
+          "levelmubiao": "Please rate our game.",
+          "leveltishi": "Just write 5 stars!",
+          "levelwin": "Have you ever seen such a cheeky development team?"
+        },
+        {
+          "levelnumber": 10,
+          "levelname": "Ghost Girl",
+          "levelmubiao": "Who's in the room?",
+          "leveltishi": "Light up the bulbs quickly.",
+          "levelwin": "This is just a girl who gets up late at the night to go to the bathroom"
+        },
+        {
+          "levelnumber": 11,
+          "levelname": "Thief",
+          "levelmubiao": "Thief",
+          "leveltishi": "Use the scanner to check them.",
+          "levelwin": "No one can escape the eyes of technology."
+        },
+        {
+          "levelnumber": 12,
+          "levelname": "Who's the werewolf?",
+          "levelmubiao": "Who's the werewolf?",
+          "leveltishi": "Try turning the lights off",
+          "levelwin": "Don't turn off the lights at the party. There may be a surprise."
+        },
+        {
+          "levelnumber": 13,
+          "levelname": "Who's the wife?",
+          "levelmubiao": "Who is his wife",
+          "leveltishi": "There are marriage licenses in the men's hands.",
+          "levelwin": "This man is so happy!"
+        },
+        {
+          "levelnumber": 14,
+          "levelname": "Who's lazy",
+          "levelmubiao": "Who's lazy",
+          "leveltishi": "The man in the center isn't using his legs.",
+          "levelwin": "He's probably on the verge of being beaten"
+        },
+        {
+          "levelnumber": 15,
+          "levelname": "Find the rooster",
+          "levelmubiao": "Find the rooster",
+          "leveltishi": "It's a rooster, not a hen.",
+          "levelwin": "Amazing, you can even tell the difference between a rooster and a hen."
+        },
+        {
+          "levelnumber": 16,
+          "levelname": "Pregnant",
+          "levelmubiao": "Who's not pregnant?",
+          "leveltishi": "Try to slide their stomachs down",
+          "levelwin": "I think she just really likes cake"
+        },
+        {
+          "levelnumber": 17,
+          "levelname": "Fake statue?",
+          "levelmubiao": "Which of them is not a statue?",
+          "leveltishi": "Tickle their noses with the leaf.",
+          "levelwin": "He's actually just doing performance art."
+        },
+        {
+          "levelnumber": 18,
+          "levelname": "Wake Up Kitten",
+          "levelmubiao": "Wake Up Kitten",
+          "leveltishi": "If it doesn't wake up, just keep tapping it",
+          "levelwin": "I hope you woke him up gently, or he'll scratch."
+        },
+        {
+          "levelnumber": 19,
+          "levelname": "Who's lying?",
+          "levelmubiao": "Who's lying?",
+          "leveltishi": "There's a secret in the woman's bag.",
+          "levelwin": "Why are there so many philanderers these days?"
+        },
+        {
+          "levelnumber": 20,
+          "levelname": "Men in danger",
+          "levelmubiao": "Who's sincere to her?",
+          "leveltishi": "The man on the left is married and the man on the right is a wanted man",
+          "levelwin": "The man on the left is wearing an engagement ring. The man on the right is a wanted criminal."
+        },
+        {
+          "levelnumber": 21,
+          "levelname": "Find the phone",
+          "levelmubiao": "Have you seen my phone?",
+          "leveltishi": "Look under the pillows.",
+          "levelwin": "Does it look like you do before going out every day?"
+        },
+        {
+          "levelnumber": 22,
+          "levelname": "Mistress",
+          "levelmubiao": "Mistress",
+          "leveltishi": "The pieces on the ground are wedding photos",
+          "levelwin": "Fire, theft and mistress prevention"
+        },
+        {
+          "levelnumber": 23,
+          "levelname": "Princess Party",
+          "levelmubiao": "Who is Cinderella",
+          "leveltishi": "Try turning the clock to 12 o'clock.",
+          "levelwin": "Cinderella in a maid's outfit is actually a bit more charming"
+        },
+        {
+          "levelnumber": 24,
+          "levelname": "Water Glasses",
+          "levelmubiao": "Which cup has more water",
+          "leveltishi": "Take everything out of the cup",
+          "levelwin": "Amazing! Why didn't I think of that?"
+        },
+        {
+          "levelnumber": 25,
+          "levelname": "Fighting Game",
+          "levelmubiao": "Who will win",
+          "leveltishi": "Drag the blood bar of the strong man to 0.",
+          "levelwin": "Haha, is this cheating?"
+        },
+        {
+          "levelnumber": 26,
+          "levelname": "Murderer",
+          "levelmubiao": "Murderer",
+          "leveltishi": "Take a brush and scrub the area around the dead.",
+          "levelwin": "So don't mess with women"
+        },
+        {
+          "levelnumber": 27,
+          "levelname": "Real or Fake ",
+          "levelmubiao": "Money Detector",
+          "leveltishi": "Take the money one by one and check for authenticity.",
+          "levelwin": "The real is not always real and the fake is not always fake"
+        },
+        {
+          "levelnumber": 28,
+          "levelname": "Agent",
+          "levelmubiao": "Agent",
+          "leveltishi": "Put the umbrella in his hand and hit the stoplight.",
+          "levelwin": "It turns out blind people can be cool, too!"
+        },
+        {
+          "levelnumber": 29,
+          "levelname": "Programmer",
+          "levelmubiao": "Who's the programmer",
+          "leveltishi": "The programmer is probably wearing a wig.",
+          "levelwin": "Marry a programmer, rich money, talk rarely and die early."
+        },
+        {
+          "levelnumber": 30,
+          "levelname": "Memory Game",
+          "levelmubiao": "Memory Game",
+          "leveltishi": "It's time to test your memory.",
+          "levelwin": "Your short-term memory is also outstanding!"
+        },
+        {
+          "levelnumber": 31,
+          "levelname": "Who's the Man 2",
+          "levelmubiao": "Who's the Man 2",
+          "leveltishi": "Pour water on their faces.",
+          "levelwin": "Your bestie is probably a real man."
+        },
+        {
+          "levelnumber": 32,
+          "levelname": "Who's the mom?",
+          "levelmubiao": "Who's the baby's mama",
+          "leveltishi": "Try moving the moms out of the screen",
+          "levelwin": "Babies cry when they can't see their moms"
+        },
+        {
+          "levelnumber": 33,
+          "levelname": "Sports Sort",
+          "levelmubiao": "Sort the soccer balls and basketballs",
+          "leveltishi": "Soccer balls, sneakers, yellow cards are a category",
+          "levelwin": "Common sense for sports enthusiasts."
+        },
+        {
+          "levelnumber": 34,
+          "levelname": "Who will win?",
+          "levelmubiao": "Who will win the game?",
+          "leveltishi": "Someone's shoelace is untied, and someone's leg is injured.",
+          "levelwin": "#5 Shoelace is untied, #6 leg is injured, #1 so will win the game."
+        },
+        {
+          "levelnumber": 35,
+          "levelname": "Aliens",
+          "levelmubiao": "Who's the alien?",
+          "leveltishi": "There are two doll costumes that can be taken off.",
+          "levelwin": "Bidi Bidi, Bubba Bubba!"
+        },
+        {
+          "levelnumber": 36,
+          "levelname": "Reach the End",
+          "levelmubiao": "Help the character reach the finish",
+          "leveltishi": "It's time to test your memory",
+          "levelwin": "Is this so easy for you now?"
+        },
+        {
+          "levelnumber": 37,
+          "levelname": "Animal Party",
+          "levelmubiao": "Click on the items in the following order",
+          "leveltishi": "Click on the items in order, not in the wrong order.",
+          "levelwin": "Animals are good friends of human beings, we must live in harmony with them"
+        },
+        {
+          "levelnumber": 38,
+          "levelname": "Tall Montain",
+          "levelmubiao": "Which mountain is the highest",
+          "leveltishi": "Of course, the mountain at the top is the highest.",
+          "levelwin": "It's a bit of a brain teaser, isn't it?"
+        },
+        {
+          "levelnumber": 39,
+          "levelname": "Torn clothes",
+          "levelmubiao": "How many holes are in the shirt?",
+          "leveltishi": "There are 9 holes in the clothes.",
+          "levelwin": "Wow, you seem to have a keen eye for detail."
+        },
+        {
+          "levelnumber": 40,
+          "levelname": "Spin it up",
+          "levelmubiao": "Spin it up",
+          "leveltishi": "Just spin the center wheel",
+          "levelwin": "The wheels go round and round and good luck rolls in"
+        },
+        {
+          "levelnumber": 41,
+          "levelname": "Extra items",
+          "levelmubiao": "Find out which item is redundant",
+          "leveltishi": "Toothpaste is redundant because there is no toothbrush",
+          "levelwin": "Toothpaste is redundant because there is no toothbrush"
+        },
+        {
+          "levelnumber": 42,
+          "levelname": "Over the cliff",
+          "levelmubiao": "Help the boy jump over the cliff",
+          "leveltishi": "Move the stone and give the milk to the boy.",
+          "levelwin": "That's why milk is good for the body."
+        },
+        {
+          "levelnumber": 43,
+          "levelname": "Emoji",
+          "levelmubiao": "How many emojis below is",
+          "leveltishi": "Don't forget the one hiding in the question.",
+          "levelwin": "Looks like you already know the tricks of the trade."
+        },
+        {
+          "levelnumber": 44,
+          "levelname": "How many balls",
+          "levelmubiao": "How many bubbles are down there?",
+          "leveltishi": "Pop the bubbles and see how many are left.",
+          "levelwin": "When I was a kid, I loved popping bubbles."
+        },
+        {
+          "levelnumber": 45,
+          "levelname": "Thieves",
+          "levelmubiao": "Find all the thieves",
+          "leveltishi": "Thieves hide behind crowds and houses",
+          "levelwin": "As long as it's a thief, no matter where he hides, the police will find him."
+        },
+        {
+          "levelnumber": 46,
+          "levelname": "Corresponds to each other",
+          "levelmubiao": "Match numbers to items",
+          "leveltishi": "Look carefully at the characteristics of the objects.",
+          "levelwin": "Life is filled with numbers"
+        },
+        {
+          "levelnumber": 47,
+          "levelname": "Green Ball",
+          "levelmubiao": "Find all the green balls",
+          "leveltishi": "Blue and yellow can also be combined to make green balls.",
+          "levelwin": "You've got a good grasp of colors!"
+        },
+        {
+          "levelnumber": 48,
+          "levelname": "Baby don't cry",
+          "levelmubiao": "Stop baby from crying",
+          "leveltishi": "Open the window and the birdcage. The birds will fly away.",
+          "levelwin": "The bird is free and the baby is happy"
+        },
+        {
+          "levelnumber": 49,
+          "levelname": "Occupation Sorting",
+          "levelmubiao": "Sort the police and firemen",
+          "leveltishi": "Handcuffs, pistol, baton are for cops",
+          "levelwin": "They are the guardians of daily life"
+        },
+        {
+          "levelnumber": 50,
+          "levelname": "What time is it?",
+          "levelmubiao": "What time is it?",
+          "leveltishi": "Please enter the real time now.",
+          "levelwin": "You can even think of this, it's awesome!"
+        }
+      ]
+    ]
+  ],
+  0,
+  0,
+  [],
+  [],
+  []
+]

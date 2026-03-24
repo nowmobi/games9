@@ -1,0 +1,136 @@
+[
+  {
+    "__type__": "cc.SpriteFrame",
+    "content": {
+      "name": "fluidskin3",
+      "texture": "1db11f310",
+      "rect": [
+        49,
+        332,
+        252,
+        252
+      ],
+      "offset": [
+        3.5,
+        -2
+      ],
+      "originalSize": [
+        465,
+        412
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  [
+    {
+      "__type__": "cc.Prefab",
+      "_name": "water",
+      "data": {
+        "__id__": 1
+      }
+    },
+    {
+      "__type__": "cc.Node",
+      "_name": "water",
+      "_components": [
+        {
+          "__id__": 2
+        },
+        {
+          "__id__": 3
+        },
+        {
+          "__type__": "cc.PhysicsCircleCollider",
+          "node": {
+            "__id__": 1
+          },
+          "tag": 14,
+          "_friction": 0,
+          "_restitution": 0.2,
+          "_offset": {
+            "__type__": "cc.Vec2",
+            "x": 1.3,
+            "y": -0.7
+          },
+          "_radius": 13
+        },
+        {
+          "__type__": "39d040Bh0NEdKTMO2T4viGJ",
+          "node": {
+            "__id__": 1
+          },
+          "sp": {
+            "__id__": 2
+          },
+          "rigidBody": {
+            "__id__": 3
+          }
+        }
+      ],
+      "_prefab": {
+        "__type__": "cc.PrefabInfo",
+        "root": {
+          "__id__": 1
+        },
+        "asset": {
+          "__uuid__": "c2EdOBjqFDDpaBaRLwrjSp"
+        },
+        "fileId": "9cRjKtON9FkIqLGRSo9Bpx"
+      },
+      "_contentSize": {
+        "__type__": "cc.Size",
+        "width": 85,
+        "height": 85
+      },
+      "_trs": {
+        "__type__": "TypedArray",
+        "ctor": "Float64Array",
+        "array": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          1,
+          1,
+          1,
+          1
+        ]
+      },
+      "_groupIndex": 6,
+      "groupIndex": 6
+    },
+    {
+      "__type__": "cc.Sprite",
+      "node": {
+        "__id__": 1
+      },
+      "_materials": [
+        {
+          "__uuid__": "ecpdLyjvZBwrvm+cedCcQy"
+        }
+      ],
+      "_spriteFrame": {
+        "__uuid__": "10fyJ/7nVC4rbzFEnR/Ybu"
+      },
+      "_sizeMode": 0
+    },
+    {
+      "__type__": "cc.RigidBody",
+      "node": {
+        "__id__": 1
+      },
+      "_allowSleep": false,
+      "_gravityScale": 2,
+      "_fixedRotation": true,
+      "enabledContactListener": true,
+      "awakeOnLoad": false
+    }
+  ]
+]

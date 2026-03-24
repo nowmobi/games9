@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","goods","crash"],collisionMatrix:[[true],[false,false,true],[false,true,false]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scene/LoadTest.fire",orientation:"portrait",jsList:[]};

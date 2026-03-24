@@ -1,0 +1,80 @@
+- id: 10001
+  rankIcon: icon_bronze
+  rankName: Bronze
+  rankScore: 0
+- id: 10002
+  rankIcon: icon_silver
+  rankName: Silver
+  rankScore: 15
+- id: 10003
+  rankIcon: icon_gold
+  rankName: Gold
+  rankScore: 35
+- id: 10004
+  rankIcon: icon_platinum_1
+  rankName: Platinum II
+  rankScore: 60
+- id: 10005
+  rankIcon: icon_platinum_2
+  rankName: Platinum I
+  rankScore: 90
+- id: 10006
+  rankIcon: icon_diamonds_1
+  rankName: Diamonds III
+  rankScore: 125
+- id: 10007
+  rankIcon: icon_diamonds_2
+  rankName: Diamonds II
+  rankScore: 165
+- id: 10008
+  rankIcon: icon_diamonds_3
+  rankName: Diamonds I
+  rankScore: 210
+- id: 10009
+  rankIcon: icon_master_1
+  rankName: Master III
+  rankScore: 260
+- id: 10010
+  rankIcon: icon_master_2
+  rankName: Master II
+  rankScore: 310
+- id: 10011
+  rankIcon: icon_master_3
+  rankName: Master I
+  rankScore: 360
+- id: 10012
+  rankIcon: icon_greatMaster_1
+  rankName: GreatMaster III
+  rankScore: 410
+- id: 10013
+  rankIcon: icon_greatMaster_2
+  rankName: GreatMaster II
+  rankScore: 460
+- id: 10014
+  rankIcon: icon_greatMaster_3
+  rankName: GreatMaster I
+  rankScore: 510
+- id: 10015
+  rankIcon: icon_lengend_1
+  rankName: Lengend III
+  rankScore: 560
+- id: 10016
+  rankIcon: icon_lengend_2
+  rankName: Lengend II
+  rankScore: 615
+- id: 10017
+  rankIcon: icon_lengend_3
+  rankName: Lengend I
+  rankScore: 670
+- id: 10018
+  rankIcon: icon_theKing_1
+  rankName: The King III
+  rankScore: 725
+- id: 10019
+  rankIcon: icon_theKing_2
+  rankName: The King II
+  rankScore: 785
+- id: 10020
+  rankIcon: icon_theKing_3
+  rankName: The King I
+  rankScore: 845

@@ -1,0 +1,1093 @@
+{
+  "paths": {
+    "0": [
+      "font/fnt_score-export",
+      1
+    ],
+    "1": [
+      "font/fnt_score",
+      1
+    ],
+    "2": [
+      "font/levnum",
+      1
+    ],
+    "3": [
+      "font/page-export",
+      1
+    ],
+    "4": [
+      "font/page",
+      1
+    ],
+    "5": [
+      "font/score",
+      1
+    ],
+    "6": [
+      "font/scorecyan",
+      1
+    ],
+    "7": [
+      "font/scoredig",
+      1
+    ],
+    "8": [
+      "font/scoregreen",
+      1
+    ],
+    "9": [
+      "font/scorered",
+      1
+    ],
+    "10": [
+      "font/stagescore",
+      1
+    ],
+    "11": [
+      "sound/arrow",
+      5
+    ],
+    "12": [
+      "sound/back",
+      5
+    ],
+    "13": [
+      "sound/blast",
+      5
+    ],
+    "14": [
+      "sound/bomb",
+      5
+    ],
+    "15": [
+      "sound/button",
+      5
+    ],
+    "16": [
+      "sound/chain",
+      5
+    ],
+    "17": [
+      "sound/change",
+      5
+    ],
+    "18": [
+      "sound/chant2",
+      5
+    ],
+    "19": [
+      "sound/cheers",
+      5
+    ],
+    "20": [
+      "sound/clear",
+      5
+    ],
+    "21": [
+      "sound/coin",
+      5
+    ],
+    "22": [
+      "sound/coinsub",
+      5
+    ],
+    "23": [
+      "sound/collision",
+      5
+    ],
+    "24": [
+      "sound/combo",
+      5
+    ],
+    "25": [
+      "sound/count",
+      5
+    ],
+    "26": [
+      "sound/destroy",
+      5
+    ],
+    "27": [
+      "sound/destroy",
+      5
+    ],
+    "28": [
+      "sound/endoflevelpop1",
+      5
+    ],
+    "29": [
+      "sound/gap",
+      5
+    ],
+    "30": [
+      "sound/hit",
+      5
+    ],
+    "31": [
+      "sound/hit",
+      5
+    ],
+    "32": [
+      "sound/lighting",
+      5
+    ],
+    "33": [
+      "sound/pathhint",
+      5
+    ],
+    "34": [
+      "sound/prop",
+      5
+    ],
+    "35": [
+      "sound/rolling",
+      5
+    ],
+    "36": [
+      "sound/shoot",
+      5
+    ],
+    "37": [
+      "sound/slow",
+      5
+    ],
+    "38": [
+      "sound/stone",
+      5
+    ],
+    "39": [
+      "sound/universal",
+      5
+    ],
+    "40": [
+      "sound/warning1",
+      5
+    ],
+    "41": [
+      "sound/zuma",
+      5
+    ],
+    "42": [
+      "spine/loading/skeleton",
+      6
+    ],
+    "43": [
+      "spine/loading/skeleton",
+      1
+    ],
+    "45": [
+      "font/cyan",
+      0
+    ],
+    "46": [
+      "font/fnt_score-export",
+      3
+    ],
+    "47": [
+      "font/fnt_score-export",
+      2,
+      1
+    ],
+    "48": [
+      "font/fnt_score",
+      2,
+      1
+    ],
+    "49": [
+      "font/green",
+      0
+    ],
+    "50": [
+      "font/levelnum",
+      0
+    ],
+    "51": [
+      "font/levnum",
+      2,
+      1
+    ],
+    "52": [
+      "font/page-export",
+      3
+    ],
+    "53": [
+      "font/page-export",
+      2,
+      1
+    ],
+    "54": [
+      "font/page",
+      2,
+      1
+    ],
+    "55": [
+      "font/score",
+      0
+    ],
+    "56": [
+      "font/score",
+      2,
+      1
+    ],
+    "57": [
+      "font/scorecyan",
+      2,
+      1
+    ],
+    "58": [
+      "font/scoredig",
+      2,
+      1
+    ],
+    "59": [
+      "font/scoregreen",
+      2,
+      1
+    ],
+    "60": [
+      "font/scorered",
+      2,
+      1
+    ],
+    "61": [
+      "font/stage",
+      0
+    ],
+    "62": [
+      "font/stagescore",
+      2,
+      1
+    ],
+    "63": [
+      "prefab/common/BusyLoading",
+      4
+    ],
+    "64": [
+      "prefab/game/Ball",
+      4
+    ],
+    "65": [
+      "prefab/game/BonusScore",
+      4
+    ],
+    "66": [
+      "prefab/game/ChainTip",
+      4
+    ],
+    "67": [
+      "prefab/game/ComboTip",
+      4
+    ],
+    "68": [
+      "prefab/game/FailedWin",
+      4
+    ],
+    "69": [
+      "prefab/game/Frog",
+      4
+    ],
+    "70": [
+      "prefab/game/GameWin",
+      4
+    ],
+    "71": [
+      "prefab/game/PathStar",
+      4
+    ],
+    "72": [
+      "prefab/game/PauseWin",
+      4
+    ],
+    "73": [
+      "prefab/game/ScoreTip",
+      4
+    ],
+    "74": [
+      "prefab/game/SpeciallBall",
+      4
+    ],
+    "75": [
+      "prefab/game/VictoryWin",
+      4
+    ],
+    "76": [
+      "prefab/help/HelpWin",
+      4
+    ],
+    "77": [
+      "prefab/level/LevelItem",
+      4
+    ],
+    "78": [
+      "prefab/level/LevelWin",
+      4
+    ],
+    "79": [
+      "prefab/loading/LoadingWin",
+      4
+    ],
+    "80": [
+      "prefab/menu/MenuWin",
+      4
+    ],
+    "81": [
+      "spine/loading/skeleton",
+      7
+    ],
+    "82": [
+      "spine/loading/skeleton",
+      2,
+      1
+    ]
+  },
+  "types": [
+    "cc.LabelAtlas",
+    "cc.Texture2D",
+    "cc.SpriteFrame",
+    "cc.BitmapFont",
+    "cc.Prefab",
+    "cc.AudioClip",
+    "cc.Asset",
+    "sp.SkeletonData"
+  ],
+  "uuids": [
+    "7ceUsvalJK4J6UWYIdoII3",
+    "619nIh/c9K5bsPG9+CbKND",
+    "5fVP63K/5Mv6l5SHZrdrK9",
+    "87okcEmeRN85MuR/Xe7m+B",
+    "4aLP0rvc9JCoFPZLbpWDJa",
+    "c7NHdCc5dCjYo2B00MLsDv",
+    "8bWwk45ehAArx0FrLoXPag",
+    "1eZdssgUdB47Nds18rxup5",
+    "eb+z04/xVPfoe6I6xqlxLl",
+    "76LckCXJ9JH55iytHRWfjp",
+    "315EARb7tJe6G6BYdpkppb",
+    "a6skqadrhJaLxspGGli13p",
+    "b6A2krI4BK+7F/mRargxDP",
+    "c0WDNtnMpOv5P5xUAnq13i",
+    "5bLjOC979An5KGxjsPJXDF",
+    "70I7+AO3NJgr5IjIIkFNnG",
+    "dbgGvcR4ZGMa5bFN+Zexmj",
+    "f9Y/2j/ZxMZpTeaNMl5qSB",
+    "4a4VfXhuJHXKcA4WZaWxqJ",
+    "ddsfldAYBJ3aV+0BxJnezb",
+    "0bI2bASwNBvZz5VHgpzwbU",
+    "07FeKs2KNLWY72c9GrhZFY",
+    "34UJlgJqpFsqAdcho89XaT",
+    "b2wsJAwUpGarzU0NS6RCmw",
+    "6925SI6bxKHa8AShI594GJ",
+    "3awM7PVZ1Ch7u3Y3gB5S2M",
+    "1c9sx/mX1H5IjyLm4Hnvq1",
+    "257JYhAOxPkK+65oSOBSch",
+    "afWSt09ZlG6IsB73+n4od6",
+    "87u2Ov/oRMkYm8gtzrkDZm",
+    "28smedR8ZDIYU/4/HTlu5W",
+    "60JV2M5r5IwIdxYx5ZfoPC",
+    "55vJkEk0dMfa2EehqcKXO3",
+    "bfAkSTEm1JK4mPLYk1yKp7",
+    "4f4JcyUjdK8rVhHKNjDv/h",
+    "68RzJUUKJBAYKLMVHXKX5w",
+    "65P3fGFFhC1qJXcb1Q7a2h",
+    "f2wpZq+VFNO5CxsA3Cz01c",
+    "5fGtj/GcdOfYbGns+XOwFB",
+    "04JArqINhEQ5f+m9iQOa8c",
+    "8f49mn1EFPR5GumXPpjDer",
+    "ffqhZcn9JHJ5yDuEKbqP+F",
+    "4d4GCAtcFKPZ7VuEXW6NJZ",
+    "782wWa75VM8ImRKveczlMB",
+    "49/6B0I/lKPpAyhfU8GoJ3",
+    "9dQb880tFCTaGpHYkCxLqT",
+    "a9q+8WNC9KS54N2mJyTNtx",
+    "295uWG8m1GL4g/SU01Hd5q",
+    "38w1A+77xLHJyJJFaWhsw6",
+    "cajRvDI9dASLOW1UT3P68n",
+    "69GWH3D61OM7HpIrsARTZx",
+    "45AvDnI2hDSozyJq5OYFvz",
+    "78Le9WQC1NkZhT0iENud1o",
+    "5erfAvT9RJNbXWRJ3mmhcE",
+    "4bNJ8yGhJCj7bojwO6eZUT",
+    "e0N09T25FJpIEFFs85xf5n",
+    "4f3UmWAG1Dooeu6pzOQCK3",
+    "4cSTQ+jilP966yNosV26tb",
+    "cbP+yfHHFEL4Wng3VkT7Hn",
+    "fbv8S1fNNM+J+/Jw6mHC6U",
+    "d9+lWQe/tGNLHgVsQ3QaC8",
+    "2ca67vL+JC3ZmE9DVJUnZt",
+    "264c+D89xK769hhpeWpRtH",
+    "f72tB46MpFGqKWcb/G+vR3",
+    "7cMxeQbCxG2qOAewOd9FXw",
+    "62vDciqVBBxbf8jvB2exvK",
+    "a9pPAvKJVIio4HIOBli0BO",
+    "7fYrLONqRAL7MWKU+ee5yI",
+    "36X+pXdoJJFrQDRw07VB8j",
+    "c4IcLQFPFF3oHIVPQrsuuY",
+    "91CEqq6XVICZrWLhox0rPO",
+    "89567dyDdKEZQpTLBDZPzT",
+    "78ph9HYXRNmry0KadR22Ug",
+    "020H6f7jNMWakL2zC2JLXb",
+    "ca8l50xxFCebnNaBxSfb+4",
+    "5cdKRwtVNF4ZJWbpEHi1JY",
+    "4cbEhUb1dF6rvU9Xp9XweE",
+    "a6jNj5PmlCi6bdBqJ2uoTY",
+    "c4Lnhtv7RMpqm50W4L2Rmr",
+    "62aK09rINKLbu8AyWj4ozz",
+    "253KRHLppNT66Mrtrrh5OR",
+    "bd3bCXPalMr7Q0A/wE+hob",
+    "c8glyHjjZDhY/wICzFKs1j",
+    "61WlhVB0dJDKe9S3ZbrGwP",
+    "f9fP1DkqNIOIqkAZ0SBIZ4",
+    "07RXxyvV1C/pcXXWHfzmmn",
+    "2dbm/RyfxJYIqjpFH8Obf/",
+    "eaxKGxXxhHB4OalfvbI7DT",
+    "1e+QZsnJ9M+bMvgEYZu7Ly",
+    "5cU1DFrC1A1aVSkek0QTnu",
+    "901gDRlblAVptqBhFCSH/H",
+    "a7GaLQgBpNArkB4MFW4rt1",
+    "6dLg/ROdNBfK4YkKpvfRrp",
+    "7eBHVNduBGqI2RjX9fy5RK",
+    "1eXrKeAGBBRJIeZQJ1t6tx",
+    "c3072kSF5MhobPLb6lBiME",
+    "76E0PEJ6BPfIX6s1fSBiia",
+    "b0PO/MkPNNj58cuQPI8EWw",
+    "08VdN2w6hPLI4LYC3T7TcW",
+    "53SrhAdhVJrqsXXE3w+55l",
+    "2efYeZIsFJZ5NvT5GRpdz4",
+    "3754sLGE1FLYFR3i4lumXQ",
+    "21EX4uRLFPcL3k6/YpvSy0",
+    "67vl7BB+xDU6ss2JvyFSaX",
+    "56VwFiyYFDToWh47DqMR3K",
+    "5fetOTviBP15Ak8S/fBmWj",
+    "5fId4WiI1Bmr7BJ8Qa1Jul",
+    "594g+tM5dOk7HLH/TsJ/f3",
+    "ba15lFi3lHtK6RdJvnqXVc",
+    "8aw2gDlA5NfreS9vwc9jB3",
+    "2dWjgw8jtFv7uFa/yu2LPH",
+    "cejD6eb51JCKY7g/xKIQum",
+    "9cVU8juPVPGJn6jXOhPCXQ",
+    "eaCPOgBKZK+ofshQMF/2Pf",
+    "0euAd0YllMZ40BlXKwo+iw",
+    "a52Oio0o1L/4v+SEE0eQ4r",
+    "a9ybRGq0ZElJrfKWflJdAG",
+    "baf1RrAHlAWo0hbnME0tSj",
+    "cfDptIkc5Dxa0KNNmXTtsv",
+    "b6deSOoSVIv65P8uFO0Pj2",
+    "40t81OGnpCM7G80SP+2hIm",
+    "32c//6hQpPkpgA4YD4Zwxr",
+    "44EWGigvFNyoZR7A9pLIA9",
+    "f08cBwSQlACImwYh/5u2oM",
+    "d3BQKjVSBN7pUVL7tFNAim",
+    "76wUlobsxOEJJE+6VndSAQ",
+    "1fDyThB9BOfLJPc8NRnG3J",
+    "57Ex4n7MJODqUvdJljsbn+",
+    "0bZrVLhBtK4JGZWgx/b2xs",
+    "26VQAdM91PTYtahTdyT72z",
+    "84VFEkBN5BOp4S5YLBy7hL",
+    "3c3HOLkLxACa7Bvqu8JL+C",
+    "9ccRheSVFHGpGUi3szLSTa",
+    "11hPa6U5hJFb2rc9v9Od4E",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "37bwypxtxKKqpBsU/mUFxL",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "69BC8PzEBAboeEgO39lnYS",
+    "73um718MdLkYBGRpv4QF35",
+    "b5WrOpzjVH342GmreUV0Ts",
+    "63WqWtWj5OEKFe7CnPjSAZ",
+    "8fyrymvk9D7Ixn0x2F0VB1",
+    "fbUZCfCyhK5aO2lPipZtKB",
+    "8fNh4MFU1H0LV1T++AzH7y",
+    "b5OjFU65hBv5325OV47KTt",
+    "f98gGd6RFA6p491u1G8tf3",
+    "09zkT+7BBJ8brOMAGqkWcN",
+    "23M/BHjpxB3IAhWR5N+Hyi",
+    "dcbvD/VrBMM5rh+DXR8e1s",
+    "5eL/EYRWBF6ZyN9cIVUS9x",
+    "69J37vRkhMJpaUbU0r2D+k",
+    "9bqcruq2BHGppiHuxJFmRC",
+    "a1U5RdJRFMFL57BdJC9H1X",
+    "26GBr1oVBKj6wzxBxx76ce",
+    "c7BO+9ghdLNZNApJR7C4Ni",
+    "c0VXwh22FHmLXcJp1tyUeJ",
+    "b16OPaDYBMW652W5QET8Kq",
+    "d5s6j4mOJNsICDSuvpuWPo",
+    "dfGScsurxGt7TT0OhvCxKe",
+    "c9qNKYMppNL5DerQuBSooc",
+    "a7RL3ieQRPhZoNGKw2/MgU",
+    "f2JZBXHChJWZxKVSFpI5tf",
+    "2byrSFt5ZFD5SvewsQ3+RP",
+    "d2y/AeOX9BcZvB7Dj6En3Q",
+    "c4B2WGKPRFk6gSdmSK6giq",
+    "d6HUFxCMNKfZY+mdtVWPiv",
+    "f1TRARQhdHaoEdcsOysuyI",
+    "87EcaKAH9DWbIChHRtCL3j",
+    "61znaC+tNBtJUB+Efb0NXU",
+    "98TLavSRhEtqFC8vb8e4px",
+    "77n05iDpZCd4Ga0d+yZkMm",
+    "b8JNfxknVDSYvs3KfmLFzN",
+    "4cs8H+9llF/4m64XxTA2mt",
+    "40WfU0vXRO3rT7BIChmhPG",
+    "7fvonk4OZLX4EYJEAqGvq5",
+    "10Gjd+hfFHmZDlUNhBAFNR",
+    "0c1JW602VGfq2KiOaOrg9F",
+    "f8mtUJsUlAoJVE0DR/I5D6",
+    "d5ruvA3ZBNxKdHdTPwLl3T",
+    "3ae7efMv1CLq2ilvUY/tQi",
+    "1bFsVa5sNMxJ6A17pucB5k",
+    "77H93UaKxHvpTWtWtBVShH",
+    "28FgKIGwRJ044yFWQapkFX",
+    "b91QjPxxBCD4jmMIoSOAYT",
+    "68dxHuliVBwJp7/7XWxDnn",
+    "d5Lb89nmpOeIhfHpGhzdnK",
+    "72Vv/NH4ZFGpjYqfwvUYsU",
+    "978VeD0flNW7jvM+mCXjcp",
+    "b1x0BhLC9Pn6pd0QxDnoka",
+    "02delMVqdBD70a/HSD99FK"
+  ],
+  "scenes": {
+    "db://assets/resources/scene/Game.fire": 44
+  },
+  "redirect": [
+    134,
+    0,
+    152,
+    0,
+    179,
+    0,
+    189,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "02e1fac31": [
+      135,
+      44
+    ],
+    "0bb53a2ec": [
+      57,
+      45
+    ],
+    "0aa75e660": [
+      47,
+      46
+    ],
+    "0d25f6c6d": [
+      49,
+      59
+    ],
+    "01c7d779b": [
+      51,
+      50
+    ],
+    "05f1b4671": [
+      53,
+      52
+    ],
+    "0f0d7097d": [
+      56,
+      55
+    ],
+    "07980a5a4": [
+      62,
+      61
+    ],
+    "0feada43c": [
+      65,
+      137
+    ],
+    "07699e4c3": [
+      138,
+      66
+    ],
+    "08fd0429c": [
+      67,
+      139
+    ],
+    "0a2793c4e": [
+      68,
+      141,
+      144
+    ],
+    "07a261a30": [
+      146,
+      147,
+      64,
+      69,
+      145
+    ],
+    "01c157897": [
+      153,
+      149,
+      150,
+      70,
+      151,
+      154,
+      74,
+      148
+    ],
+    "024b31bbf": [
+      162,
+      71,
+      160,
+      159,
+      157,
+      158,
+      161
+    ],
+    "06b0cf91d": [
+      143,
+      142
+    ],
+    "063ce4712": [
+      72,
+      156,
+      155
+    ],
+    "0144de300": [
+      75,
+      168,
+      170,
+      167,
+      166
+    ],
+    "03d67f650": [
+      76,
+      164
+    ],
+    "03e0956e8": [
+      172,
+      77,
+      171
+    ],
+    "0a5440fdf": [
+      176,
+      79,
+      177
+    ],
+    "04ee55aa6": [
+      175,
+      173,
+      174,
+      78
+    ],
+    "0ad4c24a5": [
+      180,
+      80,
+      182,
+      184,
+      186,
+      181,
+      187,
+      188,
+      183,
+      185,
+      178
+    ],
+    "07157e05d": [
+      85,
+      98,
+      128,
+      114,
+      133,
+      94,
+      7,
+      88,
+      126,
+      102,
+      129,
+      110,
+      86,
+      100,
+      10,
+      121,
+      101,
+      131,
+      120,
+      122,
+      4,
+      99,
+      104,
+      127,
+      107,
+      89,
+      106,
+      2,
+      105,
+      83,
+      1,
+      103,
+      92,
+      96,
+      9,
+      125,
+      43,
+      0,
+      93,
+      130,
+      3,
+      109,
+      6,
+      90,
+      112,
+      132,
+      115,
+      91,
+      116,
+      97,
+      119,
+      117,
+      108,
+      95,
+      5,
+      111,
+      118,
+      124,
+      113,
+      87,
+      8,
+      123,
+      84
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      "0144de300",
+      "53a7e",
+      "01c157897",
+      "4002b",
+      "01c7d779b",
+      "96fc9",
+      "024b31bbf",
+      "73adf",
+      73,
+      "9385b",
+      "02e1fac31",
+      "feaa4",
+      "03d67f650",
+      "d13b1",
+      "03e0956e8",
+      "42ec7",
+      39,
+      "43e20",
+      "04ee55aa6",
+      "df519",
+      "05f1b4671",
+      "bfe84",
+      "063ce4712",
+      "be1ed",
+      "06b0cf91d",
+      "a85f1",
+      "07157e05d",
+      "f747b",
+      21,
+      "30165",
+      "07699e4c3",
+      "0e5bb",
+      "07980a5a4",
+      "54c76",
+      "07a261a30",
+      "44135",
+      "08fd0429c",
+      "140b6",
+      "0a2793c4e",
+      "94d51",
+      "0a5440fdf",
+      "200d9",
+      "0aa75e660",
+      "f7ece",
+      "0ad4c24a5",
+      "7f2d4",
+      20,
+      "273ad",
+      "0bb53a2ec",
+      "09a33",
+      "0d25f6c6d",
+      "471bc",
+      "0f0d7097d",
+      "c6ad7",
+      "0feada43c",
+      "6ab86",
+      26,
+      "35420",
+      27,
+      "06650",
+      30,
+      "92957",
+      22,
+      "4f767",
+      48,
+      "84496",
+      25,
+      "fb75e",
+      18,
+      "f5ed9",
+      54,
+      "b2c7c",
+      42,
+      "08689",
+      34,
+      "21390",
+      32,
+      "4c78c",
+      14,
+      "8801b",
+      38,
+      "b0c36",
+      31,
+      "49c6d",
+      140,
+      "a1027",
+      36,
+      "e26d4",
+      35,
+      "2f64b",
+      24,
+      "33d8a",
+      15,
+      "e56b0",
+      29,
+      "530f2",
+      40,
+      "627f3",
+      169,
+      "ad5ba",
+      136,
+      "43d76",
+      11,
+      "ed479",
+      28,
+      "e6eeb",
+      23,
+      "0d2fe",
+      12,
+      "115df",
+      81,
+      "f5354",
+      33,
+      "8ee23",
+      13,
+      "bd471",
+      82,
+      "7fb16",
+      58,
+      "1700f",
+      163,
+      "63381",
+      165,
+      "faf14",
+      60,
+      "5c7be",
+      16,
+      "b5976",
+      19,
+      "ffba7",
+      37,
+      "8fb80",
+      63,
+      "259e4",
+      17,
+      "3efd5",
+      41,
+      "9d0d3"
+    ],
+    "native": [
+      39,
+      "14b9f",
+      21,
+      "9ccc4",
+      85,
+      "e2d8e",
+      98,
+      "8a91e",
+      20,
+      "144ee",
+      128,
+      "60b32",
+      114,
+      "1da9b",
+      133,
+      "314f4",
+      26,
+      "0cb56",
+      94,
+      "d6512",
+      7,
+      "7fd32",
+      88,
+      "bdd76",
+      126,
+      "36993",
+      102,
+      "dfe44",
+      27,
+      "f6b9d",
+      129,
+      "7174d",
+      30,
+      "8fb6a",
+      110,
+      "a040d",
+      86,
+      "69703",
+      100,
+      "84315",
+      10,
+      "9800a",
+      121,
+      "ce77f",
+      22,
+      "eb8fa",
+      101,
+      "8daed",
+      25,
+      "eb83f",
+      131,
+      "72256",
+      120,
+      "605ae",
+      122,
+      "11ed7",
+      4,
+      "0f74f",
+      18,
+      "0cd9d",
+      42,
+      "d9a37",
+      34,
+      "3c225",
+      99,
+      "4e869",
+      32,
+      "00d50",
+      104,
+      "8f78e",
+      127,
+      "4b50f",
+      107,
+      "c74fb",
+      14,
+      "0873f",
+      89,
+      "34e3f",
+      38,
+      "8a025",
+      106,
+      "5b90c",
+      2,
+      "46ddf",
+      105,
+      "84f5f",
+      31,
+      "bb6f2",
+      83,
+      "e0195",
+      1,
+      "02d3c",
+      36,
+      "24404",
+      103,
+      "e534c",
+      35,
+      "dc07b",
+      24,
+      "011d6",
+      92,
+      "120bb",
+      15,
+      "3535a",
+      96,
+      "239fe",
+      9,
+      "98a22",
+      125,
+      "ccc56",
+      43,
+      "1dc0e",
+      0,
+      "7d0fc",
+      93,
+      "903e9",
+      130,
+      "49472",
+      3,
+      "c2de6",
+      29,
+      "f6993",
+      109,
+      "eff3a",
+      6,
+      "5b083",
+      40,
+      "aa9c1",
+      90,
+      "d533b",
+      112,
+      "8f35f",
+      132,
+      "0e10a",
+      115,
+      "0f27d",
+      11,
+      "eb83f",
+      91,
+      "98b0a",
+      116,
+      "8b193",
+      28,
+      "f7a96",
+      97,
+      "6cb25",
+      23,
+      "f4b58",
+      12,
+      "f6993",
+      119,
+      "a00b3",
+      117,
+      "d0100",
+      108,
+      "c3f83",
+      33,
+      "3c225",
+      13,
+      "db9a3",
+      95,
+      "443c6",
+      5,
+      "c3653",
+      111,
+      "ca2a7",
+      118,
+      "db4e6",
+      124,
+      "9e1e1",
+      16,
+      "a9a7c",
+      19,
+      "f7ca8",
+      113,
+      "2b1e8",
+      87,
+      "5a773",
+      8,
+      "85865",
+      123,
+      "3e486",
+      37,
+      "44021",
+      17,
+      "e14d7",
+      84,
+      "fb3b8",
+      41,
+      "191ed"
+    ]
+  }
+}

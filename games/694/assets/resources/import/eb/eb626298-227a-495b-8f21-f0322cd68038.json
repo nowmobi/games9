@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "401H/CaQdJo7AtezknkOyn"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "2e_btn1",
+      "rect": [
+        1,
+        0,
+        362,
+        129
+      ],
+      "offset": [
+        0,
+        1.5
+      ],
+      "originalSize": [
+        364,
+        132
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

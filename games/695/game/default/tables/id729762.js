@@ -1,0 +1,1 @@
+pgf.jsonp("tables/id729762", {"id":"id729762","version":"1.000000","name":"tb 2","numRows":2,"numCols":2,"flags":6,"tableType":2147485692,"rows":[{"id":"0","name":""},{"id":"1","name":""}],"columns":[{"id":"0","name":"","type":"2","readonly":"0","$":[1,2]},{"id":"1","name":"","type":"2","readonly":"0","$":[1,0]}]});

@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "e52DamGLJDd4mZ2AdxNy7T"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "logo0",
+      "rect": [
+        5,
+        7,
+        1083,
+        268
+      ],
+      "offset": [
+        2.5,
+        4.5
+      ],
+      "originalSize": [
+        1088,
+        291
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

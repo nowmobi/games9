@@ -1,0 +1,96 @@
+[
+  1,
+  [
+    "a3RYsurkdPUbOc6pQkmwQg",
+    "8fYVFB+sNOH5ywJjC6f/rD"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "xg_btn_guanQia_1",
+          "rect": [
+            0,
+            0,
+            211,
+            178
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            211,
+            178
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "xg_btn_guanQia_3",
+          "rect": [
+            0,
+            0,
+            72,
+            88
+          ],
+          "offset": [
+            0,
+            0
+          ],
+          "originalSize": [
+            72,
+            88
+          ],
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        1
+      ]
+    ]
+  ]
+]

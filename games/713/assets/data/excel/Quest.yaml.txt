@@ -1,0 +1,53 @@
+- autostart: true
+  condCls:
+    - QC_Cost
+  desc: 花费金币 100
+  id: 150001001
+  questCls: Achievement
+  rewardType:
+    - coin
+  rewardValue:
+    - 150
+  title: 测试任务
+  unlockIf: []
+  val1:
+    - coin
+  val2:
+    - 100
+  val3: []
+- autostart: true
+  condCls:
+    - QC_Cost
+  desc: 花费金币 1000
+  id: 150001002
+  questCls: Achievement
+  rewardType:
+    - coin
+  rewardValue:
+    - 200
+  title: 测试任务
+  unlockIf:
+    - 150001001
+  val1:
+    - coin
+  val2:
+    - 1000
+  val3: []
+- autostart: true
+  condCls:
+    - QC_PlayGame
+  desc: 进行5局游戏
+  id: 150001003
+  questCls: DailyQuest
+  rewardType:
+    - coin
+    - exp
+  rewardValue:
+    - 200
+    - 150
+  title: 测试任务2
+  unlockIf: []
+  val1:
+    - '5'
+  val2: []
+  val3: []

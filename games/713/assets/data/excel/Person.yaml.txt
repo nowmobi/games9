@@ -1,0 +1,12 @@
+- id: 2001
+  name: 小人
+  placeCapture: 1
+  pushForceFactor: 1
+  runSpeed: 4.5
+  scale: 1
+- id: 2002
+  name: 巨力小人
+  placeCapture: 2
+  pushForceFactor: 2
+  runSpeed: 4.5
+  scale: 1.5

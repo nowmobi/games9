@@ -1,0 +1,278 @@
+{
+  "Klingon": {
+    "flag": "",
+    "standards": [
+      "uga-buga",
+      "gh-123",
+      "nfi9"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "English": {
+    "flag": "",
+    "standards": [
+      "en-us",
+      "en-uk",
+      "en"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Russian": {
+    "flag": "",
+    "standards": [
+      "ru"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "German": {
+    "flag": "",
+    "standards": [
+      "de"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Finnish": {
+    "flag": "",
+    "standards": [
+      "fi"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Swedish": {
+    "flag": "",
+    "standards": [
+      "sv"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Brazilian PT": {
+    "flag": "",
+    "standards": [
+      "pt"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Bulgarian": {
+    "flag": "",
+    "standards": [
+      "bg"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Greek": {
+    "flag": "",
+    "standards": [
+      "el"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Lithuanian": {
+    "flag": "",
+    "standards": [
+      "lt"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Croatian": {
+    "flag": "",
+    "standards": [
+      "hr"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Latvian": {
+    "flag": "",
+    "standards": [
+      "lv"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Italian": {
+    "flag": "",
+    "standards": [
+      "it"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "French": {
+    "flag": "",
+    "standards": [
+      "fr"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Hungarian": {
+    "flag": "",
+    "standards": [
+      "hu"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Spanish": {
+    "flag": "",
+    "standards": [
+      "es"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Czech": {
+    "flag": "",
+    "standards": [
+      "cs"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Arabic": {
+    "flag": "",
+    "standards": [
+      "ar"
+    ],
+    "rtl": 1,
+    "addSpaces": 0
+  },
+  "Vietnamese": {
+    "flag": "",
+    "standards": [
+      "vi"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Norwegian": {
+    "flag": "",
+    "standards": [
+      "no"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Thai": {
+    "flag": "",
+    "standards": [
+      "th"
+    ],
+    "rtl": 0,
+    "addSpaces": 1
+  },
+  "Ukrainian": {
+    "flag": "",
+    "standards": [
+      "uk"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Japanese": {
+    "flag": "",
+    "standards": [
+      "ja"
+    ],
+    "rtl": 0,
+    "addSpaces": 1
+  },
+  "Slovak": {
+    "flag": "",
+    "standards": [
+      "sk"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Indonesian": {
+    "flag": "",
+    "standards": [
+      "id"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Polish": {
+    "flag": "",
+    "standards": [
+      "pl"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Danish": {
+    "flag": "",
+    "standards": [
+      "da"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Hebrew": {
+    "flag": "",
+    "standards": [
+      "he"
+    ],
+    "rtl": 1,
+    "addSpaces": 0
+  },
+  "Romanian": {
+    "flag": "",
+    "standards": [
+      "ro"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Chinese": {
+    "flag": "",
+    "standards": [
+      "zh"
+    ],
+    "rtl": 0,
+    "addSpaces": 1
+  },
+  "Dutch": {
+    "flag": "",
+    "standards": [
+      "nl"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Turkish": {
+    "flag": "",
+    "standards": [
+      "tk"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Serbian": {
+    "flag": "",
+    "standards": [
+      "sr"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  },
+  "Hindu": {
+    "flag": "",
+    "standards": [
+      "hi"
+    ],
+    "rtl": 0,
+    "addSpaces": 0
+  }
+}
