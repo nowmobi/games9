@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Mahjong Connect Classic</title>
+        <meta property="og:title" content="Mahjong Connect Classic">
+        <meta property="og:description" content="GAME_DESC">
+        <meta property="og:image" content="bg.jpg">
+        <meta name="msapplication-tap-highlight" content="no">
+        <style>
+body,html,ruffle-player{user-select:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;-webkit-touch-callout:none;-moz-touch-callout:none;-ms-touch-callout:none;--logo-display:none;--preloader-background:no-repeat center/cover linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),no-repeat center/cover url(bg.jpg);padding:0px;margin:0px;border:0px;width:100%;height:100%;overflow:hidden;overflow-x:hidden;overflow-y:hidden}
+        </style>
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+    
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+    <body ondragstart="return false" oncontextmenu="return false">
+        <script>
+try{try{var topurl=(document.location.ancestorOrigins[0]!==undefined)?document.location.ancestorOrigins[0]:(document.referrer!=='')?document.referrer:(window.location!=window.parent.location)?window.parent.location:window.location}catch(e){var topurl=(document.referrer!=='')?document.referrer:(window.location!=window.parent.location)?window.parent.location:window.location}}catch(e){var topurl=(window.location!=window.parent.location)?window.parent.location:window.location}
+const getDomainWithoutSubdomain=url=>{const urlParts=new URL(url).hostname.split('.')
+return urlParts.slice(0).slice(-(urlParts.length===4?3:2)).join('.')}
+topurl=getDomainWithoutSubdomain(topurl);if(topurl!==null){const blreq=new XMLHttpRequest();blreq.addEventListener("load",function(){const bljson=this.responseText;if(!bljson.includes(topurl)){try{const getDomainWithoutSubdomain=url=>{const urlParts=new URL(url).hostname.split('.')
+return urlParts.slice(0).slice(-(urlParts.length===4?3:2)).join('.')}
+const runningurl=getDomainWithoutSubdomain(window.location);const wlreq=new XMLHttpRequest();wlreq.addEventListener("load",function(){const wljson=this.responseText;if(wljson.indexOf(runningurl)!==-1){window.SDK_OPTIONS={gameId:"9z30xwyvz4hecn63sj653vx7mg970ax7",onEvent:function(a){switch(a.name){case"SDK_READY":break;case"SDK_GAME_PAUSE":player.pause();break;case"SDK_GAME_START":player.play();break}}};(function(a,b,c){var d=a.getElementsByTagName(b)[0];a.getElementById(c)||(a=a.createElement(b),a.id=c,a.src="https://api.gamemonetize.com/sdk.js",d.parentNode.insertBefore(a,d))})(document,"script","gamemonetize-sdk");const ruffle=window.RufflePlayer.newest();const player=ruffle.createPlayer();const container=document.body;document.body.appendChild(player);player.load({url:"game.swf",allowScriptAccess:!0,menu:!1,contextMenu:"off",warnOnUnsupportedContent:!1,letterbox:"on",autoplay:"on",unmuteOverlay:"visible"});(function(){var fsicon=document.createElement('img');var srcFSI='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAQRJREFUWEftl+0RwiAMht9M4Aq6gW7gKDpZHcUN7AbtCk4Qj17xOI4kIF7pD/qXfDyENB/EzAz5exDRXTk3j5h5AHCTBEkBqHbunWoQEsBMRCfzegUCzDwBOMYqu42AB61+hpIcmFMhAvAzhOL868s/weJEUSiGsGz5cwcwhL+apZiTd7k2Ft8pg7kG/qGbBHCGBYiRiC5aFJj5BeAcyYhPKAIkIEYAVyJ6GwAHAM8AQs0fFSCAcDcynQeVz0O4iKml3ATISboamQ7QI9AjsP8IrCW5TSGK+sG2pbhpM9q0HTcfSNa9oOlI5jejpkOp1FGLh9HYUMlYHutWO++rWU0ENlvNPrJNCzALH4dAAAAAAElFTkSuQmCC';var srcFSIexit='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAWFJREFUWEftl9FVwzAMRd+bAEaADcoGjAIbMAobwCjdgGxAR4AJxJGxfRxXlZ2EkH4kn4kjXT/JskQAEJEbAEcAA8lnfbfWIyJvAA4AHkl+s3CuL/V5XwsiOn+KfoYAISIfkajc9J9DVM6Tr0EBVJJEtRhCFVVpS0Ouj5gDTYgUKpIPXn5ERUN8e2wzGfMoAbzEJD2QzP9YICIimswaXwCvLXVHxhyILwC36rATQJfmfyrQUX6d7caBCHYmAFgCnSW3KacHsQDAPFmXALQwnZLs5VZmAmg47urTERStdTIK02jJTAC18Vt4qiNqAViFKUMsADAh3CO11n0wCul/OPF87ArsCuwK7JfRxRwQkU+9QOoiMrMUn0jeWwXp+q7jTRsSx7n2BiEcE0KQ/+lqyVrtefreCRC6n5bN3JD0LEwtdmtqUlvlmpbtyYOJNXi0rnQX4hpGszQZbzOcxthuNp7/AI/0DxjgChnHAAAAAElFTkSuQmCC';fsicon.src=srcFSI;fsicon.id='fsicon';fsicon.style.opacity=0.5;fsicon.style.filter='alpha( opacity=50 )';fsicon.style.cursor='pointer';fsicon.style.zIndex=0;fsicon.style.bottom='10px';fsicon.style.right='10px';fsicon.style.position='fixed';var cto;fsicon.style.transitionDuration='1s';document.onmousemove=function(){fsicon.style.opacity=0.5};document.body.appendChild(fsicon);var fsicon=document.getElementById("fsicon");if(fsicon){fsicon.addEventListener("click",function(){if(fsicon.getAttribute('src')!=srcFSIexit){var docElm=document.documentElement;if(docElm.requestFullscreen){docElm.requestFullscreen()}else if(docElm.mozRequestFullScreen){docElm.mozRequestFullScreen()}else if(docElm.webkitRequestFullScreen){docElm.webkitRequestFullScreen()}}else{if(document.exitFullscreen){document.exitFullscreen()}else if(document.mozCancelFullScreen){document.mozCancelFullScreen()}else if(document.webkitCancelFullScreen){document.webkitCancelFullScreen()}}},!1)}if(fsicon){document.addEventListener("fullscreenchange",function(){if(document.fullscreenElement){fsicon.setAttribute('src',srcFSIexit)}else{fsicon.setAttribute('src',srcFSI)}},!1);document.addEventListener("mozfullscreenchange",function(){if(document.mozFullScreen){fsicon.setAttribute('src',srcFSIexit)}else{fsicon.setAttribute('src',srcFSI)}},!1);document.addEventListener("webkitfullscreenchange",function(){if(document.webkitIsFullScreen){fsicon.setAttribute('src',srcFSIexit)}else{fsicon.setAttribute('src',srcFSI)}},!1)}})()}else{adkjvadkgasdkjskd("Sorry, you can't play this game here.<br>If you want to play this game, visit <b>playonline.top</b>.")}});wlreq.addEventListener("error",function(){adkjvadkgasdkjskd("Sorry, an error occurred. Please refresh the page.")});wlreq.open("GET","https://api.gamemonetize.com/lock.json","async");wlreq.send()}catch(e){adkjvadkgasdkjskd("Sorry, an error occurred. Please refresh the page.")}}else{adkjvadkgasdkjskd("Sorry, you can't play this game here.<br>If you want to play this game, visit <b>playonline.top</b>.")}});blreq.addEventListener("error",function(){adkjvadkgasdkjskd("Sorry, an error occurred. Please refresh the page.")});blreq.open("GET","https://api.gamemonetize.com/blacklist.json","async");blreq.send()}else{adkjvadkgasdkjskd("Sorry, you can't play this game here.<br>If you want to play this game, visit <b>playonline.top</b>.")}
+function adkjvadkgasdkjskd(dfasizhfsdiz){btn=document.createElement("button");btn.style.position="fixed";btn.style.left=0;btn.style.top=0;btn.style.zIndex=2147483647;btn.style.width="100%";btn.style.height="100%";btn.style.fontSize="24px";btn.style.color="white";btn.style.background="rgba(0,0,0,0.5)";btn.innerHTML=dfasizhfsdiz;btn.onclick=function(){window.open("https://playonline.top?utm_source=gamemonetize&utm_medium=game&utm_campaign=sitelock&utm_content=mahjong_connect_classic")};document.body.appendChild(btn)}
+function showAd(){if(typeof sdk!=='undefined'&&sdk.showBanner!=='undefined'){sdk.showBanner()}}
+        </script>
+    </body>
+</html>
