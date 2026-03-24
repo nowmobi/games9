@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="shortcut icon" href="TemplateData/favicon.svg">
+	<link rel="stylesheet" href="TemplateData/style.css">
+	
+	<script src="script.js"></script>
+
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+
+<body>
+	<div id="unity-container" style="position: absolute; width: 100%; height: 100%; left: 0%; top: 0%;">
+		<canvas id="unity-canvas" style="position: absolute;"></canvas>
+		<div id="unity-loading-bar">
+			<img src="TemplateData/Logo.png" id="logo"></img>
+			<div class="wrapper">
+				<div class="circle"></div>
+				<div class="circle"></div>
+				<div class="circle"></div>
+			</div>
+			<div id="unity-progress-bar-empty">
+				<div id="unity-progress-bar-full"></div>
+			</div>
+		</div>
+		<div id="error-message"></div>
+
+		<div id="orientation-blocker">
+			<img id="orientation-image" src="TemplateData/HorisontalOnly.png">
+		</div>
+
+		<script>
+			var container = document.querySelector("#unity-container");
+			var canvas = document.querySelector("#unity-canvas");
+			var loadingBar = document.querySelector("#unity-loading-bar");
+			var progressBarFull = document.querySelector("#unity-progress-bar-full");
+			var errorMessageElement = document.querySelector("#error-message");
+
+			var orientationBlocker = document.querySelector("#orientation-blocker");
+			var orientationImage = document.querySelector("#orientation-image");
+
+			var buildUrl = "Build";
+			var loaderUrl = buildUrl + "/funny-cars-route.loader.js";
+			var config = {
+				dataUrl: buildUrl + "/funny-cars-route.data.unityweb",
+				frameworkUrl: buildUrl + "/funny-cars-route.framework.js.unityweb",
+        codeUrl: buildUrl + "/funny-cars-route.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+				companyName: "Itmium",
+				productName: "FunnyCarsRoute",
+				productVersion: "1.3.4"
+			};
+
+            window.getDeviceInfo = function () {
+            let userAgent = navigator.userAgent;
+            let tabletRegex = /(tablet|ipad|playbook|silk)|(android(?!.*mobi))/i;
+            let mobRegex = /Mobile|iP(hone|od)|Android|BlackBerry|IEMobile|Kindle|Silk-Accelerated|(hpw|web)OS|Opera M(obi|ini)/;
+            if (tabletRegex.test(userAgent) || isIpadOS()) {
+                return "tablet";
+            }
+
+            if (mobRegex.test(userAgent)) {
+                return "mobile";
+            }
+
+            tabletRegex.test(mobRegex.test(userAgent))
+            console.log("Device type: desktop");
+            return "desktop";
+        };
+
+        function isIpadOS() {
+            return navigator.maxTouchPoints &&
+                navigator.maxTouchPoints > 2 &&
+                /MacIntel/.test(navigator.platform);
+        }
+
+			canvas.addEventListener("touchstart", () => { window.focus() });
+			canvas.addEventListener("pointerdown", () => { window.focus() });
+
+			const errorMessages = {
+				"ru": "Ошибка. Попробуйте перезагрузить страницу.",
+				"en": "Error. Try reloading the page."
+			};
+
+			const onProgress = (progress) => {
+				progressBarFull.style.width = progress + '%';
+			};
+			const onError = () => {
+				errorMessageElement.innerHTML = getErrorMessage(navigator?.language?.slice(0, 2));
+				errorMessageElement.style.display = "block";
+				loadingBar.style.display = "none";
+			};
+			const onFinish = () => {
+        		loadingBar.style.display = "none";
+			};
+			const getErrorMessage = (language) => {
+				if (!language || !errorMessages.hasOwnProperty(language)){
+					return errorMessages["en"];
+				}
+
+				return errorMessages[language];
+			};
+
+			var script = document.createElement("script");
+			script.src = loaderUrl;
+			script.onload = () => { loadGame(onFinish, onProgress, onError); };
+			document.body.appendChild(script);
+		</script>
+</body>
+
+</html>
