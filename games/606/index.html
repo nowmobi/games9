@@ -38,7 +38,59 @@ html{background-color:steelblue;background-image: none;}
     a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
  })(document, "script", "gamemonetize-sdk"); 
  </script>
-</head><body>
+
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head><body>
     <div id="buttons" style="top:0;bottom: unset;height: 5vh;font-size: 2.5vh;background-color: steelblue;color: white;"><h1 style="font-size: 2.5vh;margin: 0;padding: 0;padding-top: 1vh;">Klondike Solitaire Turn 3</h1></div>
     <div id="tableHolder"> </div> <div id="buttons"> <button id="newGameButton" onmousedown="sdk.showBanner();">New Game</button> <button id="undoButton">Undo</button> <button id="mgb"><a id="mg" target="_blank" href="https://www.jeuxd.fr/" title="More Games">More Games</a></button> </div>
     <script>var l_lang; if (navigator.userLanguage) {l_lang = navigator.userLanguage} else if (navigator.language) {l_lang = navigator.language} else {l_lang = 'en'} if (l_lang.indexOf('fr') > -1) {document.getElementById("newGameButton").innerHTML ="Nouveau Jeu";document.getElementById("undoButton").innerHTML ="Annuler";document.getElementById("mg").innerHTML ="Plus de Jeux";}
