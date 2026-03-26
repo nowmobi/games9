@@ -1,1 +1,0 @@
-pgf.jsonp("tables/id536561", {"id":"id536561","version":"1.000000","name":"tb 4","numRows":4,"numCols":2,"flags":1931898736,"tableType":32716,"rows":[{"id":"0","name":""},{"id":"1","name":""},{"id":"2","name":""},{"id":"3","name":""}],"columns":[{"id":"0","name":"","type":"2","readonly":"0","$":[1,0,2,3]},{"id":"1","name":"","type":"2","readonly":"0","$":[3,4,2,1]}]});
