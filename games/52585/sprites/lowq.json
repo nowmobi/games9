@@ -1,0 +1,295 @@
+{
+  "textures": [
+    {
+      "image": "sprites/lowq-0.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 2021,
+        "h": 1940
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "spikes.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 819,
+            "h": 832
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 819,
+            "h": 832
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 819,
+            "h": 832
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "sprawl.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 675,
+            "h": 656
+          },
+          "spriteSourceSize": {
+            "x": 39,
+            "y": 3,
+            "w": 636,
+            "h": 653
+          },
+          "frame": {
+            "x": 822,
+            "y": 1,
+            "w": 636,
+            "h": 653
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "shadowEye.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 620,
+            "h": 620
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 620,
+            "h": 620
+          },
+          "frame": {
+            "x": 822,
+            "y": 656,
+            "w": 620,
+            "h": 620
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "maw.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 590,
+            "h": 590
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 590,
+            "h": 590
+          },
+          "frame": {
+            "x": 1,
+            "y": 835,
+            "w": 590,
+            "h": 590
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "spook0.jpg",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 576,
+            "h": 512
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 576,
+            "h": 512
+          },
+          "frame": {
+            "x": 593,
+            "y": 1278,
+            "w": 576,
+            "h": 512
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "spook1.jpg",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 576,
+            "h": 512
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 576,
+            "h": 512
+          },
+          "frame": {
+            "x": 1,
+            "y": 1427,
+            "w": 576,
+            "h": 512
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "spook2.jpg",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 576,
+            "h": 512
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 576,
+            "h": 512
+          },
+          "frame": {
+            "x": 1171,
+            "y": 1278,
+            "w": 576,
+            "h": 512
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "spook3.jpg",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 576,
+            "h": 512
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 576,
+            "h": 512
+          },
+          "frame": {
+            "x": 1444,
+            "y": 656,
+            "w": 576,
+            "h": 512
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "static.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 398,
+            "h": 512
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 398,
+            "h": 512
+          },
+          "frame": {
+            "x": 1460,
+            "y": 1,
+            "w": 398,
+            "h": 512
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "eyes.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 64,
+            "h": 30
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 2,
+            "w": 63,
+            "h": 26
+          },
+          "frame": {
+            "x": 593,
+            "y": 835,
+            "w": 63,
+            "h": 26
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        },
+        {
+          "filename": "spook4.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 288,
+            "h": 256
+          },
+          "spriteSourceSize": {
+            "x": 21,
+            "y": 16,
+            "w": 260,
+            "h": 240
+          },
+          "frame": {
+            "x": 1749,
+            "y": 1170,
+            "w": 260,
+            "h": 240
+          },
+          "anchor": {
+            "x": 0.5,
+            "y": 0.5
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:544c10adb4d57e66bb31100c40eb0f3c:dc94082feb9f038a21b084b1bd7a6ac7:0644d9afadc5ec39d626109554d3f3bc$"
+  }
+}

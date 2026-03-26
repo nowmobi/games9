@@ -1,0 +1,1791 @@
+[
+  1,
+  [
+    "1db0b80a6@6c48a"
+  ],
+  [
+    "_textureSource"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "catcafe",
+          "rect": {
+            "x": 3,
+            "y": 3,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "profession",
+          "rect": {
+            "x": 640,
+            "y": 307,
+            "width": 132,
+            "height": 139
+          },
+          "offset": {
+            "x": 0,
+            "y": -1.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "kittyfruits",
+          "rect": {
+            "x": 315,
+            "y": 169,
+            "width": 157,
+            "height": 147
+          },
+          "offset": {
+            "x": -1.5,
+            "y": -4.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paintings",
+          "rect": {
+            "x": 642,
+            "y": 632,
+            "width": 132,
+            "height": 157
+          },
+          "offset": {
+            "x": -1,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "planecats",
+          "rect": {
+            "x": 3,
+            "y": 169,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "King",
+          "rect": {
+            "x": 781,
+            "y": 820,
+            "width": 93,
+            "height": 153
+          },
+          "offset": {
+            "x": -1.5,
+            "y": -3.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "starcats",
+          "rect": {
+            "x": 494,
+            "y": 488,
+            "width": 138,
+            "height": 155
+          },
+          "offset": {
+            "x": 0,
+            "y": -1.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "mysterycats",
+          "rect": {
+            "x": 478,
+            "y": 169,
+            "width": 146,
+            "height": 155
+          },
+          "offset": {
+            "x": 0,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "travel",
+          "rect": {
+            "x": 3,
+            "y": 335,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "catsinhats",
+          "rect": {
+            "x": 647,
+            "y": 3,
+            "width": 130,
+            "height": 156
+          },
+          "offset": {
+            "x": -1,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "spring",
+          "rect": {
+            "x": 3,
+            "y": 501,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "fantasycat",
+          "rect": {
+            "x": 335,
+            "y": 488,
+            "width": 153,
+            "height": 153
+          },
+          "offset": {
+            "x": -0.5,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "neko",
+          "rect": {
+            "x": 486,
+            "y": 3,
+            "width": 160,
+            "height": 155
+          },
+          "offset": {
+            "x": 0,
+            "y": 0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Capsula",
+          "rect": {
+            "x": 786,
+            "y": 425,
+            "width": 121,
+            "height": 123
+          },
+          "offset": {
+            "x": 0.5,
+            "y": -6.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "bigcats",
+          "rect": {
+            "x": 480,
+            "y": 809,
+            "width": 148,
+            "height": 157
+          },
+          "offset": {
+            "x": 0,
+            "y": 0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Chair",
+          "rect": {
+            "x": 783,
+            "y": 3,
+            "width": 140,
+            "height": 141
+          },
+          "offset": {
+            "x": -2,
+            "y": 2.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "newyear",
+          "rect": {
+            "x": 3,
+            "y": 667,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Museum",
+          "rect": {
+            "x": 799,
+            "y": 150,
+            "width": 116,
+            "height": 135
+          },
+          "offset": {
+            "x": -1,
+            "y": 1.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "museum",
+          "rect": {
+            "x": 320,
+            "y": 3,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "itemcats",
+          "rect": {
+            "x": 320,
+            "y": 820,
+            "width": 136,
+            "height": 154
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "newyear",
+          "rect": {
+            "x": 169,
+            "y": 162,
+            "width": 140,
+            "height": 154
+          },
+          "offset": {
+            "x": -1,
+            "y": 1
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Carry",
+          "rect": {
+            "x": 778,
+            "y": 307,
+            "width": 112,
+            "height": 140
+          },
+          "offset": {
+            "x": 0,
+            "y": 3
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "kittybusiness",
+          "rect": {
+            "x": 169,
+            "y": 3,
+            "width": 143,
+            "height": 153
+          },
+          "offset": {
+            "x": 0.5,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "cinima",
+          "rect": {
+            "x": 169,
+            "y": 322,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "robocats",
+          "rect": {
+            "x": 335,
+            "y": 647,
+            "width": 156,
+            "height": 150
+          },
+          "offset": {
+            "x": 0,
+            "y": -1
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Tori",
+          "rect": {
+            "x": 781,
+            "y": 703,
+            "width": 130,
+            "height": 111
+          },
+          "offset": {
+            "x": -1,
+            "y": -4.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Throne",
+          "rect": {
+            "x": 3,
+            "y": 833,
+            "width": 121,
+            "height": 156
+          },
+          "offset": {
+            "x": -0.5,
+            "y": -2
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "meme",
+          "rect": {
+            "x": 655,
+            "y": 452,
+            "width": 125,
+            "height": 139
+          },
+          "offset": {
+            "x": -0.5,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "sweaters",
+          "rect": {
+            "x": 491,
+            "y": 647,
+            "width": 148,
+            "height": 145
+          },
+          "offset": {
+            "x": 1,
+            "y": -6.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Shelves",
+          "rect": {
+            "x": 780,
+            "y": 597,
+            "width": 100,
+            "height": 154
+          },
+          "offset": {
+            "x": -1,
+            "y": 3
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "Catcafe",
+          "rect": {
+            "x": 165,
+            "y": 833,
+            "width": 109,
+            "height": 149
+          },
+          "offset": {
+            "x": -1.5,
+            "y": -5.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "castle",
+          "rect": {
+            "x": 169,
+            "y": 488,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "purebred",
+          "rect": {
+            "x": 639,
+            "y": 169,
+            "width": 132,
+            "height": 154
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "kittyfuits",
+          "rect": {
+            "x": 501,
+            "y": 321,
+            "width": 133,
+            "height": 153
+          },
+          "offset": {
+            "x": -0.5,
+            "y": -0.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "spaceship",
+          "rect": {
+            "x": 169,
+            "y": 654,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "room",
+          "rect": {
+            "x": 335,
+            "y": 322,
+            "width": 160,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "catstumes",
+          "rect": {
+            "x": 643,
+            "y": 795,
+            "width": 132,
+            "height": 155
+          },
+          "offset": {
+            "x": 0,
+            "y": -1.5
+          },
+          "originalSize": {
+            "width": 160,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

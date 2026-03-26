@@ -1,0 +1,250 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="button_play"  phrase_id="1">
+		<EN>
+			<TEXT>Start Lesson</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Начать урок</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+        <FR>
+			<TEXT>Commencer la leçon</TEXT>
+			<SIZE>-15</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>Iniciar lección</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>Lektion beginnen</TEXT>
+			<SIZE>-12</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>Inizia lezione</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="game_play"  phrase_id="1">
+		<EN>
+			<TEXT>Score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Счет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+        <FR>
+			<TEXT>Score</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>Puntaje</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>Punktzahl</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>Punto</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_play" item_id="game_play"  phrase_id="2">
+		<EN>
+			<TEXT>Best Score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Лучший счет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+        <FR>
+			<TEXT>Meilleur score</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>Mejor puntuación</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>Bestes Ergebnis</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>Miglior punteggio</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="1">
+		<EN>
+			<TEXT>YOUR SCORE</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>ВАШ СЧЕТ</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+        <FR>
+			<TEXT>TON SCORE</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>TU PUNTUACIÓN</TEXT>
+			<SIZE>-6</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>IHR ERGEBNIS</TEXT>
+			<SIZE>-6</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>IL TUO PUNTEGGIO</TEXT>
+			<SIZE>-12</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="2">
+		<EN>
+			<TEXT>Second\nChance?</TEXT>
+			<SIZE>-4</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Второй\nшанс?</TEXT>
+			<SIZE>-4</SIZE>
+		</RU>
+        <FR>
+			<TEXT>Deuxième\nchance?</TEXT>
+			<SIZE>-6</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>Segunda\noportunidad?</TEXT>
+			<SIZE>-20</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>Zweite\nChance?</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>Seconda\npossibilità?</TEXT>
+			<SIZE>-14</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="3">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>-8</SIZE>	
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>-4</SIZE>			
+		</FR>
+		<DE>
+			<TEXT>Weitermachen</TEXT>
+			<SIZE>-16</SIZE>			
+		</DE>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>-8</SIZE>			
+		</ES>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>-8</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+			<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="record">
+		<EN>
+			<TEXT>This is your best score</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Это ваш лучший счет</TEXT>
+			<SIZE>0</SIZE>	
+		</RU>
+		<FR>
+			<TEXT>C'est ton meilleur score</TEXT>
+			<SIZE>0</SIZE>			
+		</FR>
+		<DE>
+			<TEXT>Das ist Ihr bestes Ergebnis</TEXT>
+			<SIZE>0</SIZE>			
+		</DE>
+		<ES>
+			<TEXT>Esta es tu mejor puntuación.</TEXT>
+			<SIZE>0</SIZE>			
+		</ES>
+		<IT>
+			<TEXT>Questo è il tuo miglior punteggio</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+			<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="new_record">
+		<EN>
+			<TEXT>You have a new record</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас новый рекорд</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous avez un nouveau record</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Du hast einen neuen Rekord</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Tienes un nuevo récord</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Hai un nuovo record</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_tip" item_id="rewarded"  phrase_id="1">
+		<EN>
+			<TEXT>Ads are not available now, try again later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Реклама сейчас недоступна, повторите попытку позже.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Les annonces ne sont pas disponibles pour le moment, réessayez plus tard</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Derzeit sind keine Anzeigen verfügbar. Versuchen Sie es später noch einmal</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Los anuncios no están disponibles ahora, inténtelo de nuevo más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Gli annunci non sono disponibili al momento, riprova più tardi</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	
+</MAP>

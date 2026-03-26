@@ -1,0 +1,155 @@
+{
+  "file": "icon.png",
+  "frames": {
+    "icon1": {
+      "x": 370,
+      "y": 247,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon2": {
+      "x": 370,
+      "y": 124,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon3": {
+      "x": 370,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon4": {
+      "x": 247,
+      "y": 370,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon5": {
+      "x": 247,
+      "y": 247,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon6": {
+      "x": 247,
+      "y": 124,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon7": {
+      "x": 247,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon8": {
+      "x": 124,
+      "y": 370,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon9": {
+      "x": 124,
+      "y": 247,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon10": {
+      "x": 124,
+      "y": 124,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon11": {
+      "x": 124,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon12": {
+      "x": 1,
+      "y": 370,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon13": {
+      "x": 1,
+      "y": 247,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon14": {
+      "x": 1,
+      "y": 124,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    },
+    "icon15": {
+      "x": 1,
+      "y": 1,
+      "w": 121,
+      "h": 121,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 121,
+      "sourceH": 121
+    }
+  }
+}

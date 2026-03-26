@@ -1,0 +1,10 @@
+utility.number.delimiter=%SPACE%
+message.highscore=New highscore!
+title.nomoremoves=No more moves
+title.restart=Exit
+effect.double=Double clear!
+effect.triple=Triple clear!
+effect.mega=MEGA clear!
+multiplier.description=Multiplier
+panelResign.areYouSureYouWantToQuit=Are you sure?
+topUi.score=Score

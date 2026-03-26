@@ -1,0 +1,357 @@
+{
+  "textures": [
+    {
+      "image": "sprites/backgrounds-0.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 1894,
+        "h": 1935
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "bgshed.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 900,
+            "h": 675
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 900,
+            "h": 675
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 900,
+            "h": 675
+          }
+        },
+        {
+          "filename": "bgshed2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 900,
+            "h": 675
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 900,
+            "h": 675
+          },
+          "frame": {
+            "x": 905,
+            "y": 2,
+            "w": 900,
+            "h": 675
+          }
+        },
+        {
+          "filename": "startFakeBase.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 825,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 825,
+            "h": 750
+          },
+          "frame": {
+            "x": 2,
+            "y": 680,
+            "w": 825,
+            "h": 750
+          }
+        },
+        {
+          "filename": "bg3_broke.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 667,
+            "h": 500
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 667,
+            "h": 500
+          },
+          "frame": {
+            "x": 2,
+            "y": 1433,
+            "w": 667,
+            "h": 500
+          }
+        },
+        {
+          "filename": "bg4_broke.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 667,
+            "h": 500
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 667,
+            "h": 500
+          },
+          "frame": {
+            "x": 672,
+            "y": 1433,
+            "w": 667,
+            "h": 500
+          }
+        },
+        {
+          "filename": "startFakeBaseOverlay.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 825,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 825,
+            "h": 750
+          },
+          "frame": {
+            "x": 830,
+            "y": 680,
+            "w": 825,
+            "h": 750
+          }
+        },
+        {
+          "filename": "rain.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 550,
+            "h": 188
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 550,
+            "h": 188
+          },
+          "frame": {
+            "x": 1342,
+            "y": 1433,
+            "w": 550,
+            "h": 188
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprites/backgrounds-1.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 2007,
+        "h": 1360
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "bg1.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1000,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1000,
+            "h": 750
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 1000,
+            "h": 750
+          }
+        },
+        {
+          "filename": "bg2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1000,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1000,
+            "h": 750
+          },
+          "frame": {
+            "x": 1005,
+            "y": 2,
+            "w": 1000,
+            "h": 750
+          }
+        },
+        {
+          "filename": "bgout1.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 1000,
+            "h": 700
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 97,
+            "w": 1000,
+            "h": 603
+          },
+          "frame": {
+            "x": 2,
+            "y": 755,
+            "w": 1000,
+            "h": 603
+          }
+        },
+        {
+          "filename": "bgout3.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 1000,
+            "h": 700
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 129,
+            "w": 1000,
+            "h": 571
+          },
+          "frame": {
+            "x": 1005,
+            "y": 755,
+            "w": 1000,
+            "h": 571
+          }
+        }
+      ]
+    },
+    {
+      "image": "sprites/backgrounds-2.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 2008,
+        "h": 1360
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "bg4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1001,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1001,
+            "h": 750
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 1001,
+            "h": 750
+          }
+        },
+        {
+          "filename": "bg3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 1000,
+            "h": 750
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 1000,
+            "h": 750
+          },
+          "frame": {
+            "x": 1006,
+            "y": 2,
+            "w": 1000,
+            "h": 750
+          }
+        },
+        {
+          "filename": "bgout1Light.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 1000,
+            "h": 700
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 97,
+            "w": 1000,
+            "h": 603
+          },
+          "frame": {
+            "x": 2,
+            "y": 755,
+            "w": 1000,
+            "h": 603
+          }
+        },
+        {
+          "filename": "bgout2.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 1000,
+            "h": 700
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 97,
+            "w": 1000,
+            "h": 603
+          },
+          "frame": {
+            "x": 1005,
+            "y": 755,
+            "w": 1000,
+            "h": 603
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:a48f78c925eac154321980792fdbe59d:d16ed8987dc41bfa5e3c81e5e3bad803:8733dbb53606bf76dda81645ffc6dc8b$"
+  }
+}

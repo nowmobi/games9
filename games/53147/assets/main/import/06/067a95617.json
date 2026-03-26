@@ -1,0 +1,831 @@
+[
+  1,
+  [
+    "167a95617@6c48a"
+  ],
+  [
+    "_textureSource"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    [
+      [
+        {
+          "name": "strip_big",
+          "rect": {
+            "x": 3,
+            "y": 3,
+            "width": 641,
+            "height": 384
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 643,
+            "height": 386
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "cursorWight",
+          "rect": {
+            "x": 306,
+            "y": 696,
+            "width": 328,
+            "height": 319
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 328,
+            "height": 319
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_Long_red_hightlight",
+          "rect": {
+            "x": 3,
+            "y": 683,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": true,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_cat_paw",
+          "rect": {
+            "x": 746,
+            "y": 683,
+            "width": 253,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 253,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_cat_paw_down",
+          "rect": {
+            "x": 746,
+            "y": 849,
+            "width": 253,
+            "height": 160
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 253,
+            "height": 160
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_long_grey",
+          "rect": {
+            "x": 104,
+            "y": 683,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": -0.5,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 348,
+            "height": 107
+          },
+          "rotated": true,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_Long_red_down",
+          "rect": {
+            "x": 205,
+            "y": 683,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": true,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "tmp_cursor",
+          "rect": {
+            "x": 3,
+            "y": 393,
+            "width": 283,
+            "height": 273
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 283,
+            "height": 273
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "paw_bg",
+          "rect": {
+            "x": 650,
+            "y": 363,
+            "width": 335,
+            "height": 314
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 337,
+            "height": 316
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_long",
+          "rect": {
+            "x": 306,
+            "y": 393,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": false,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "cat_chest",
+          "rect": {
+            "x": 650,
+            "y": 3,
+            "width": 371,
+            "height": 354
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 371,
+            "height": 354
+          },
+          "rotated": false,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_long_down_green",
+          "rect": {
+            "x": 306,
+            "y": 494,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": false,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_skip",
+          "rect": {
+            "x": 991,
+            "y": 461,
+            "width": 41,
+            "height": 24
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 41,
+            "height": 24
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_mail",
+          "rect": {
+            "x": 991,
+            "y": 412,
+            "width": 43,
+            "height": 29
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 43,
+            "height": 29
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "icon_chest",
+          "rect": {
+            "x": 991,
+            "y": 363,
+            "width": 43,
+            "height": 30
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 43,
+            "height": 30
+          },
+          "rotated": true,
+          "capInsets": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_long_hightlight_green",
+          "rect": {
+            "x": 306,
+            "y": 595,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": false,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ],
+    [
+      [
+        {
+          "name": "button_long_green",
+          "rect": {
+            "x": 645,
+            "y": 683,
+            "width": 333,
+            "height": 95
+          },
+          "offset": {
+            "x": 0,
+            "y": 0
+          },
+          "originalSize": {
+            "width": 333,
+            "height": 95
+          },
+          "rotated": true,
+          "capInsets": [
+            100,
+            0,
+            100,
+            0
+          ],
+          "packable": true,
+          "pixelsToUnit": 100,
+          "pivot": {
+            "x": 0.5,
+            "y": 0.5
+          },
+          "meshType": 0
+        }
+      ],
+      [
+        0
+      ],
+      0,
+      [
+        0
+      ],
+      [
+        0
+      ],
+      [
+        0
+      ]
+    ]
+  ]
+]

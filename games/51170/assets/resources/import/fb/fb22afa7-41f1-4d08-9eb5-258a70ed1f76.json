@@ -1,0 +1,51 @@
+[
+  1,
+  [
+    "affLcYMvhPOaHsG8hL8S17"
+  ],
+  [
+    "_textureSetter"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "btnAvd",
+      "rect": [
+        0,
+        0,
+        151,
+        132
+      ],
+      "offset": [
+        0,
+        0.5
+      ],
+      "originalSize": [
+        151,
+        133
+      ],
+      "capInsets": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

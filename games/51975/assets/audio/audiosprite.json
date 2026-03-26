@@ -1,0 +1,118 @@
+{
+  "resources": [
+    "audiosprite.mp3",
+    "audiosprite.ogg"
+  ],
+  "spritemap": {
+    "ComboX_01": {
+      "start": 0,
+      "end": 1.4879818594104308,
+      "loop": false
+    },
+    "ComboX_02": {
+      "start": 3,
+      "end": 4.566984126984127,
+      "loop": false
+    },
+    "ComboX_03": {
+      "start": 6,
+      "end": 7.540997732426304,
+      "loop": false
+    },
+    "ComboX_04": {
+      "start": 9,
+      "end": 10.514988662131518,
+      "loop": false
+    },
+    "ComboX_05": {
+      "start": 12,
+      "end": 13.514988662131518,
+      "loop": false
+    },
+    "ComboX_06": {
+      "start": 15,
+      "end": 16.461995464852606,
+      "loop": false
+    },
+    "ComboX_07": {
+      "start": 18,
+      "end": 19.51498866213152,
+      "loop": false
+    },
+    "ComboX_08": {
+      "start": 21,
+      "end": 22.59299319727891,
+      "loop": false
+    },
+    "ComboX_09": {
+      "start": 24,
+      "end": 26.036984126984127,
+      "loop": false
+    },
+    "bgm_menu": {
+      "start": 28,
+      "end": 175.74857142857144,
+      "loop": false
+    },
+    "bgm_music": {
+      "start": 177,
+      "end": 404.55265306122453,
+      "loop": true
+    },
+    "click_buttons": {
+      "start": 406,
+      "end": 406.07798185941044,
+      "loop": false
+    },
+    "click_piece": {
+      "start": 408,
+      "end": 408.1619954648526,
+      "loop": false
+    },
+    "hint": {
+      "start": 410,
+      "end": 411.1149886621315,
+      "loop": false
+    },
+    "lose": {
+      "start": 413,
+      "end": 416.21299319727893,
+      "loop": false
+    },
+    "matched_pieces_correct": {
+      "start": 418,
+      "end": 418.71598639455783,
+      "loop": false
+    },
+    "matched_pieces_error": {
+      "start": 420,
+      "end": 421.3319954648526,
+      "loop": false
+    },
+    "points_1": {
+      "start": 423,
+      "end": 424.0709977324263,
+      "loop": false
+    },
+    "points_2": {
+      "start": 426,
+      "end": 427.0709977324263,
+      "loop": false
+    },
+    "points_3": {
+      "start": 429,
+      "end": 430.0439909297052,
+      "loop": false
+    },
+    "re_shuffle": {
+      "start": 432,
+      "end": 433.00897959183675,
+      "loop": false
+    },
+    "win": {
+      "start": 435,
+      "end": 439.7279818594104,
+      "loop": false
+    }
+  }
+}

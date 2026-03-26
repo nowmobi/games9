@@ -1,0 +1,135 @@
+<!doctype html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <script async src="https://gamepush.com/sdk/gamepush.js?projectId=10192&publicToken=RS88mZAeGXvlPxCtCsGqCxcA7NJxtW01&callback=onGPInit"></script>
+        <title>Block Champ</title>
+        <style>
+            html,
+            body {
+                padding: 0;
+                border: 0;
+                margin: 0;
+                height: 100%;
+            }
+        </style>
+        
+        <script src='build/wr.js'></script>
+    
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+    <body>        
+
+        <script>
+            window.onGPInit = async (gp) => {
+                window.globalGP = gp;
+                window.gameName = "10puzzle";
+                var isMobile = /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);  
+               // await gp.player.ready;                              
+                await gp.ads.showPreloader();
+                await gp.variables.fetch();
+               
+                // Show the sticky banner (then it will update itself)
+                gp.ads.showSticky();
+            
+                var script = document.createElement('script');
+                script.src = 'build/pixi.js';
+                document.head.appendChild(script);
+
+                var script = document.createElement('script');
+                script.src = 'build/main.js';
+                document.head.appendChild(script);
+
+                AdShow = new Event('AdShow');
+                AdClose = new Event('AdClose');
+                window.adShowed = false;
+
+                if (gp.variables.has("adDelay")) {
+                    adDelay = gp.variables.get("adDelay");
+                }else{
+                    adDelay = 180000;
+                }
+                if (gp.variables.has("firstAdDelay")) {
+                    firstAdDelay = gp.variables.get("firstAdDelay");
+                }else{
+                    firstAdDelay = 180000;
+                }
+                
+                function showAd() {
+                    setTimeout(showAd, adDelay);
+                    if(window.adShowed !== true && gp.ads.isFullscreenAvailable){
+                        gp.ads.showFullscreen({ showCountdownOverlay: true });
+                        
+                        gp.ads.on('fullscreen:start', () => {
+                            window.adShowed = true;
+                            window.dispatchEvent(AdShow);
+                            
+                        });
+
+                        gp.ads.on('fullscreen:close', (success) => {
+                            window.adShowed = false;
+                            window.dispatchEvent(AdClose);
+                           // setTimeout(showAd, adDelay);
+                        });
+                    }
+                    
+                }
+                setTimeout(showAd, firstAdDelay);
+            };
+        </script>
+
+        <div id="gamePlace" style="height:100%;"></div>
+    
+    </body>
+</html>

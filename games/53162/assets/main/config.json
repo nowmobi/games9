@@ -1,0 +1,64 @@
+{
+  "paths": {},
+  "types": [],
+  "uuids": [
+    "a3IRc8dKxFxaATsA8GglK0",
+    "ffoYLcyupMVpgBQLb3Vcak",
+    "00RfKeRt5C9Lewe7QMAiic",
+    "51Rtaf6LBMCI1UmZc8CDRY",
+    "6902dmzpNOSpj+ig6u6ufu",
+    "6eCjbQ2alEnZQrAlaXEaMW",
+    "6fiWlWlwJESZqxvN0UbJbA",
+    "79/sff/hlFlL/ksPDq9is+",
+    "82enJu1YhCQaP5Vzwasukc",
+    "8ez92gWlNJh7u6SAwMyCQ/",
+    "ccsOsYQ/lKzKHpDL1Ph2RC",
+    "cezzjcE4lOYac9cj9BWv+D",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "eeuXvXLSNI/qHaFgky+Ld4",
+    "f98R6uUOtMcox0N0Dk/kej"
+  ],
+  "scenes": {
+    "db://assets/main/First.fire": 2,
+    "db://assets/main/GameScene.fire": 0,
+    "db://assets/main/GxFirstScene.fire": 9,
+    "db://assets/main/LoadingScene.fire": 1
+  },
+  "redirect": [
+    6,
+    0,
+    8,
+    0,
+    10,
+    0,
+    12,
+    1
+  ],
+  "deps": [
+    "resources",
+    "internal"
+  ],
+  "packs": {
+    "0a8190469": [
+      5,
+      7,
+      11,
+      1
+    ],
+    "0cf4b61a0": [
+      3,
+      4,
+      14
+    ],
+    "0e6fdf0f4": [
+      0,
+      13
+    ]
+  },
+  "name": "main",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false
+}

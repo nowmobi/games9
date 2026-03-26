@@ -1,0 +1,20 @@
+{
+  "companyName": "DefaultCompany",
+  "productName": "Line Shape Puzzle",
+  "dataUrl": "New folder (2).data.unityweb",
+  "wasmCodeUrl": "New folder (2).wasm.code.unityweb",
+  "wasmFrameworkUrl": "New folder (2).wasm.framework.unityweb",
+  "TOTAL_MEMORY": 268435456,
+  "graphicsAPI": [
+    "WebGL 2.0",
+    "WebGL 1.0"
+  ],
+  "webglContextAttributes": {
+    "preserveDrawingBuffer": false
+  },
+  "splashScreenStyle": "Dark",
+  "backgroundColor": "#231F20",
+  "cacheControl": {
+    "default": "must-revalidate"
+  }
+}

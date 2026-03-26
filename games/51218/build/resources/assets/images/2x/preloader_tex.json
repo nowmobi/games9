@@ -1,0 +1,36 @@
+{
+  "width": 1024,
+  "SubTexture": [
+    {
+      "width": 540,
+      "y": 519,
+      "height": 24,
+      "name": "progress_bar",
+      "x": 3
+    },
+    {
+      "width": 540,
+      "y": 489,
+      "height": 24,
+      "name": "progress_bar_full",
+      "x": 3
+    },
+    {
+      "width": 730,
+      "y": 3,
+      "height": 480,
+      "name": "BlockChampLogo",
+      "x": 3
+    },
+    {
+      "width": 70,
+      "y": 489,
+      "height": 72,
+      "name": "block_assets_preloader",
+      "x": 549
+    }
+  ],
+  "height": 1024,
+  "name": "preloader",
+  "imagePath": "preloader_tex.png"
+}

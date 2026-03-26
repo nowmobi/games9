@@ -1,0 +1,4 @@
+D:/svn/CountAndBounce3D/trunk/cfg_c/json/constant.json
+D:/svn/CountAndBounce3D/trunk/cfg_c/json/skinCfg.json
+D:/svn/CountAndBounce3D/trunk/cfg_c/json/soundCfg.json
+D:/svn/CountAndBounce3D/trunk/cfg_c/json/stageCfg.json

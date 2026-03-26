@@ -1,0 +1,311 @@
+{
+	"version": "LAYAHIERARCHY:02",
+	"data": {
+		"type": "Sprite3D",
+		"instanceID": 203,
+		"props": {
+			"name": "card",
+			"active": true,
+			"isStatic": false,
+			"layer": 0,
+			"position": [
+				0,
+				0,
+				0
+			],
+			"rotation": [
+				0,
+				0,
+				0,
+				-1
+			],
+			"scale": [
+				1,
+				1,
+				1
+			]
+		},
+		"components": [],
+		"child": [
+			{
+				"type": "MeshSprite3D",
+				"instanceID": 204,
+				"props": {
+					"name": "bg",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						2.7,
+						0
+					],
+					"rotation": [
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						1.5,
+						1.5,
+						1
+					],
+					"meshPath": "Assets/Models/mesh_Plane_01-mesh_Plane_01.lm",
+					"enableRender": true,
+					"receiveShadows": false,
+					"castShadow": true,
+					"materials": [
+						{
+							"path": "Assets/Materials/Background_3.lmat"
+						}
+					]
+				},
+				"components": [],
+				"child": []
+			},
+			{
+				"type": "MeshSprite3D",
+				"instanceID": 205,
+				"props": {
+					"name": "mesh_juese_01",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						2.7,
+						0
+					],
+					"rotation": [
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						1,
+						1,
+						1
+					],
+					"meshPath": "Assets/Models/mesh_Plane_01-mesh_Plane_01.lm",
+					"enableRender": true,
+					"receiveShadows": false,
+					"castShadow": true,
+					"materials": [
+						{
+							"path": "Assets/Materials/BabyBlue_Cards.lmat"
+						}
+					]
+				},
+				"components": [],
+				"child": []
+			},
+			{
+				"type": "Sprite3D",
+				"instanceID": 206,
+				"props": {
+					"name": "bar_gold",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						5.89,
+						0
+					],
+					"rotation": [
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						1,
+						1,
+						1
+					]
+				},
+				"components": [],
+				"child": [
+					{
+						"type": "MeshSprite3D",
+						"instanceID": 207,
+						"props": {
+							"name": "bar_gold",
+							"active": true,
+							"isStatic": false,
+							"layer": 0,
+							"position": [
+								0,
+								0,
+								0
+							],
+							"rotation": [
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale": [
+								2,
+								0.75,
+								1
+							],
+							"meshPath": "Library/unity default resources-Quad.lm",
+							"enableRender": true,
+							"receiveShadows": false,
+							"castShadow": true,
+							"materials": [
+								{
+									"path": "Assets/Materials/bar_gold.lmat"
+								}
+							]
+						},
+						"components": [],
+						"child": []
+					},
+					{
+						"type": "MeshSprite3D",
+						"instanceID": 208,
+						"props": {
+							"name": "icon",
+							"active": true,
+							"isStatic": false,
+							"layer": 0,
+							"position": [
+								-0.632,
+								-0.01,
+								0
+							],
+							"rotation": [
+								0,
+								0,
+								0,
+								-1
+							],
+							"scale": [
+								0.5,
+								0.5,
+								0.5
+							],
+							"meshPath": "Library/unity default resources-Quad.lm",
+							"enableRender": true,
+							"receiveShadows": false,
+							"castShadow": true,
+							"materials": [
+								{
+									"path": "Assets/Materials/icon_gold.lmat"
+								}
+							]
+						},
+						"components": [],
+						"child": []
+					}
+				]
+			},
+			{
+				"type": "Sprite3D",
+				"instanceID": 209,
+				"props": {
+					"name": "collider",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						2.77,
+						0
+					],
+					"rotation": [
+						2.185569e-8,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						3.5,
+						5.5,
+						0.3
+					]
+				},
+				"components": [],
+				"child": []
+			},
+			{
+				"type": "MeshSprite3D",
+				"instanceID": 210,
+				"props": {
+					"name": "txt_name",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						1,
+						0
+					],
+					"rotation": [
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						2,
+						0.5,
+						1
+					],
+					"meshPath": "Library/unity default resources-Quad.lm",
+					"enableRender": true,
+					"receiveShadows": false,
+					"castShadow": true,
+					"materials": [
+						{
+							"path": "Assets/Materials/txt_name.lmat"
+						}
+					]
+				},
+				"components": [],
+				"child": []
+			},
+			{
+				"type": "MeshSprite3D",
+				"instanceID": 211,
+				"props": {
+					"name": "bar_name",
+					"active": true,
+					"isStatic": false,
+					"layer": 0,
+					"position": [
+						0,
+						1,
+						0
+					],
+					"rotation": [
+						0,
+						0,
+						0,
+						-1
+					],
+					"scale": [
+						3,
+						0.75,
+						1
+					],
+					"meshPath": "Library/unity default resources-Quad.lm",
+					"enableRender": true,
+					"receiveShadows": false,
+					"castShadow": true,
+					"materials": [
+						{
+							"path": "Assets/Materials/bar_name.lmat"
+						}
+					]
+				},
+				"components": [],
+				"child": []
+			}
+		]
+	}
+}

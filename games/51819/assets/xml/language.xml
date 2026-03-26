@@ -1,0 +1,434 @@
+﻿<?xml version="1.0"  encoding="UTF-8"?>
+<MAP>
+<DYNAMIC_PHRASE scene_id="game_map" item_id="shop"  phrase_id="1">
+		<EN>
+			<TEXT>Shop</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Магазин</TEXT>
+			<SIZE>-12</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Boutique</TEXT>
+			<SIZE>-12</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Geschäft</TEXT>
+			<SIZE>-12</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Comercio</TEXT>
+			<SIZE>-12</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Negozio</TEXT>
+			<SIZE>-12</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_map" item_id="button_play"  phrase_id="1">
+		<EN>
+			<TEXT>Play</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Играть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+        <FR>
+			<TEXT>Jouer</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+        <ES>
+			<TEXT>Jugar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+        <DE>
+			<TEXT>Spielen</TEXT>
+			<SIZE>0</SIZE>		
+	    </DE>
+		
+		<IT>
+			<TEXT>Giocare</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="money">
+		<EN>
+			<TEXT>This is your coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Это ваши монеты</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ce sont vos pièces</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Das sind Ihre Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Estas son tus monedas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Queste sono le tue monete</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="record">
+		<EN>
+			<TEXT>This is your record</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Это ваш рекорд</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ceci est votre dossier</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Das ist Ihre Akte</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Este es tu registro</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Questo è il tuo record</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_tip" item_id="tip"  phrase_id="new_record">
+		<EN>
+			<TEXT>You have a new record</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>У вас новый рекорд</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous avez un nouveau record</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Du hast einen neuen Rekord</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Tienes un nuevo récord</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Hai un nuovo record</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="1">
+		<EN>
+			<TEXT>Continue</TEXT>
+			<SIZE>-4</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Продолжить</TEXT>
+			<SIZE>-4</SIZE>	
+		</RU>
+		<FR>
+			<TEXT>Continuer</TEXT>
+			<SIZE>-4</SIZE>			
+		</FR>
+		<DE>
+			<TEXT>Weitermachen</TEXT>
+			<SIZE>-12</SIZE>			
+		</DE>
+		<ES>
+			<TEXT>Continuar</TEXT>
+			<SIZE>-4</SIZE>			
+		</ES>
+		<IT>
+			<TEXT>Continua</TEXT>
+			<SIZE>-4</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="2">
+		<EN>
+			<TEXT>Watch</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Смотреть</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Montre</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Betrachten</TEXT>
+			<SIZE>-12</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Mirar</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Orologio</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="level_failed"  phrase_id="3">
+		<EN>
+			<TEXT>Cancel</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Отмена</TEXT>
+			<SIZE>-6</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Annuler</TEXT>
+			<SIZE>-6</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Stornieren</TEXT>
+			<SIZE>-6</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Cancelar</TEXT>
+			<SIZE>-6</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Annulla</TEXT>
+			<SIZE>-6</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+		<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="1">
+		<EN>
+			<TEXT>Quit?</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Выйти?</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Quitter?</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Aufhören?</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>¿Abandonar?</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Esci?</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+			<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="2">
+		<EN>
+			<TEXT>Yes</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Да</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Oui</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Ja</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Sí</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>SÌ</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_windows" item_id="quit"  phrase_id="3">
+		<EN>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Нет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Non</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>NEIN</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>No</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>NO</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="1">
+		<EN>
+			<TEXT>Unlock %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Разблокировать %val</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Ouvrir %val</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Freischalten %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>desbloquear %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Sbloccare %val</TEXT>
+			<SIZE>-8</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="shop" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>Left %val</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Осталось %val</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Restantes %val</TEXT>
+			<SIZE>-4</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Übrig %val</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Dejados %val</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Rimaste %val</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="shop"  phrase_id="1">
+		<EN>
+			<TEXT>You don't have enough coins</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Вам не хватает монет</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Vous n'avez pas assez de pièces</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Sie haben nicht genug Münzen</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>No tienes suficientes monedas</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Non hai abbastanza monete</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_tip" item_id="shop"  phrase_id="2">
+		<EN>
+			<TEXT>Ads are not available now, try again later</TEXT>
+			<SIZE>0</SIZE>		
+		</EN>
+		<RU>
+			<TEXT>Реклама сейчас недоступна, повторите попытку позже.</TEXT>
+			<SIZE>0</SIZE>
+		</RU>
+		<FR>
+			<TEXT>Les annonces ne sont pas disponibles pour le moment, réessayez plus tard</TEXT>
+			<SIZE>0</SIZE>		
+		</FR>
+		<DE>
+			<TEXT>Derzeit sind keine Anzeigen verfügbar. Versuchen Sie es später noch einmal</TEXT>
+			<SIZE>0</SIZE>		
+		</DE>
+		<ES>
+			<TEXT>Los anuncios no están disponibles ahora, inténtelo de nuevo más tarde</TEXT>
+			<SIZE>0</SIZE>		
+		</ES>
+		<IT>
+			<TEXT>Gli annunci non sono disponibili al momento, riprova più tardi</TEXT>
+			<SIZE>0</SIZE>		
+		</IT>
+	</DYNAMIC_PHRASE>
+	<DYNAMIC_PHRASE scene_id="game_play" item_id="boss"  phrase_id="1">
+	  <EN>
+		<TEXT>Boss fight!</TEXT>
+		<SIZE>0</SIZE>		
+	  </EN>
+	  <RU>
+		<TEXT>Битва с боссом!</TEXT>
+		<SIZE>0</SIZE>
+	  </RU>
+    	<FR>
+		<TEXT>Combat de boss !</TEXT>
+		<SIZE>0</SIZE>		
+	  </FR>
+    	<ES>
+		<TEXT>¡Lucha del jefe!</TEXT>
+		<SIZE>0</SIZE>		
+	  </ES>
+
+        <DE>
+		<TEXT>Bosskampf!</TEXT>
+		<SIZE>0</SIZE>		
+	  </DE>
+	  <IT>
+		<TEXT>Lotta contro il boss!</TEXT>
+		<SIZE>0</SIZE>		
+	  </IT>
+    </DYNAMIC_PHRASE>
+</MAP>

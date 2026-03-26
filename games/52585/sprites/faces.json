@@ -1,0 +1,986 @@
+{
+  "textures": [
+    {
+      "image": "sprites/faces.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 919,
+        "h": 1225
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "bruna_behind.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_concern.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_grin.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 2,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "bruna_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_angry.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_dark_calm.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_doubt.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 155,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "caspar_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "doggo_angry.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "doggo_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "doggo_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "edith_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "edith_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 308,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "edith_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "edith_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_and_edith.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_2.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_3.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 461,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_3x.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_4.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_5.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_eye_6.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 614,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "ethan_yell.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "girls_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "juan_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "juan_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 767,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "juan_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "juan_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_angry.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_dark_scared.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_happy.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 614,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_normal.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 767,
+            "y": 920,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_reminisce.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 2,
+            "y": 1073,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_sad.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 155,
+            "y": 1073,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "maggie_yell.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 308,
+            "y": 1073,
+            "w": 150,
+            "h": 150
+          }
+        },
+        {
+          "filename": "staticframe.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 150,
+            "h": 150
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 150,
+            "h": 150
+          },
+          "frame": {
+            "x": 461,
+            "y": 1073,
+            "w": 150,
+            "h": 150
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:988f4980f5e6d083d22f1b595691511e:d8bad5a05da0adf4595ea77aaf675036:ff3379666a0c4d2f326be6bf33a7f089$"
+  }
+}

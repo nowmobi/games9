@@ -1,0 +1,614 @@
+{
+  "data": {
+    "EASY": [
+      {
+        "levelID": 1,
+        "status": "unlocked",
+        "frame": 0,
+        "stars": 0
+      },
+      {
+        "levelID": 2,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 3,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 4,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 5,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 6,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 7,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 8,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 9,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 10,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 11,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 12,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 13,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 14,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 15,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 16,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 17,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 18,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 19,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 20,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      }
+    ],
+    "DIFFICULT": [
+      {
+        "levelID": 1,
+        "status": "unlocked",
+        "frame": 0,
+        "stars": 0
+      },
+      {
+        "levelID": 2,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 3,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 4,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 5,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 6,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 7,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 8,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 9,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 10,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 11,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 12,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 13,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 14,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 15,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 16,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 17,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 18,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 19,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 20,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      }
+    ],
+    "HARD": [
+      {
+        "levelID": 1,
+        "status": "unlocked",
+        "frame": 0,
+        "stars": 0
+      },
+      {
+        "levelID": 2,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 3,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 4,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 5,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 6,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 7,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 8,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 9,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 10,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 11,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 12,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 13,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 14,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 15,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 16,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 17,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 18,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 19,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 20,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      }
+    ],
+    "CHALLENGING": [
+      {
+        "levelID": 1,
+        "status": "unlocked",
+        "frame": 0,
+        "stars": 0
+      },
+      {
+        "levelID": 2,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 3,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 4,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 5,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 6,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 7,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 8,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 9,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 10,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 11,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 12,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 13,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 14,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 15,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 16,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 17,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 18,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 19,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 20,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      }
+    ],
+    "EXTREME": [
+      {
+        "levelID": 1,
+        "status": "unlocked",
+        "frame": 0,
+        "stars": 0
+      },
+      {
+        "levelID": 2,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 3,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 4,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 5,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 6,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 7,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 8,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 9,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 10,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 11,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 12,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 13,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 14,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 15,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 16,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 17,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 18,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 19,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      },
+      {
+        "levelID": 20,
+        "status": "locked",
+        "frame": 4,
+        "stars": 0
+      }
+    ]
+  }
+}

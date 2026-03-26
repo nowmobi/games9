@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang=en>
+    <head>
+        <meta charset=UTF-8>
+        <title>Idle Zoo: Safari Rescue</title>
+        <meta name=viewport content="width=device-width,initial-scale=1,user-scalable=no">
+        <meta name=HandheldFriendly content=True>
+        <meta name=MobileOptimized content=320>
+        <meta name=apple-mobile-web-app-capable content=yes>
+        <meta name=mobile-web-app-capable content=yes>
+        <meta http-equiv=cleartype content=on>
+        <meta name=format-detection content="telephone=no">
+        <meta name=theme-color content=#ffffff>
+        <link rel=manifest href=/manifest.json>
+        <style>
+            body,html {
+                margin: 0;
+                padding: 0
+            }
+
+            @font-face {
+                font-family: Raleway;
+                src: url(assets/fonts/Raleway-Bold.ttf) format('truetype')
+            }
+
+            @font-face {
+                font-family: Quicksand;
+                src: url(assets/fonts/Quicksand-VariableFont.ttf) format('truetype');
+                font-weight: 400,bold
+            }
+
+            @font-face {
+                font-family: QuicksandSemiBold;
+                src: url(assets/fonts/Quicksand-SemiBold.ttf) format('truetype');
+                font-weight: 700
+            }
+
+            @font-face {
+                font-family: QuicksandBold;
+                src: url(assets/fonts/Quicksand-Bold.ttf) format('truetype');
+                font-weight: 700
+            }
+
+            .fontPreload1 {
+                font-family: Raleway;
+                position: absolute;
+                left: -100px
+            }
+
+            .fontPreload2 {
+                font-family: QuicksandSemiBold;
+                position: absolute;
+                left: -100px
+            }
+        </style>
+        <script type="text/javascript" src="GameMonetizeAD.min.js?V=12182113"></script>
+    
+    <style>
+      /* 隐藏所有广告容器 */
+      #imaContainer,
+      #imaContainer_new,
+      #sdk__advertisement,
+      #gmLoadingText,
+      iframe[src*="imasdk"],
+      iframe[src*="doubleclick"],
+      iframe[src*="googlesyndication"],
+      iframe[title="Advertisement"],
+      div[id*="google_ads"],
+      div[id*="aswift"] {
+        display: none !important;
+        visibility: hidden !important;
+        opacity: 0 !important;
+        pointer-events: none !important;
+      }
+    </style>
+    <script>
+      // 定期清除动态插入的广告元素
+      setInterval(function() {
+        var adSelectors = [
+          '#imaContainer',
+          '#imaContainer_new', 
+          '#sdk__advertisement',
+          '#gmLoadingText',
+          'iframe[src*="imasdk"]',
+          'iframe[src*="doubleclick"]',
+          'iframe[src*="googlesyndication"]',
+          'iframe[title="Advertisement"]',
+          'div[id*="google_ads"]',
+          'div[id*="aswift"]'
+        ];
+        
+        adSelectors.forEach(function(selector) {
+          var elements = document.querySelectorAll(selector);
+          elements.forEach(function(el) {
+            if (el && el.parentNode) {
+              el.parentNode.removeChild(el);
+            }
+          });
+        });
+
+        // 阻止广告SDK函数
+        if (window.sdk_init) window.sdk_init = function() {};
+        if (window.sdk) window.sdk = { showBanner: function() {}, requestAd: function() {} };
+        if (window.adBreak) window.adBreak = function() {};
+        if (window.adConfig) window.adConfig = function() {};
+      }, 500);
+    </script>
+
+  </head>
+    <body>
+        <div id=content></div>
+        <script type=text/javascript src=./js/vendor.bundle.js?e6d9dc6d0196d489d61d></script>
+        <script type=text/javascript src=./js/bundle.js?e6d9dc6d0196d489d61d></script>
+    </body>
+</html>

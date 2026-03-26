@@ -1,0 +1,64 @@
+html,body {
+	width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background: url('../assets/sprites/backgroundCover.jpg');
+	margin: 0 0 25px;
+	background-repeat:no-repeat;
+	background-position:center;
+	background-size:cover;
+}
+
+#phaser-game {
+	z-index: 10;
+	position: relative;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+	
+:fullscreen, ::backdrop {
+	background-color: #000000 ;
+}
+
+#wrongRotation {
+	display: none;
+	-webkit-display: none;
+	-ms-display: none;
+	z-index: 15;
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 1);
+}
+
+#wrongRotation img {
+	display: block;
+	-webkit-display: block;
+	-ms-display: block;
+	  width: 30%;
+	  margin-left: auto;
+	  margin-right: auto;
+	  position: relative;
+	  top: 50%;
+	  -webkit-transform: translateY(-50%);
+	  -ms-transform: translateY(-50%);
+	  transform: translateY(-50%);
+}
+#menu {
+	position: fixed;
+}
+
+@font-face {
+	font-family: 'gameFont';
+	src: url('../assets/fnt/Digitalt.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+
+
+

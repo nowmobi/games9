@@ -1,0 +1,1489 @@
+{
+  "paths": {
+    "0": [
+      "GamePlay/suo",
+      1
+    ],
+    "1": [
+      "GamePlay/small",
+      1
+    ],
+    "2": [
+      "propUI/title_icon5",
+      1
+    ],
+    "3": [
+      "GamePlay/revoke",
+      1
+    ],
+    "4": [
+      "skin/skin1",
+      1
+    ],
+    "5": [
+      "GamePlay/share",
+      1
+    ],
+    "6": [
+      "LoadUI/适龄",
+      1
+    ],
+    "7": [
+      "s",
+      1
+    ],
+    "8": [
+      "GameHome/logo",
+      1
+    ],
+    "9": [
+      "propUI/btn4",
+      1
+    ],
+    "10": [
+      "GameHome/add1",
+      1
+    ],
+    "11": [
+      "propUI/btn3",
+      1
+    ],
+    "12": [
+      "sound/click",
+      7
+    ],
+    "13": [
+      "GameHome/home",
+      1
+    ],
+    "14": [
+      "img/block",
+      1
+    ],
+    "15": [
+      "propUI/close",
+      1
+    ],
+    "16": [
+      "propUI/item",
+      1
+    ],
+    "17": [
+      "skin/skinTitle_2",
+      1
+    ],
+    "18": [
+      "GamePlay/GamePlay",
+      2
+    ],
+    "19": [
+      "sound/bgm",
+      7
+    ],
+    "20": [
+      "propUI/btn6",
+      1
+    ],
+    "21": [
+      "GameHome/logo-GD",
+      1
+    ],
+    "22": [
+      "propUI/desc1",
+      1
+    ],
+    "23": [
+      "propUI/shibai",
+      1
+    ],
+    "24": [
+      "GamePlay/logo",
+      1
+    ],
+    "25": [
+      "skin/skin2",
+      1
+    ],
+    "26": [
+      "propUI/title_icon1",
+      1
+    ],
+    "27": [
+      "GamePlay/refresh",
+      1
+    ],
+    "28": [
+      "propUI/title_icon3",
+      1
+    ],
+    "29": [
+      "GamePlay/share1",
+      1
+    ],
+    "30": [
+      "GamePlay/alarm",
+      1
+    ],
+    "31": [
+      "LoadUI/pass2",
+      1
+    ],
+    "32": [
+      "GamePlay/shuffle",
+      1
+    ],
+    "33": [
+      "propUI/btn2",
+      1
+    ],
+    "34": [
+      "GameHome/skinbtn",
+      1
+    ],
+    "35": [
+      "propUI/btn1",
+      1
+    ],
+    "36": [
+      "GameHome/border",
+      1
+    ],
+    "37": [
+      "GameHome/xin",
+      1
+    ],
+    "38": [
+      "GameHome/shou",
+      1
+    ],
+    "39": [
+      "skin/skinTitle_1",
+      1
+    ],
+    "40": [
+      "GameHome/gd",
+      1
+    ],
+    "41": [
+      "propUI/title",
+      1
+    ],
+    "42": [
+      "GamePlay/tips",
+      1
+    ],
+    "43": [
+      "GamePlay/bomb",
+      1
+    ],
+    "44": [
+      "propUI/title_icon6",
+      1
+    ],
+    "45": [
+      "sound/success1",
+      7
+    ],
+    "46": [
+      "propUI/closeBtn",
+      1
+    ],
+    "47": [
+      "propUI/prop5",
+      1
+    ],
+    "48": [
+      "propUI/mask1",
+      1
+    ],
+    "49": [
+      "sound/move",
+      7
+    ],
+    "50": [
+      "propUI/title_icon7",
+      1
+    ],
+    "51": [
+      "GameHome/2",
+      1
+    ],
+    "52": [
+      "propUI/title_icon4",
+      1
+    ],
+    "53": [
+      "propUI/title_icon2",
+      1
+    ],
+    "54": [
+      "LoadUI/jian",
+      1
+    ],
+    "55": [
+      "GameHome/rank",
+      1
+    ],
+    "56": [
+      "propUI/prop3",
+      1
+    ],
+    "57": [
+      "propUI/star",
+      1
+    ],
+    "58": [
+      "sound/xiao",
+      7
+    ],
+    "59": [
+      "propUI/desc",
+      1
+    ],
+    "60": [
+      "GamePlay/zhuomian",
+      1
+    ],
+    "61": [
+      "GamePlay/blank",
+      1
+    ],
+    "62": [
+      "img/font",
+      1
+    ],
+    "63": [
+      "propUI/use",
+      1
+    ],
+    "64": [
+      "LoadUI/pass1",
+      1
+    ],
+    "65": [
+      "GameHome/add",
+      1
+    ],
+    "66": [
+      "propUI/propUI",
+      2
+    ],
+    "67": [
+      "GamePlay/center",
+      1
+    ],
+    "68": [
+      "GameHome/btn",
+      1
+    ],
+    "69": [
+      "GamePlay/bj",
+      1
+    ],
+    "70": [
+      "propUI/btn5",
+      1
+    ],
+    "71": [
+      "propUI/desc2",
+      1
+    ],
+    "72": [
+      "propUI/prop_item",
+      1
+    ],
+    "73": [
+      "GamePlay/video",
+      1
+    ],
+    "74": [
+      "GameHome/1",
+      1
+    ],
+    "75": [
+      "GameHome/1",
+      0,
+      1
+    ],
+    "76": [
+      "propUI/title_icon5",
+      0,
+      1
+    ],
+    "77": [
+      "perfabs/other/ItemBlock",
+      5
+    ],
+    "78": [
+      "propUI/star",
+      0,
+      1
+    ],
+    "79": [
+      "perfabs/menu/GameHome",
+      5
+    ],
+    "80": [
+      "propUI/title_icon6",
+      0,
+      1
+    ],
+    "81": [
+      "propUI/prop_item",
+      0,
+      1
+    ],
+    "82": [
+      "skin/skinTitle_1",
+      0,
+      1
+    ],
+    "83": [
+      "perfabs/menu/FailMenu",
+      5
+    ],
+    "84": [
+      "GamePlay/zhuomian",
+      0,
+      1
+    ],
+    "85": [
+      "perfabs/menu/LoadUI",
+      5
+    ],
+    "86": [
+      "propUI/shibai",
+      0,
+      1
+    ],
+    "87": [
+      "propUI/btn3",
+      0,
+      1
+    ],
+    "88": [
+      "perfabs/menu/PhysicalMenu",
+      5
+    ],
+    "89": [
+      "s",
+      0,
+      1
+    ],
+    "90": [
+      "propUI/prop5",
+      0,
+      1
+    ],
+    "91": [
+      "GameHome/gd",
+      0,
+      1
+    ],
+    "92": [
+      "GameHome/add1",
+      0,
+      1
+    ],
+    "93": [
+      "skin/skin2",
+      6
+    ],
+    "94": [
+      "propUI/title_icon1",
+      0,
+      1
+    ],
+    "95": [
+      "aim/tween",
+      3
+    ],
+    "96": [
+      "perfabs/menu/SkinMenu",
+      5
+    ],
+    "97": [
+      "data/level",
+      4
+    ],
+    "98": [
+      "perfabs/menu/GamePlay1",
+      5
+    ],
+    "99": [
+      "skin/skinTitle_2",
+      0,
+      1
+    ],
+    "100": [
+      "perfabs/menu/Settlement",
+      5
+    ],
+    "101": [
+      "GameHome/add",
+      0,
+      1
+    ],
+    "102": [
+      "GameHome/home",
+      0,
+      1
+    ],
+    "103": [
+      "propUI/item",
+      0,
+      1
+    ],
+    "104": [
+      "data/level2",
+      4
+    ],
+    "105": [
+      "GamePlay/alarm",
+      0,
+      1
+    ],
+    "106": [
+      "GameHome/xin",
+      0,
+      1
+    ],
+    "107": [
+      "img/block",
+      0,
+      1
+    ],
+    "108": [
+      "perfabs/menu/TreasureMenu",
+      5
+    ],
+    "109": [
+      "perfabs/menu/Resurrection",
+      5
+    ],
+    "110": [
+      "perfabs/menu/PrivacyMenu",
+      5
+    ],
+    "111": [
+      "perfabs/other/Piece",
+      5
+    ],
+    "112": [
+      "LoadUI/jian",
+      0,
+      1
+    ],
+    "113": [
+      "propUI/close",
+      0,
+      1
+    ],
+    "114": [
+      "propUI/desc2",
+      0,
+      1
+    ],
+    "115": [
+      "GameHome/skinbtn",
+      0,
+      1
+    ],
+    "116": [
+      "propUI/title",
+      0,
+      1
+    ],
+    "117": [
+      "GamePlay/center",
+      0,
+      1
+    ],
+    "118": [
+      "propUI/title_icon7",
+      0,
+      1
+    ],
+    "119": [
+      "propUI/title_icon3",
+      0,
+      1
+    ],
+    "120": [
+      "GameHome/btn",
+      0,
+      1
+    ],
+    "121": [
+      "perfabs/menu/GameLevel",
+      5
+    ],
+    "122": [
+      "GamePlay/shuffle",
+      0,
+      1
+    ],
+    "123": [
+      "GamePlay/tips",
+      0,
+      1
+    ],
+    "124": [
+      "GamePlay/share1",
+      0,
+      1
+    ],
+    "125": [
+      "propUI/desc",
+      0,
+      1
+    ],
+    "126": [
+      "propUI/desc1",
+      0,
+      1
+    ],
+    "127": [
+      "GamePlay/video",
+      0,
+      1
+    ],
+    "128": [
+      "propUI/mask1",
+      0,
+      1
+    ],
+    "129": [
+      "GamePlay/bj",
+      0,
+      1
+    ],
+    "130": [
+      "perfabs/other/TipDesc",
+      5
+    ],
+    "131": [
+      "GamePlay/refresh",
+      0,
+      1
+    ],
+    "132": [
+      "GameHome/logo-GD",
+      0,
+      1
+    ],
+    "133": [
+      "GamePlay/suo",
+      0,
+      1
+    ],
+    "134": [
+      "propUI/prop3",
+      0,
+      1
+    ],
+    "135": [
+      "propUI/btn6",
+      0,
+      1
+    ],
+    "136": [
+      "perfabs/menu/TiplMenu",
+      5
+    ],
+    "137": [
+      "GameHome/shou",
+      0,
+      1
+    ],
+    "138": [
+      "GameHome/border",
+      0,
+      1
+    ],
+    "139": [
+      "img/font",
+      0,
+      1
+    ],
+    "140": [
+      "propUI/btn2",
+      0,
+      1
+    ],
+    "141": [
+      "GameHome/2",
+      0,
+      1
+    ],
+    "142": [
+      "LoadUI/适龄",
+      0,
+      1
+    ],
+    "143": [
+      "GamePlay/small",
+      0,
+      1
+    ],
+    "144": [
+      "propUI/title_icon4",
+      0,
+      1
+    ],
+    "145": [
+      "propUI/btn5",
+      0,
+      1
+    ],
+    "146": [
+      "GamePlay/share",
+      0,
+      1
+    ],
+    "147": [
+      "skin/skin1",
+      6
+    ],
+    "148": [
+      "data/skin",
+      4
+    ],
+    "149": [
+      "perfabs/other/LevelBlock",
+      5
+    ],
+    "150": [
+      "propUI/use",
+      0,
+      1
+    ],
+    "151": [
+      "GameHome/logo",
+      0,
+      1
+    ],
+    "152": [
+      "propUI/title_icon2",
+      0,
+      1
+    ],
+    "153": [
+      "GamePlay/blank",
+      0,
+      1
+    ],
+    "154": [
+      "GamePlay/revoke",
+      0,
+      1
+    ],
+    "155": [
+      "propUI/btn1",
+      0,
+      1
+    ],
+    "156": [
+      "perfabs/menu/GamePlay",
+      5
+    ],
+    "157": [
+      "GamePlay/logo",
+      0,
+      1
+    ],
+    "158": [
+      "perfabs/other/SkinItem",
+      5
+    ],
+    "159": [
+      "LoadUI/pass2",
+      0,
+      1
+    ],
+    "160": [
+      "LoadUI/pass1",
+      0,
+      1
+    ],
+    "161": [
+      "propUI/btn4",
+      0,
+      1
+    ],
+    "162": [
+      "GameHome/rank",
+      0,
+      1
+    ],
+    "163": [
+      "GamePlay/bomb",
+      0,
+      1
+    ],
+    "164": [
+      "propUI/closeBtn",
+      0,
+      1
+    ]
+  },
+  "types": [
+    "cc.SpriteFrame",
+    "cc.Texture2D",
+    "cc.Asset",
+    "cc.AnimationClip",
+    "cc.JsonAsset",
+    "cc.Prefab",
+    "cc.SpriteAtlas",
+    "cc.AudioClip"
+  ],
+  "uuids": [
+    "00wRwsEeBHs7H4Pnrx5LdC",
+    "03uToJlgBEhIfasQIrQH2I",
+    "04dY2elU1CkbLOXpQo6NIs",
+    "08IjT6KpNLsqlnnmJ4kK45",
+    "0ekwJ9HaxBN5HV9WqUdNxI",
+    "10uNAefzVFMav3vsNYpant",
+    "131I9gGPdC8qKLNGRj3s25",
+    "155d5cba5",
+    "1apHLj2QdIK7N1YYwTQUEZ",
+    "1buqLNHC1MWLG0leeK4emn",
+    "1e1o1OCPJE4rC27tkN3YXk",
+    "1e/QQtPwNAXbokL5sE0/9J",
+    "20FGCz7vJBWrhPyMG6xK+w",
+    "2087Nc/u1JdqSsdnuXP7ax",
+    "22UdsqCxpBa6/vmmppluxp",
+    "24JlGfnJZK6LresU7G8EnB",
+    "24KUcQzvxOwIGtOReFxYLP",
+    "250R/Wb4lLXrLdnql/2Y3p",
+    "28QZAG1XtMqKIRYyhbnx7Q",
+    "2coxzeU+9HRbJeUcsf7d2T",
+    "2dtKVqcgJMQJpMMPKODxhf",
+    "31NKkPr8hDxIYR7T1i3uGY",
+    "39XXqoLn5FiqevDdemqWVP",
+    "3bR+1iam5A367N2Q+wfM2G",
+    "3eWh8DN/ZND7A06ANJCqRn",
+    "3e1Ub9jnFN944M1NhiWqd6",
+    "45mX3iR4hA/7PD9nLpwvNA",
+    "45xgr+VL1MoLk6zExDg4EU",
+    "483sj2Xf5P7bZvpQxH/8Up",
+    "50PFjlU1dDlYszuKWkMNEZ",
+    "50p1gq58JHhrXi7bseVbs4",
+    "52+Y+XFfNGXrYL8Cf5pj6V",
+    "54724uIr9P/K8iJWbE8dIj",
+    "57BQ7tLrBONq3VxMNION9c",
+    "57NT8KebxOw4N6CLKIDe8X",
+    "59TG2mZ7JLV48r8s6XK/2L",
+    "60UqhskldAx4AnixKKwX5w",
+    "69jFJKpStDPLh0HLwSCIeX",
+    "6aVzE79SJK4IagG6/U5Zcc",
+    "738luKw9FM6aJd5u40lyEl",
+    "75xLhBrwtGOLceEDevaDwQ",
+    "7daFe66iJA06MgimL/LoEJ",
+    "83b+KIcn5I5LvxEsGhK9bq",
+    "8cO+VD1fFDm7Z7dOTfYZhB",
+    "8dHnmxvR9Pc4CqJaMw6Kdk",
+    "95kNqOvfFJSInUN6j9czWk",
+    "9bArzFf49B8o2yleJcG74+",
+    "a0VNuwylxEl6uubyT5DKAY",
+    "a6WV9u1VlLgbJrPuVupzOR",
+    "aaHql98uJKDpVLlmWBWpH6",
+    "b09L+yhM9Jl4jAuOga8gLj",
+    "b3MLEpC7lM76vmiOJ1fffv",
+    "b4n1a7DfhKNKy3Wzrq6dSF",
+    "b5UhKNnGBEDKaCLtLNZi9e",
+    "c3uXRPLdhJaoHDGshlDxS5",
+    "c5vWeOeaNDfYKG9rP64wWx",
+    "c9Ixc+e8hJU4Ybom3XtaiX",
+    "ccxcl3QjVN6J/EIPBuhubA",
+    "cd1ekq0k9GFbUIGW6cisAE",
+    "ceFSipFnxJoY2q0CLKqwlE",
+    "ceVcaPCgBO87dRbENS7yYj",
+    "d1EyGUixNH5af3H9iuy3IR",
+    "ddRIrFSWlLgYovgBShNGVH",
+    "e3gIjpccpLXonDG9KVYYJ9",
+    "e6SHA9aZFGVpiDsJ3EiOYs",
+    "e61uejfflERJlaZEUmihBC",
+    "e9/ljP93ZGfqIsOwdGFGZm",
+    "ebnFfWGYVJQptY/0BLFUZE",
+    "ebsEjXwxJLJaNSDCOg7c/d",
+    "eb5iyYbB1J7JGTrI0gl9AP",
+    "efQxnEnZ5LqYM6LfiW5h0x",
+    "f74XRLL5VMCo1HuKoqDqwS",
+    "fbHtYMqrlOPbj4Uhy4aX6p",
+    "fdMY4vzd1Er4LI5wC2848C",
+    "feSkqB0lBGv6M3xzC9SlCR",
+    "01WZDYdFFC6oL6PrTfZklX",
+    "037ds1eWFCvqbutzdJASb5",
+    "0fZQC7Fw9EfbQGXm251wvr",
+    "11BBXFQvVC7JNu3QioWdwl",
+    "11E45JITBDxJkOmMeIISTb",
+    "12vWYfWitF4IU9OOac2tnN",
+    "126FnG7OxC5akT8YzLXGj4",
+    "15zthqrTtNX6xxCSvL3hqp",
+    "17JvYhcgNNOY3VuBrQEWPt",
+    "173SkjpaJIHY7w5qxpkGpC",
+    "1cmBYKF0RFJ4UcEaZjuyGf",
+    "1dNtOSUJ9IEKKKht37oq08",
+    "1d7a5MIrxDRYGl4eOWmr3R",
+    "20QmS/ooRJF738+fgFWl7R",
+    "23Sv6SzXlNI46g5hVWgtRd",
+    "26JUpKgzpBv5gx+VlVsWBF",
+    "27gMT4krZBc4wE9hVTY5uk",
+    "28cf2+F7BLgJchx4YIE+vR",
+    "2bFAPMfU1FbaEt4NFuyR1k",
+    "2fIw98sMRMGqYGYr3Cjlsx",
+    "2fyCn4vZ5I7p7c9nscd/jn",
+    "2f4yuNwsFGFIXrnH91bSv6",
+    "32jy7evLxEq7LR0vt4XD2b",
+    "34HTqtUZpB1ZMjnPJrdc1c",
+    "34RuBTWk5BWLpwASLJRe8x",
+    "35xlf8zNdGXqO6NGhA+5ER",
+    "37h2aWGFxHvb/QbewKJhl0",
+    "3cxkTBRltJbqUM9XDXytxx",
+    "486odnSvNFJq9tHFqVp/6q",
+    "4avA9WHORH8K8vcq48eJKr",
+    "4cAaUf5hlIpbz006E+HagK",
+    "4cpYPljthL06QebD6Z+qC+",
+    "4ftREdX2VCvLHDaxSv0iiP",
+    "50LNn/A9JIHIymCj3uV6un",
+    "59n2wy3chFcYN6sJ4NFlia",
+    "5ezbXHnnZO45zsKa5tvu9E",
+    "5fo5yKCfNEt4/5Ul/stTUI",
+    "67n8Sw5T1Mx7CEoLOUxY72",
+    "67ry/aihJFS4w0UFzTvwUP",
+    "7075fkWNhITq6Q0Szx8hgP",
+    "72BXokOF1Obq5Nfrey/1dC",
+    "75XRr/nihIdJnPND7Rg0PV",
+    "75h66NmzFBcJktHHTglI8u",
+    "76OXEpUERFCadabphggXM7",
+    "78WO0AtNtO+qH+esSyxs6P",
+    "7aX3Q5NhVIvoyfRkMMdlqA",
+    "7fI8H44+tHWZ6d9aDsjwjr",
+    "82IgVxp+9CAY9/m9ucIRa+",
+    "82Xmw3lrZIjoK0aSPsISyb",
+    "8aANwvjDRJtL+WlCEvQYJ7",
+    "8eJKR038dFcb+XyyAGAikU",
+    "8ek9/uOYZA+IVaEsdiqAXo",
+    "8e4wbWMEFGtqwiBTrJmS/F",
+    "90EYJNmihIibv4XHggbt1L",
+    "96rLQQ/LVN7bKbQoV/EhdM",
+    "9c6Nhrl4BC34Jb+vwg2+qP",
+    "aaFXzH7h1BN6lW9IGwJF2F",
+    "aceS2tX8BHMKYhkOGe3q17",
+    "b0ugmOdzdN4pynuPkj9Y/W",
+    "b1CPQM5cdKv6AHF9p/VbIP",
+    "b6fynOwy5NkZ0v14F7SJHO",
+    "b7oSl9R/1BO4XJBp6dQGKz",
+    "b8foJUV8JGGpTlVyamVRaX",
+    "bbHzeDmnRMr7jWmvcjg+pe",
+    "befljlx2NJrY6i+JhRuUFp",
+    "c0rhthmg1BSJ2UZPeV5iYy",
+    "c6FxOt5/xGqrVX8Y0j/jw8",
+    "c6thLiugFP7aEPCtRYOpfb",
+    "cdyLAMTO9Avpi4bEelLVZz",
+    "d0wuNtP5pOyZubyRKcwaJR",
+    "d22/lg9QJIL4+ektK/jIAx",
+    "d3CGow9BVCJp8Y408op3UO",
+    "d8Z2gt8UBHColYROmTzio/",
+    "d9OvII7chJ3ZiHKukCNsPG",
+    "d9gJ8N7+FM/ryYTsvQdjHs",
+    "dbZpQU0i1K7qnpI4ktYE86",
+    "deF9Ofq8tDBokm1IcM6ThL",
+    "e3qhoCAVJPsJPABFnTdKAw",
+    "e6nUa+v/FBBKvqw1jOZOJR",
+    "e8IkFv5oxPC6XJHJFCzDDk",
+    "ea0Sr0ZFBDNLCgfqhfG1ZG",
+    "edHv9v7hJC5ZXO2KpvKB86",
+    "edIWbEGEFDFLLFF1dD4dH6",
+    "f0mnewKEhNR6bwzwmS8nyb",
+    "f084bQ/4FAa7gEXls4SNKp",
+    "f196/yWYZNUIsSxlBBfq34",
+    "f2fJYM+X5D2Z+1T+vTIDTO",
+    "f6PnjbyoZEaaDfx3wN8VfN",
+    "fcKr28PddHqKnHHfyaazt9",
+    "fdII/QX2NK3bzAXH3h8Yjt",
+    "02delMVqdBD70a/HSD99FK",
+    "07XtHdW3pHaKhzRoD69Ad/",
+    "0eV1OfU5ZGAYe2rwH6+8UE",
+    "0fRNGh0stN26Qe4UPMi87F",
+    "12/uOxSnhLub7V+HR/KWxq",
+    "16TjddH81Gm4eBK6Yz20a7",
+    "2cfFw1WQNH9IDeokRwgRLa",
+    "2dHljmzmhHAbpuqWloQPBj",
+    "3aQpkAQYdAH6pZb43SNHvk",
+    "3a3KbLsChN1ZXNm9RrWVS1",
+    "3a4TAhTGREU59Tkhb+aG7m",
+    "3bBlkbavxEo7CI2IQ59E+e",
+    "41iZten05Kl77LfnUawqjh",
+    "479CFkMElBcqivmXY3vmmq",
+    "49SZytFDlGc5pFINwkHSRa",
+    "496UXfbpdAy6BYgaYnukRz",
+    "4eb7me4aBD4bYy25kjsFZE",
+    "55KGnxlU1NOaBc/MeC7C6T",
+    "59XVaFb1xIdpGy62bK5Ee/",
+    "62f0xw0FZL3qoeB30EMSg2",
+    "65sBBoW2BLbrrScGnC7dW1",
+    "73fDHscPVGKZ7uzzJcCue3",
+    "77Bu+SE4lCSrtr/rQFuR/L",
+    "770wocsABP0L6LHoieRiiF",
+    "80Dk6kXGFIvL1yd2nGrc79",
+    "88SKLMGe5HTrzeUiWLu0NM",
+    "89Xjwt8O5HB6+Brd8HlxG/",
+    "89nRMFu9ZFmLahDtNesY40",
+    "895fLapZpFl5kopG2Q0rTi",
+    "8evX31/C9PuJSyh19vwJfV",
+    "8e77vXug1HyoTLJXMeaA5k",
+    "942V9Ig4lPvZkSDXKEZNZZ",
+    "95byBomBRIZ4E7Pdwec4SX",
+    "99qlI86CFNIYBX0YPdb1sc",
+    "9dWv8tQYxFtalEZyV7NAIp",
+    "a0aLza77RNCbimPA0bqQ9y",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "a3JZ0EkxlBMqDGbQj5QpeR",
+    "a7BNsaY4FLgIS2/6NvL9RD",
+    "aaDX04laNGU7DRMxcQfIqA",
+    "abGuSP6qVJ9qsaHVtPkSZc",
+    "aflamnD1JPyZNigDx2610b",
+    "b1UT2pRpJP+JW7NxLSrTnZ",
+    "bcq4dD1XJEobVfWrNjrVPB",
+    "c0VP/XV6ZEtL89q8Lf9hM5",
+    "c2oMsInLRMyoyI3i+Dbnan",
+    "c4RlNBLvRLGoKIdDLohoRK",
+    "c5aG9lgPdG8KAwAeknQLeH",
+    "c5gd28BN1KD6ipf9pZrSYN",
+    "c67P2sLu5F8Ypb9jBFeByW",
+    "c7+yNhYIhO3KdigMYpsXcR",
+    "cbcmnm0ttGPYy1zVVAA7hH",
+    "d7W9+OaulC7JBu7pBL61E1",
+    "d8vh7bjgpES7TZUFpcmv/U",
+    "d9OsgJ7VdAtZhpxUkwRmJD",
+    "dcDy0BZAlIpJ5NiqIf9rbE",
+    "ddvoaIk7JByKicJg35bErw",
+    "dfIrOl7i1EpJu/EeP+L9jc",
+    "e2jXUg+1hGAq1PP99MLIuo",
+    "e4bIjEt1VPMqyk5UnvOZGA",
+    "e776eLEwFB5oMRn0edX9aS",
+    "eba3P6/6ZPeLtANdWQ+TSF",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "f2LZtCAf5LNLwsNrjVzaWs",
+    "f65QWjWNFOK5x2rFiGA/9T",
+    "f8KROsfoNOdaXzjmX5o1G9",
+    "f9VAIx3XdPw5iO7e07N8w5",
+    "f9xLP8m55E1bijOrKZNfQb",
+    "fbQx48isVLGYnv902ymts9",
+    "ffGtx4URdHKabNHaLK//f1",
+    "ffcre+o6RLmKQT0+afA/Q7"
+  ],
+  "scenes": {},
+  "redirect": [
+    165,
+    0,
+    227,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "010418979": [
+      88,
+      152
+    ],
+    "01ce3cc4c": [
+      92,
+      98,
+      103,
+      154
+    ],
+    "01d217e54": [
+      166,
+      167,
+      169,
+      93,
+      173,
+      178,
+      179,
+      180,
+      181,
+      182,
+      183,
+      185,
+      188,
+      191,
+      192,
+      193,
+      194,
+      196,
+      198,
+      200,
+      202,
+      204,
+      206,
+      212,
+      215,
+      216,
+      217,
+      218,
+      219,
+      220,
+      221,
+      222,
+      224,
+      226,
+      231,
+      232,
+      233,
+      235
+    ],
+    "03a054f60": [
+      105,
+      123,
+      127,
+      131,
+      143
+    ],
+    "03c8a406b": [
+      96,
+      113,
+      144
+    ],
+    "05544c689": [
+      78,
+      89,
+      100,
+      119,
+      145
+    ],
+    "06d89c9b2": [
+      75,
+      79,
+      84,
+      90,
+      91,
+      101,
+      115,
+      120,
+      124,
+      132,
+      137,
+      138,
+      141,
+      157,
+      162
+    ],
+    "0747fdc07": [
+      156,
+      163
+    ],
+    "078f54b3b": [
+      76,
+      108,
+      126
+    ],
+    "088557f1b": [
+      80,
+      135,
+      136
+    ],
+    "09fb02ceb": [
+      111,
+      139,
+      153
+    ],
+    "0a6f24741": [
+      109,
+      118
+    ],
+    "0b15bcc89": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      16,
+      17,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      46,
+      47,
+      48,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74
+    ],
+    "0b278e44a": [
+      83,
+      86,
+      94
+    ],
+    "0d15c98dd": [
+      82,
+      116,
+      128,
+      150,
+      158
+    ],
+    "0dbfac6db": [
+      85,
+      112,
+      142,
+      159,
+      160
+    ],
+    "0e1e5c2cb": [
+      168,
+      170,
+      171,
+      172,
+      174,
+      175,
+      176,
+      177,
+      184,
+      186,
+      187,
+      189,
+      190,
+      195,
+      197,
+      199,
+      203,
+      205,
+      207,
+      208,
+      209,
+      210,
+      211,
+      213,
+      214,
+      147,
+      223,
+      225,
+      228,
+      229,
+      230,
+      234
+    ],
+    "0f1b8b8a9": [
+      87,
+      110,
+      114,
+      134,
+      140
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      "010418979",
+      "c89b4",
+      "01ce3cc4c",
+      "1c7d7",
+      "01d217e54",
+      "382b9",
+      "03a054f60",
+      "a50dc",
+      "03c8a406b",
+      "c4b0c",
+      "05544c689",
+      "7b9fb",
+      "06d89c9b2",
+      "34cc1",
+      "0747fdc07",
+      "a9baa",
+      "078f54b3b",
+      "2b362",
+      "088557f1b",
+      "6521a",
+      "09fb02ceb",
+      "a1735",
+      "0a6f24741",
+      "4ab99",
+      "0b15bcc89",
+      "fdd6b",
+      "0b278e44a",
+      "8d01a",
+      "0d15c98dd",
+      "ae238",
+      "0dbfac6db",
+      "b42a4",
+      "0e1e5c2cb",
+      "00330",
+      "0f1b8b8a9",
+      "2e7d3",
+      77,
+      "0b1df",
+      81,
+      "7d743",
+      12,
+      "91c53",
+      18,
+      "68359",
+      19,
+      "12480",
+      95,
+      "9d8c4",
+      97,
+      "de858",
+      99,
+      "98a0c",
+      102,
+      "88080",
+      104,
+      "32686",
+      106,
+      "9f411",
+      107,
+      "6ce0a",
+      117,
+      "8fa26",
+      121,
+      "c7580",
+      122,
+      "c9440",
+      125,
+      "5c4fb",
+      45,
+      "25847",
+      129,
+      "bd315",
+      130,
+      "1caf8",
+      201,
+      "43d76",
+      49,
+      "d994c",
+      133,
+      "f9171",
+      58,
+      "42f15",
+      146,
+      "0a70e",
+      148,
+      "a8a06",
+      149,
+      "c887b",
+      151,
+      "a3c4f",
+      66,
+      "a61aa",
+      155,
+      "6373d",
+      161,
+      "c7671",
+      164,
+      "619cb"
+    ],
+    "native": [
+      0,
+      "a915c",
+      1,
+      "d7c21",
+      2,
+      "3ab0f",
+      3,
+      "ea24b",
+      4,
+      "f9930",
+      5,
+      "df8bb",
+      6,
+      "c47d6",
+      7,
+      "5e066",
+      8,
+      "9b1d4",
+      9,
+      "0d66d",
+      10,
+      "1eb5d",
+      11,
+      "b4ed4",
+      12,
+      "b7f6b",
+      13,
+      "f13da",
+      14,
+      "8176b",
+      15,
+      "3d4f8",
+      16,
+      "b8442",
+      17,
+      "2bf92",
+      18,
+      "8d415",
+      19,
+      "3053f",
+      20,
+      "92799",
+      21,
+      "7b381",
+      22,
+      "6dc77",
+      23,
+      "88a0d",
+      24,
+      "826b6",
+      25,
+      "bf951",
+      26,
+      "05538",
+      27,
+      "0c56f",
+      28,
+      "0db67",
+      29,
+      "a708c",
+      30,
+      "a2ce3",
+      31,
+      "468d2",
+      32,
+      "d25fd",
+      33,
+      "a029f",
+      34,
+      "f989c",
+      35,
+      "04cdf",
+      36,
+      "3eaa1",
+      37,
+      "57c3c",
+      38,
+      "3de52",
+      39,
+      "abaa3",
+      40,
+      "2b052",
+      41,
+      "fbdde",
+      42,
+      "3a662",
+      43,
+      "eec08",
+      44,
+      "06af0",
+      45,
+      "6f659",
+      46,
+      "1f4e7",
+      47,
+      "692e8",
+      48,
+      "4084f",
+      49,
+      "b7f6b",
+      50,
+      "e8cad",
+      51,
+      "04a58",
+      52,
+      "2c0f3",
+      53,
+      "db62e",
+      54,
+      "fbb94",
+      55,
+      "79300",
+      56,
+      "09c3b",
+      57,
+      "319d3",
+      58,
+      "91e94",
+      59,
+      "baa8a",
+      60,
+      "64225",
+      61,
+      "607ae",
+      62,
+      "f4b37",
+      63,
+      "c8ffb",
+      64,
+      "d7fa5",
+      65,
+      "5ca17",
+      66,
+      "7d187",
+      67,
+      "46f21",
+      68,
+      "8c063",
+      69,
+      "11180",
+      70,
+      "332be",
+      71,
+      "076a3",
+      72,
+      "73dcb",
+      73,
+      "10cf6",
+      74,
+      "3ed02"
+    ]
+  }
+}

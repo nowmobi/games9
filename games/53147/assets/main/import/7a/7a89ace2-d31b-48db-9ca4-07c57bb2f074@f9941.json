@@ -1,0 +1,59 @@
+[
+  1,
+  [
+    "18659e123@6c48a"
+  ],
+  [
+    "_textureSource"
+  ],
+  [
+    "cc.SpriteFrame"
+  ],
+  0,
+  [
+    {
+      "name": "BG_gradient",
+      "rect": {
+        "x": 3,
+        "y": 3,
+        "width": 512,
+        "height": 512
+      },
+      "offset": {
+        "x": 0,
+        "y": 0
+      },
+      "originalSize": {
+        "width": 512,
+        "height": 512
+      },
+      "rotated": false,
+      "capInsets": [
+        255,
+        255,
+        255,
+        255
+      ],
+      "packable": true,
+      "pixelsToUnit": 100,
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      },
+      "meshType": 0
+    }
+  ],
+  [
+    0
+  ],
+  0,
+  [
+    0
+  ],
+  [
+    0
+  ],
+  [
+    0
+  ]
+]

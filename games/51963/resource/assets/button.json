@@ -1,0 +1,145 @@
+{
+  "file": "button.png",
+  "frames": {
+    "startBtn": {
+      "x": 659,
+      "y": 1,
+      "w": 327,
+      "h": 80,
+      "offX": 0,
+      "offY": 6,
+      "sourceW": 327,
+      "sourceH": 86
+    },
+    "backBtn": {
+      "x": 855,
+      "y": 171,
+      "w": 70,
+      "h": 71,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 71
+    },
+    "certainBtn": {
+      "x": 330,
+      "y": 1,
+      "w": 327,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 327,
+      "sourceH": 86
+    },
+    "closeBtn": {
+      "x": 855,
+      "y": 244,
+      "w": 70,
+      "h": 70,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 70,
+      "sourceH": 70
+    },
+    "contiueBtn": {
+      "x": 1,
+      "y": 1,
+      "w": 327,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 327,
+      "sourceH": 86
+    },
+    "countdown": {
+      "x": 136,
+      "y": 171,
+      "w": 494,
+      "h": 28,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 494,
+      "sourceH": 28
+    },
+    "daojishi": {
+      "x": 136,
+      "y": 89,
+      "w": 494,
+      "h": 20,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 494,
+      "sourceH": 20
+    },
+    "guideBtn": {
+      "x": 855,
+      "y": 316,
+      "w": 101,
+      "h": 26,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 101,
+      "sourceH": 26
+    },
+    "nextlevelBtn": {
+      "x": 659,
+      "y": 83,
+      "w": 287,
+      "h": 86,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 287,
+      "sourceH": 86
+    },
+    "numTime": {
+      "x": 927,
+      "y": 171,
+      "w": 63,
+      "h": 35,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 63,
+      "sourceH": 35
+    },
+    "pauseBtn": {
+      "x": 746,
+      "y": 171,
+      "w": 107,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 107
+    },
+    "pointOutBtn": {
+      "x": 632,
+      "y": 171,
+      "w": 112,
+      "h": 112,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 112,
+      "sourceH": 112
+    },
+    "resetBtn": {
+      "x": 746,
+      "y": 280,
+      "w": 107,
+      "h": 107,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 107,
+      "sourceH": 107
+    },
+    "selected": {
+      "x": 1,
+      "y": 89,
+      "w": 133,
+      "h": 148,
+      "offX": 0,
+      "offY": 0,
+      "sourceW": 133,
+      "sourceH": 148
+    }
+  }
+}

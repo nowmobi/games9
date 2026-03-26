@@ -1,0 +1,587 @@
+{
+  "textures": [
+    {
+      "image": "sprites/radio-0.webp",
+      "format": "RGBA5555",
+      "size": {
+        "w": 854,
+        "h": 1845
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "backing.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 850,
+            "h": 780
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 850,
+            "h": 780
+          },
+          "frame": {
+            "x": 2,
+            "y": 2,
+            "w": 850,
+            "h": 780
+          }
+        },
+        {
+          "filename": "generator.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 850,
+            "h": 780
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 850,
+            "h": 780
+          },
+          "frame": {
+            "x": 2,
+            "y": 785,
+            "w": 850,
+            "h": 780
+          }
+        },
+        {
+          "filename": "cover.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 479,
+            "h": 93
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 479,
+            "h": 93
+          },
+          "frame": {
+            "x": 2,
+            "y": 1568,
+            "w": 479,
+            "h": 93
+          }
+        },
+        {
+          "filename": "knob.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 275,
+            "h": 275
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 275,
+            "h": 275
+          },
+          "frame": {
+            "x": 484,
+            "y": 1568,
+            "w": 275,
+            "h": 275
+          }
+        },
+        {
+          "filename": "blue_wire.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 6
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 6
+          },
+          "frame": {
+            "x": 2,
+            "y": 1664,
+            "w": 100,
+            "h": 6
+          }
+        },
+        {
+          "filename": "power_btn.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 84,
+            "h": 84
+          },
+          "frame": {
+            "x": 105,
+            "y": 1664,
+            "w": 84,
+            "h": 84
+          }
+        },
+        {
+          "filename": "bar.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 11,
+            "h": 85
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 10,
+            "h": 85
+          },
+          "frame": {
+            "x": 2,
+            "y": 1673,
+            "w": 10,
+            "h": 85
+          }
+        },
+        {
+          "filename": "power_btn_hover.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 84,
+            "h": 84
+          },
+          "frame": {
+            "x": 15,
+            "y": 1673,
+            "w": 84,
+            "h": 84
+          }
+        },
+        {
+          "filename": "green_wire.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 6
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 6
+          },
+          "frame": {
+            "x": 102,
+            "y": 1751,
+            "w": 100,
+            "h": 6
+          }
+        },
+        {
+          "filename": "purple_wire.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 6
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 6
+          },
+          "frame": {
+            "x": 192,
+            "y": 1664,
+            "w": 100,
+            "h": 6
+          }
+        },
+        {
+          "filename": "red_wire.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 6
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 6
+          },
+          "frame": {
+            "x": 192,
+            "y": 1673,
+            "w": 100,
+            "h": 6
+          }
+        },
+        {
+          "filename": "yellow_wire.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 100,
+            "h": 6
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 100,
+            "h": 6
+          },
+          "frame": {
+            "x": 192,
+            "y": 1682,
+            "w": 100,
+            "h": 6
+          }
+        },
+        {
+          "filename": "blue_plug.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 61,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 192,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "blue_plug_hover.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 35,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 6,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 192,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "power_btn_press.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 84,
+            "h": 84
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 84,
+            "h": 84
+          },
+          "frame": {
+            "x": 205,
+            "y": 1736,
+            "w": 84,
+            "h": 84
+          }
+        },
+        {
+          "filename": "back.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 72
+          },
+          "spriteSourceSize": {
+            "x": 2,
+            "y": 2,
+            "w": 81,
+            "h": 68
+          },
+          "frame": {
+            "x": 2,
+            "y": 1761,
+            "w": 81,
+            "h": 68
+          }
+        },
+        {
+          "filename": "hover_btn.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 68,
+            "h": 68
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 68,
+            "h": 68
+          },
+          "frame": {
+            "x": 86,
+            "y": 1760,
+            "w": 68,
+            "h": 68
+          }
+        },
+        {
+          "filename": "green_plug.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 61,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 223,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "green_plug_hover.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 35,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 6,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 223,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "purple_plug.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 61,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 254,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "purple_plug_hover.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 35,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 6,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 254,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "red_plug.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 61,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 285,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "red_plug_hover.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 35,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 6,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 285,
+            "y": 1691,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "status_light_off.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 20,
+            "h": 20
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 20,
+            "h": 20
+          },
+          "frame": {
+            "x": 295,
+            "y": 1664,
+            "w": 20,
+            "h": 20
+          }
+        },
+        {
+          "filename": "yellow_plug.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 90,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 61,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 157,
+            "y": 1760,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "yellow_plug_hover.png",
+          "rotated": false,
+          "trimmed": true,
+          "sourceSize": {
+            "w": 35,
+            "h": 66
+          },
+          "spriteSourceSize": {
+            "x": 6,
+            "y": 12,
+            "w": 28,
+            "h": 42
+          },
+          "frame": {
+            "x": 157,
+            "y": 1760,
+            "w": 28,
+            "h": 42
+          }
+        },
+        {
+          "filename": "status_light_on.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 20,
+            "h": 20
+          },
+          "spriteSourceSize": {
+            "x": 0,
+            "y": 0,
+            "w": 20,
+            "h": 20
+          },
+          "frame": {
+            "x": 157,
+            "y": 1805,
+            "w": 20,
+            "h": 20
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:bd33f2ea858c30e4833bdd33bbe008ea:29c3efea97c683ff27ab49c1e222c49c:709fb0364b8ed387af3d44e6d1e6f860$"
+  }
+}

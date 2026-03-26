@@ -1,0 +1,291 @@
+{
+  "frames": [
+    {
+      "filename": "booster_earned",
+      "frame": {
+        "x": 1149,
+        "y": 2,
+        "w": 746,
+        "h": 368
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 15,
+        "y": 9,
+        "w": 746,
+        "h": 368
+      },
+      "sourceSize": {
+        "w": 761,
+        "h": 384
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "congratulations",
+      "frame": {
+        "x": 2,
+        "y": 598,
+        "w": 537,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 537,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 537,
+        "h": 121
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "earn_booster",
+      "frame": {
+        "x": 541,
+        "y": 580,
+        "w": 572,
+        "h": 102
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 572,
+        "h": 102
+      },
+      "sourceSize": {
+        "w": 572,
+        "h": 102
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "game_over",
+      "frame": {
+        "x": 2,
+        "y": 843,
+        "w": 533,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 533,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 533,
+        "h": 113
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "more_levels",
+      "frame": {
+        "x": 2,
+        "y": 2,
+        "w": 1145,
+        "h": 460
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 1145,
+        "h": 460
+      },
+      "sourceSize": {
+        "w": 1194,
+        "h": 460
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "no_more_moves",
+      "frame": {
+        "x": 1149,
+        "y": 372,
+        "w": 603,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 603,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 603,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "out_of_space",
+      "frame": {
+        "x": 525,
+        "y": 464,
+        "w": 595,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 595,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 595,
+        "h": 114
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pause",
+      "frame": {
+        "x": 537,
+        "y": 832,
+        "w": 311,
+        "h": 97
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 311,
+        "h": 97
+      },
+      "sourceSize": {
+        "w": 311,
+        "h": 97
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "settings",
+      "frame": {
+        "x": 2,
+        "y": 721,
+        "w": 428,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 428,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 428,
+        "h": 120
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "tutorial",
+      "frame": {
+        "x": 432,
+        "y": 721,
+        "w": 414,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 414,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 414,
+        "h": 109
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "your_score",
+      "frame": {
+        "x": 2,
+        "y": 471,
+        "w": 521,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 521,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 521,
+        "h": 125
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "LocalizedAtlas.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 1024
+    },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:de7571e6456109c4e6fac42b765f1cd8:a1233c5f8bac08de7f8f97f92fe00ec1:cf400037d195f98b37f5cf4a4f87b2d6$"
+  }
+}

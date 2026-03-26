@@ -1,0 +1,1764 @@
+{
+  "paths": {
+    "0": [
+      "audio/bgm",
+      0
+    ],
+    "1": [
+      "audio/click_item",
+      0
+    ],
+    "2": [
+      "audio/click",
+      0
+    ],
+    "3": [
+      "audio/complete",
+      0
+    ],
+    "4": [
+      "audio/lose",
+      0
+    ],
+    "5": [
+      "audio/screw_in",
+      0
+    ],
+    "6": [
+      "audio/screw_out",
+      0
+    ],
+    "7": [
+      "audio/timer_warning",
+      0
+    ],
+    "8": [
+      "audio/tip",
+      0
+    ],
+    "9": [
+      "audio/win",
+      0
+    ],
+    "10": [
+      "sprite/screw/chess_board1",
+      4
+    ],
+    "11": [
+      "prefab/screw/Chess",
+      1
+    ],
+    "12": [
+      "prefab/screw/ChessCore",
+      1
+    ],
+    "13": [
+      "prefab/screw/ChessTarget",
+      1
+    ],
+    "14": [
+      "prefab/screw/Level0",
+      1
+    ],
+    "15": [
+      "prefab/screw/Level1",
+      1
+    ],
+    "16": [
+      "prefab/screw/Level10",
+      1
+    ],
+    "17": [
+      "prefab/screw/Level11",
+      1
+    ],
+    "18": [
+      "prefab/screw/Level12",
+      1
+    ],
+    "19": [
+      "prefab/screw/Level13",
+      1
+    ],
+    "20": [
+      "prefab/screw/Level14",
+      1
+    ],
+    "21": [
+      "prefab/screw/Level15",
+      1
+    ],
+    "22": [
+      "prefab/screw/Level16",
+      1
+    ],
+    "23": [
+      "prefab/screw/Level17",
+      1
+    ],
+    "24": [
+      "prefab/screw/Level18",
+      1
+    ],
+    "25": [
+      "prefab/screw/Level19",
+      1
+    ],
+    "26": [
+      "prefab/screw/Level2",
+      1
+    ],
+    "27": [
+      "prefab/screw/Level20",
+      1
+    ],
+    "28": [
+      "prefab/screw/Level21",
+      1
+    ],
+    "29": [
+      "prefab/screw/Level22",
+      1
+    ],
+    "30": [
+      "prefab/screw/Level23",
+      1
+    ],
+    "31": [
+      "prefab/screw/Level24",
+      1
+    ],
+    "32": [
+      "prefab/screw/Level25",
+      1
+    ],
+    "33": [
+      "prefab/screw/Level26",
+      1
+    ],
+    "34": [
+      "prefab/screw/Level27",
+      1
+    ],
+    "35": [
+      "prefab/screw/Level28",
+      1
+    ],
+    "36": [
+      "prefab/screw/Level29",
+      1
+    ],
+    "37": [
+      "prefab/screw/Level3",
+      1
+    ],
+    "38": [
+      "prefab/screw/Level30",
+      1
+    ],
+    "39": [
+      "prefab/screw/Level31",
+      1
+    ],
+    "40": [
+      "prefab/screw/Level32",
+      1
+    ],
+    "41": [
+      "prefab/screw/Level33",
+      1
+    ],
+    "42": [
+      "prefab/screw/Level4",
+      1
+    ],
+    "43": [
+      "prefab/screw/Level5",
+      1
+    ],
+    "44": [
+      "prefab/screw/Level6",
+      1
+    ],
+    "45": [
+      "prefab/screw/Level7",
+      1
+    ],
+    "46": [
+      "prefab/screw/Level8",
+      1
+    ],
+    "47": [
+      "prefab/screw/Level9",
+      1
+    ],
+    "48": [
+      "prefab/screw/ScrewIn",
+      1
+    ],
+    "49": [
+      "prefab/screw/ScrewOut",
+      1
+    ],
+    "50": [
+      "prefab/ui/AnswerLayer",
+      1
+    ],
+    "51": [
+      "prefab/ui/CompleteLayer",
+      1
+    ],
+    "52": [
+      "prefab/ui/ExitLayer",
+      1
+    ],
+    "53": [
+      "prefab/ui/LoseLayer",
+      1
+    ],
+    "54": [
+      "prefab/ui/MainLayer",
+      1
+    ],
+    "55": [
+      "prefab/ui/MenuLayer",
+      1
+    ],
+    "56": [
+      "prefab/ui/SettingLayer",
+      1
+    ],
+    "57": [
+      "prefab/ui/WinLayer",
+      1
+    ],
+    "58": [
+      "sprite/answer/answer0",
+      3,
+      1
+    ],
+    "59": [
+      "sprite/answer/answer00",
+      3,
+      1
+    ],
+    "60": [
+      "sprite/answer/answer1",
+      3,
+      1
+    ],
+    "61": [
+      "sprite/answer/answer10",
+      3,
+      1
+    ],
+    "62": [
+      "sprite/answer/answer11",
+      3,
+      1
+    ],
+    "63": [
+      "sprite/answer/answer12",
+      3,
+      1
+    ],
+    "64": [
+      "sprite/answer/answer13",
+      3,
+      1
+    ],
+    "65": [
+      "sprite/answer/answer14",
+      3,
+      1
+    ],
+    "66": [
+      "sprite/answer/answer15",
+      3,
+      1
+    ],
+    "67": [
+      "sprite/answer/answer16",
+      3,
+      1
+    ],
+    "68": [
+      "sprite/answer/answer17",
+      3,
+      1
+    ],
+    "69": [
+      "sprite/answer/answer18",
+      3,
+      1
+    ],
+    "70": [
+      "sprite/answer/answer19",
+      3,
+      1
+    ],
+    "71": [
+      "sprite/answer/answer2",
+      3,
+      1
+    ],
+    "72": [
+      "sprite/answer/answer20",
+      3,
+      1
+    ],
+    "73": [
+      "sprite/answer/answer21",
+      3,
+      1
+    ],
+    "74": [
+      "sprite/answer/answer22",
+      3,
+      1
+    ],
+    "75": [
+      "sprite/answer/answer23",
+      3,
+      1
+    ],
+    "76": [
+      "sprite/answer/answer24",
+      3,
+      1
+    ],
+    "77": [
+      "sprite/answer/answer25",
+      3,
+      1
+    ],
+    "78": [
+      "sprite/answer/answer26",
+      3,
+      1
+    ],
+    "79": [
+      "sprite/answer/answer27",
+      3,
+      1
+    ],
+    "80": [
+      "sprite/answer/answer28",
+      3,
+      1
+    ],
+    "81": [
+      "sprite/answer/answer29",
+      3,
+      1
+    ],
+    "82": [
+      "sprite/answer/answer3",
+      3,
+      1
+    ],
+    "83": [
+      "sprite/answer/answer30",
+      3,
+      1
+    ],
+    "84": [
+      "sprite/answer/answer31",
+      3,
+      1
+    ],
+    "85": [
+      "sprite/answer/answer32",
+      3,
+      1
+    ],
+    "86": [
+      "sprite/answer/answer33",
+      3,
+      1
+    ],
+    "87": [
+      "sprite/answer/answer4",
+      3,
+      1
+    ],
+    "88": [
+      "sprite/answer/answer5",
+      3,
+      1
+    ],
+    "89": [
+      "sprite/answer/answer6",
+      3,
+      1
+    ],
+    "90": [
+      "sprite/answer/answer7",
+      3,
+      1
+    ],
+    "91": [
+      "sprite/answer/answer8",
+      3,
+      1
+    ],
+    "92": [
+      "sprite/answer/answer9",
+      3,
+      1
+    ],
+    "93": [
+      "sprite/answer/AutoAtlas",
+      2
+    ],
+    "94": [
+      "sprite/screw/AutoAtlas",
+      2
+    ],
+    "95": [
+      "sprite/screw/chess_board1",
+      3,
+      1
+    ],
+    "96": [
+      "sprite/screw/chess_board2",
+      3,
+      1
+    ],
+    "97": [
+      "sprite/screw/chess_board3",
+      3,
+      1
+    ],
+    "98": [
+      "sprite/screw/chess_l1_1",
+      3,
+      1
+    ],
+    "99": [
+      "sprite/screw/chess_l10_1",
+      3,
+      1
+    ],
+    "100": [
+      "sprite/screw/chess_l10_2",
+      3,
+      1
+    ],
+    "101": [
+      "sprite/screw/chess_l10_3",
+      3,
+      1
+    ],
+    "102": [
+      "sprite/screw/chess_l10_4",
+      3,
+      1
+    ],
+    "103": [
+      "sprite/screw/chess_l11_1",
+      3,
+      1
+    ],
+    "104": [
+      "sprite/screw/chess_l11_2",
+      3,
+      1
+    ],
+    "105": [
+      "sprite/screw/chess_l11_3",
+      3,
+      1
+    ],
+    "106": [
+      "sprite/screw/chess_l12_1",
+      3,
+      1
+    ],
+    "107": [
+      "sprite/screw/chess_l12_2",
+      3,
+      1
+    ],
+    "108": [
+      "sprite/screw/chess_l13_1",
+      3,
+      1
+    ],
+    "109": [
+      "sprite/screw/chess_l13_2",
+      3,
+      1
+    ],
+    "110": [
+      "sprite/screw/chess_l13_3",
+      3,
+      1
+    ],
+    "111": [
+      "sprite/screw/chess_l13_4",
+      3,
+      1
+    ],
+    "112": [
+      "sprite/screw/chess_l14_1",
+      3,
+      1
+    ],
+    "113": [
+      "sprite/screw/chess_l14_2",
+      3,
+      1
+    ],
+    "114": [
+      "sprite/screw/chess_l15_1",
+      3,
+      1
+    ],
+    "115": [
+      "sprite/screw/chess_l15_2",
+      3,
+      1
+    ],
+    "116": [
+      "sprite/screw/chess_l16_1",
+      3,
+      1
+    ],
+    "117": [
+      "sprite/screw/chess_l16_2",
+      3,
+      1
+    ],
+    "118": [
+      "sprite/screw/chess_l16_3",
+      3,
+      1
+    ],
+    "119": [
+      "sprite/screw/chess_l17_1",
+      3,
+      1
+    ],
+    "120": [
+      "sprite/screw/chess_l17_2",
+      3,
+      1
+    ],
+    "121": [
+      "sprite/screw/chess_l18_1",
+      3,
+      1
+    ],
+    "122": [
+      "sprite/screw/chess_l18_2",
+      3,
+      1
+    ],
+    "123": [
+      "sprite/screw/chess_l18_3",
+      3,
+      1
+    ],
+    "124": [
+      "sprite/screw/chess_l18_4",
+      3,
+      1
+    ],
+    "125": [
+      "sprite/screw/chess_l19_1",
+      3,
+      1
+    ],
+    "126": [
+      "sprite/screw/chess_l19_2",
+      3,
+      1
+    ],
+    "127": [
+      "sprite/screw/chess_l19_3",
+      3,
+      1
+    ],
+    "128": [
+      "sprite/screw/chess_L19_4",
+      3,
+      1
+    ],
+    "129": [
+      "sprite/screw/chess_l2_1",
+      3,
+      1
+    ],
+    "130": [
+      "sprite/screw/chess_l2_2",
+      3,
+      1
+    ],
+    "131": [
+      "sprite/screw/chess_l20_1",
+      3,
+      1
+    ],
+    "132": [
+      "sprite/screw/chess_l21_1",
+      3,
+      1
+    ],
+    "133": [
+      "sprite/screw/chess_l21_2",
+      3,
+      1
+    ],
+    "134": [
+      "sprite/screw/chess_l21_3",
+      3,
+      1
+    ],
+    "135": [
+      "sprite/screw/chess_l22_1",
+      3,
+      1
+    ],
+    "136": [
+      "sprite/screw/chess_l22_2",
+      3,
+      1
+    ],
+    "137": [
+      "sprite/screw/chess_l23_1",
+      3,
+      1
+    ],
+    "138": [
+      "sprite/screw/chess_l24_1",
+      3,
+      1
+    ],
+    "139": [
+      "sprite/screw/chess_l24_2",
+      3,
+      1
+    ],
+    "140": [
+      "sprite/screw/chess_l24_3",
+      3,
+      1
+    ],
+    "141": [
+      "sprite/screw/chess_l24_4",
+      3,
+      1
+    ],
+    "142": [
+      "sprite/screw/chess_l25_1",
+      3,
+      1
+    ],
+    "143": [
+      "sprite/screw/chess_l25_2",
+      3,
+      1
+    ],
+    "144": [
+      "sprite/screw/chess_l25_3",
+      3,
+      1
+    ],
+    "145": [
+      "sprite/screw/chess_l26_1",
+      3,
+      1
+    ],
+    "146": [
+      "sprite/screw/chess_l26_2",
+      3,
+      1
+    ],
+    "147": [
+      "sprite/screw/chess_l26_3",
+      3,
+      1
+    ],
+    "148": [
+      "sprite/screw/chess_l26_4",
+      3,
+      1
+    ],
+    "149": [
+      "sprite/screw/chess_l26_5",
+      3,
+      1
+    ],
+    "150": [
+      "sprite/screw/chess_l27_1",
+      3,
+      1
+    ],
+    "151": [
+      "sprite/screw/chess_l27_2",
+      3,
+      1
+    ],
+    "152": [
+      "sprite/screw/chess_l27_3",
+      3,
+      1
+    ],
+    "153": [
+      "sprite/screw/chess_l28_1",
+      3,
+      1
+    ],
+    "154": [
+      "sprite/screw/chess_l28_2",
+      3,
+      1
+    ],
+    "155": [
+      "sprite/screw/chess_l28_3",
+      3,
+      1
+    ],
+    "156": [
+      "sprite/screw/chess_l28_4",
+      3,
+      1
+    ],
+    "157": [
+      "sprite/screw/chess_l29_1",
+      3,
+      1
+    ],
+    "158": [
+      "sprite/screw/chess_l29_2",
+      3,
+      1
+    ],
+    "159": [
+      "sprite/screw/chess_l3_1",
+      3,
+      1
+    ],
+    "160": [
+      "sprite/screw/chess_l3_2",
+      3,
+      1
+    ],
+    "161": [
+      "sprite/screw/chess_l30_1",
+      3,
+      1
+    ],
+    "162": [
+      "sprite/screw/chess_l30_2",
+      3,
+      1
+    ],
+    "163": [
+      "sprite/screw/chess_l30_3",
+      3,
+      1
+    ],
+    "164": [
+      "sprite/screw/chess_l31_1",
+      3,
+      1
+    ],
+    "165": [
+      "sprite/screw/chess_l31_2",
+      3,
+      1
+    ],
+    "166": [
+      "sprite/screw/chess_l31_3",
+      3,
+      1
+    ],
+    "167": [
+      "sprite/screw/chess_l31_4",
+      3,
+      1
+    ],
+    "168": [
+      "sprite/screw/chess_l32_1",
+      3,
+      1
+    ],
+    "169": [
+      "sprite/screw/chess_l32_2",
+      3,
+      1
+    ],
+    "170": [
+      "sprite/screw/chess_l32_3",
+      3,
+      1
+    ],
+    "171": [
+      "sprite/screw/chess_l32_4",
+      3,
+      1
+    ],
+    "172": [
+      "sprite/screw/chess_l33_1",
+      3,
+      1
+    ],
+    "173": [
+      "sprite/screw/chess_l33_2",
+      3,
+      1
+    ],
+    "174": [
+      "sprite/screw/chess_l33_3",
+      3,
+      1
+    ],
+    "175": [
+      "sprite/screw/chess_l33_4",
+      3,
+      1
+    ],
+    "176": [
+      "sprite/screw/chess_l4_1",
+      3,
+      1
+    ],
+    "177": [
+      "sprite/screw/chess_l4_2",
+      3,
+      1
+    ],
+    "178": [
+      "sprite/screw/chess_l5_1",
+      3,
+      1
+    ],
+    "179": [
+      "sprite/screw/chess_l5_2",
+      3,
+      1
+    ],
+    "180": [
+      "sprite/screw/chess_l6_1",
+      3,
+      1
+    ],
+    "181": [
+      "sprite/screw/chess_l6_2",
+      3,
+      1
+    ],
+    "182": [
+      "sprite/screw/chess_l7_1",
+      3,
+      1
+    ],
+    "183": [
+      "sprite/screw/chess_l7_2",
+      3,
+      1
+    ],
+    "184": [
+      "sprite/screw/chess_l7_3",
+      3,
+      1
+    ],
+    "185": [
+      "sprite/screw/chess_l7_4",
+      3,
+      1
+    ],
+    "186": [
+      "sprite/screw/chess_l7_5",
+      3,
+      1
+    ],
+    "187": [
+      "sprite/screw/chess_l8_1",
+      3,
+      1
+    ],
+    "188": [
+      "sprite/screw/chess_l8_2",
+      3,
+      1
+    ],
+    "189": [
+      "sprite/screw/chess_l8_3",
+      3,
+      1
+    ],
+    "190": [
+      "sprite/screw/chess_l9_1",
+      3,
+      1
+    ],
+    "191": [
+      "sprite/screw/chess_l9_2",
+      3,
+      1
+    ],
+    "192": [
+      "sprite/screw/chess_l9_3",
+      3,
+      1
+    ],
+    "193": [
+      "sprite/screw/chess_l9_4",
+      3,
+      1
+    ],
+    "194": [
+      "sprite/screw/gitem_key",
+      3,
+      1
+    ],
+    "195": [
+      "sprite/screw/gitem_lock",
+      3,
+      1
+    ],
+    "196": [
+      "sprite/screw/screw_in",
+      3,
+      1
+    ],
+    "197": [
+      "sprite/screw/screw_out",
+      3,
+      1
+    ],
+    "198": [
+      "sprite/screw/screw_target",
+      3,
+      1
+    ]
+  },
+  "types": [
+    "cc.AudioClip",
+    "cc.Prefab",
+    "cc.SpriteAtlas",
+    "cc.SpriteFrame",
+    "cc.Texture2D"
+  ],
+  "uuids": [
+    "6avZy1EEJEubqB1qHSASQy",
+    "1erIvMsUBIWILDc6jcMLY5",
+    "d0n301KQNILZ4YjlMq5T41",
+    "237+v8blRI1arQomsujq5c",
+    "d4u383nKpDpbYQ9t5k5ja3",
+    "7eGPuWIbZCELjMIYkn46rN",
+    "02SdJc/e9IjIN6r4X+k6St",
+    "b3cIDrUhROTY8gipLRYP60",
+    "93+tm58LpMSLIkEpGKatua",
+    "b7TC6Kk1xGCKsmRdVdj6yW",
+    "05CyvqrHRAbIcN5Ac4v/hS",
+    "ccV+42F3NCaLmin2//Dy99",
+    "21poZIznZOBYPg7WeVa59P",
+    "71imZslCpPF7+xlTwKt+VF",
+    "afUvIcazVBirxL58KtEucw",
+    "d56ctPD3ZKUqhxKVUXrMMR",
+    "5aw4x29UJEAreWkq22FjUr",
+    "83vAaF4FZI/J+nynJcO24q",
+    "4afmuypWxMgon380lE1Oly",
+    "81j03NIlFNwaeJJPwo7q20",
+    "1aQMp3A8BN646CzBCfiR+Y",
+    "4a8ZekmhxIzI9ZFVVUMqL5",
+    "77jlvZHUNO7prQSCEyeVBS",
+    "cakdDDvwZAEL5v1Iz3N5jr",
+    "d3ARnUXGhA2Z9nr3RdJHnL",
+    "860BM3AYpKTLVfavUS8u63",
+    "d3O7/zZ6NOrrPQgZ+Gg3t0",
+    "67/kdTm8FEtqPYNkXnpMra",
+    "c6YHWtBoFNR6V9EfouRouU",
+    "9dHbnIebVIB7VBehQMmsY/",
+    "4bTkYUOQZAx4UixVsW2dIq",
+    "afXI81LGhKNrCS7/d5Psje",
+    "cfi0+ovctDqIu/pQjxqt6G",
+    "18cFMHoqJGo4oA2Wn28hpo",
+    "f2Ccpe7itMHph0YBVaXynq",
+    "e2zfcKypJHZL5Lqv2GEZJ/",
+    "0annZniHFBJ4gZqnmn4Zoe",
+    "c03rbQt29BcKfNUEPfNUEd",
+    "aclaP9/RNHFLqOmDkleZXY",
+    "56g1V6XcxK0JqeOhYiX7P2",
+    "2akqTHChFBG41dii1/0pvf",
+    "62cooVogVMXadZFWQLY+F6",
+    "cenCEZ7wRJbqYjRiRPW6Q9",
+    "4eReLVXHpNWop5HBIIeF0c",
+    "c3Wku7HMhDr4Qle/UbjE0X",
+    "0dH6IZEV1OVoXAk7YiZ3UE",
+    "34SxnCkiREaqCLNJk0vQfO",
+    "67ePz4c0FNfq1KndKJRHe1",
+    "95Up0p+55A4KwP0l7ViV+y",
+    "c0jtYL3kRN66EKwJoAWAoP",
+    "adbyGNCD1MyaARZ2GrPuzL",
+    "87m8sEbtlArbPgVSSlkQQb",
+    "e8mfwcF3hGfq2mszSMi+Dz",
+    "69PyaHW3lEpbLUPUw87ejp",
+    "7a4zMy2iVNkbyiP/N8/wyP",
+    "b2C6EHNUVBzbi4Zz5WMxd8",
+    "06EGROEtFB+pgN/C9zbU8h",
+    "07b8Dx/sxAdai4jlkTgnA9",
+    "f9Fs1V1JFNa7K6hUaFSuNk",
+    "0aW1OkznJBaZQylFnwiQHy",
+    "2cy4+kZwNNSqcVwP/mjKXM",
+    "61qck67wZDmJcG4aeSplzd",
+    "95QoWkWnFCUbVo1mX4JZFH",
+    "e3czKuwtJNfIUYfNQOcrNk",
+    "9fVYC2dZFPpK98V5DPV2uP",
+    "46IROyx9pJdLDbzx3yV8kA",
+    "97U1YUPQJO2o68S8E0Pdm5",
+    "f86m1XYm9DwK+/trC4Y/XR",
+    "fehBCWEtJCuJLj3TR6LqjC",
+    "2buaIvO9NPwo2ty0TLMKDS",
+    "e0XfvzpWxKFqdNeHvsYWhB",
+    "98a8hkYndA2oF3vGGY1v7g",
+    "f2CIOBKThMkJzXWXFKy1Ss",
+    "dfQ7SJyF1BHLTKuE0AVJs8",
+    "c8yC/BWr9Fv7lpgA6+fl0E",
+    "c26oDd+wpMc64ZPp4tgHHi",
+    "d4w/KmxKBBGYZhF1CYvvJz",
+    "059j5H5a5B8aANg1S36VXh",
+    "fapl7uLYpMupTYmwOVOFwc",
+    "5cprZezW5AbLmLIfIpGi4K",
+    "5bM5BYKK1IQIrnjxSUCTD/",
+    "4fP2KqYpNPpqorr0WTFCks",
+    "73dCC0omVFCryMbyRWHjTR",
+    "d4E4T9KZRLhoxexWAelw+Y",
+    "13DI2tZSdKTbIWAOTrCNVQ",
+    "2c4xOUjxxG+oS2+DIq74Kk",
+    "82ZbTU511JmbiCZQQVUxOB",
+    "bcosCmO7JI2bBgC4U4dhdE",
+    "a5kCB4TSRBjZuXJ8rBdn7G",
+    "ad+qRcBKhKqbyJU0xS5ire",
+    "194TfbNDJBYpFhjIpbt5Si",
+    "59QDz39MdFDpoQ9BZYyR5v",
+    "d9I5vovYtFMrIQHbRS5E/R",
+    "ecE6fe3ndAeL0BelVAUdfK",
+    "0abvhfPKVBlLntXi+5i1XV",
+    "00webh4JxA+J/NfILE83zQ",
+    "25R8Ax7SVBla7BqKH0JuP4",
+    "b4VvYIJ6tEPpsNktAgANjG",
+    "228j+UBYVF8pVyYuTuHv4M",
+    "723nec1HxAVrCVoFfQAzzu",
+    "4aJwfVPnxG57Ygyd2VzJdp",
+    "72bitP4a1LVZUPiaiurSk2",
+    "eauOXXy7hCRIOg3Y8SPu+z",
+    "0bFGleMPhILKlG9EaMpk7U",
+    "0byvp49f1D+pJtQgcWjnHB",
+    "5dh3tEhEBJhpyCkWQFu6lh",
+    "1f/ADxLldMtY1NlhU8KPfF",
+    "4aQqsrCU1B6JQUR7KW2XXw",
+    "698rGE+LRFSb7oDS57N1fI",
+    "0eTyVeL9JCK5XAzYnczcrU",
+    "55dCgVn9NNCa1e2121LXrf",
+    "4eLVNqYZlOI5bEmSPr8k1g",
+    "0bNMynF59Owb4ZQVfT9sfD",
+    "8eiIjiR95CYZRXgtup+t1O",
+    "39YLXrQ/pGU7rikWbr+sjb",
+    "dfR4npCqdLrJzouGvEfyvq",
+    "a3S1RCMkxDYLenrP4Xqkpr",
+    "26TPPLRg1M/pYSqx5hyfjw",
+    "36Sy3WDHJH84RM9mAN+/SZ",
+    "34llg1gwFPuJL9CTQaPOs9",
+    "99JG7oP3hAZZ2s5OLP+Jf4",
+    "5aNyh9tM5LZJ4kYEAOvIkA",
+    "7fyH8nygRHO7k4CDMqih5n",
+    "09d7R0VflCO4gbJwuUEw3+",
+    "83aI+BwtNJI4ZBkC88FNm9",
+    "55z2M02HdMrqcEMjZ77cRC",
+    "12+sdh4lhFlYNlWck8iSL4",
+    "0c8B+J3ZdP4qN44RxSM7xl",
+    "6ekn5f04dIsLuTvR21OP+G",
+    "d2URrsJM9PDYGdrruZ8pe7",
+    "23lm/iOWxI9Z1jozrsyoyW",
+    "37mHF910dM0YBeglUgpdek",
+    "27gifr45lELZe0fZUhqyDQ",
+    "59h2bwzmtO15t9wgdOujAQ",
+    "3fCYRsAJFNkbgRFA49djq/",
+    "2cpZ3ofS1CMKZG1Hz4tzlZ",
+    "cedEc4M6lPlqh8hHpmGyQr",
+    "24MksWIN5Jb4E6+6aTI4a6",
+    "98L3kSla9Ilq2FsM29zq8X",
+    "51/GcNF/hDcpUMVBuHRhyg",
+    "b1Cyq8I/lCqa0BWMZqX5WH",
+    "d8iH1V+n1DSJZRbhMddskU",
+    "e4Dd5QrcJObL4Q9A7ljZDc",
+    "659/asbhJPj5JqR9cyMAKR",
+    "01uvfmRUVBuIFYTMXGttEO",
+    "20JQK4G3VMTbRON/0oAwOL",
+    "aabd9sQV1I867747VEnr4j",
+    "4aL9KNJJBM15ZjH/V16EIg",
+    "d5BuqhMKZE17aOTW86hKJu",
+    "27AfwCO0NPTLG21GdnV6hk",
+    "56W48GpjtE5qRoRYhc1ZPc",
+    "86j2/v45RHoqRp/RS0u1db",
+    "f5s0P5rBlO6YFTtEq7AsZy",
+    "d0uyMl9MlN7Y3QpGVfGcWB",
+    "e2H2FCTJ1KQ4VMEBJJcIje",
+    "43THQNHPpKsKSg2QW77wNU",
+    "570gK1j/JD9o7Zmpw4ZGGu",
+    "5fRFkFAplF2KfqjUD8l1wN",
+    "cfO7jUeNFPtKEeRisPBjpz",
+    "e0TzGaZiZHFaTGg4e8FNeh",
+    "275KEWKVNArKEctMSjYu2s",
+    "2e3AYkbjJBUZlliXDJaTsE",
+    "31Pbn4fQ9LYIxK7+uXO3o4",
+    "daxYjKwthJtbSwJ8UIyPpP",
+    "13050L6fxKBYJwivvQDkf9",
+    "23g6n4pvJNsIzzAmmZMdum",
+    "a6PmIhchdN6pQmr3HjikHC",
+    "98TFlzzB1BR4FTT2HDRHRf",
+    "06EnBMfIJGZ4kU099E3PVp",
+    "28nqXJsBdMfLzA8B022zxU",
+    "60HQAW2x5GdbFiyXGCpNU9",
+    "7exznz/llB0YYVVkhTZgOO",
+    "daGD3DmqpGjatPUBriANyp",
+    "50vxfg5XdC15kx+YZqY804",
+    "d6mqB0YZtEz7FAmoQtWPKo",
+    "a9ZipvO7ZD6oriQ8cFWRI6",
+    "c69OeEdp1OS5yYxsmTXUY8",
+    "bePAKkEChOIr9vdsq9ex2i",
+    "e5Fv5sNeRJR78GmZSASMFr",
+    "6fVZKxwl1BmYQs6KOpfSci",
+    "18Ql1ArSlNMq+6es9mok4t",
+    "48zVTJ7NxL5LQPEst1FanY",
+    "f4dg7fj1pERqVdaBJTS5Qv",
+    "a8kWAdpSJEVIJHIVtiMVt0",
+    "90cyg44YlHG44FprsVuQP2",
+    "45ZgY+LJVHXoEmUp/UtAe/",
+    "80BkYsh8RLhpQ/Qk8JsIR2",
+    "63iXPvJsREz7fONeYnAa24",
+    "80actMKuhJfb1UdyhzFyvT",
+    "a1SSN8TjdHZJONZ+1y7VGr",
+    "c3QTN6s+NEp6ISZbqWsYTH",
+    "c9SCEU9/1GJ7gCFiG6kQeB",
+    "fbef8nKjlHqZz/IDVbVApu",
+    "c2lheoHatOmIJyQ4zHB+6g",
+    "e6amvGNWBCtrL4C0h886G9",
+    "49UnhyDHRBkpJeWoqd/vva",
+    "91wjFgZY5J7a1D1hDjG2zc",
+    "22gadUdzNCA7adR79mqNIy",
+    "22dkm3MpxJfotVvQz++sg7",
+    "c6D+ZgAI9G/LzQgXnVY2Df",
+    "c92S/2RE1CapRcI4lSRYlu",
+    "15xRdJyhZC1JZC4GDFBPW2",
+    "fcuwMzEolPDbQUyEPYUNy1",
+    "84tXz1D5dPfq3jRWea11Ac",
+    "1ddc68525",
+    "156b64f00",
+    "1db7c03f8",
+    "1204b934e",
+    "1ce1ea815",
+    "16d566176",
+    "1f2dc7122",
+    "1b407df41",
+    "1e0bc9cf7",
+    "1b4e17d22",
+    "1af37413b",
+    "13572d203",
+    "1973b1290",
+    "1c74b691b",
+    "1b498159a",
+    "1b0ef31af",
+    "a6ZalXcXFCcY3r+BIMqx5e",
+    "ecpdLyjvZBwrvm+cedCcQy",
+    "a2MjXRFdtLlYQ5ouAFv/+R",
+    "16d8bgTYtM9aAkjLR2CCcP",
+    "45A2KroX9DAqaCtb8MFUOZ",
+    "60eA2eyE5NgK2w6mp2OrPJ",
+    "44WNqH8V5PbJFdTnyFoPz5",
+    "93TRgyF5FDaZnqhbzwPKpe",
+    "ffwN3n7cFAWa4d+X+2NW0S",
+    "c40n9hthtGZ5VPPvxw5JyL",
+    "16rE8+mnBAAblVrKUgPw6n",
+    "eblyAGcM1O2K6RNX799kDw",
+    "41Z/PQbFJER50qg4A9XggP",
+    "3fDfdEd79FZYR5NmeFVo3c",
+    "8bwWwwM5xMyLgDf3vWCylz",
+    "f7aOuJG3JF77NeWcidIWPb",
+    "a1G4UeTLNORrmH7F1eoT4O",
+    "59/64yOotOz7DO0LGfVN6R",
+    "82mvcNyXhLRYgGq+7x7V+4",
+    "2aMHxWRC9EV5Ff9L/NHALw",
+    "9e6K8jnM9PlKuuty7MDNXO",
+    "63GlPs5GlO9rjeRlMwmox3",
+    "54zMhl1M5CvI6J07xrI6mO",
+    "33GXFHKCZO+ZXuNtXBfa5l",
+    "adKYvQ4XtG/ZQFzHfNJEpo",
+    "41cUn98XxNwKieAynd6i6c",
+    "53PbTykhpO/bR9xHwOzy8D",
+    "5dI+BAJTZGzK8LBgKZ/pXA",
+    "02delMVqdBD70a/HSD99FK"
+  ],
+  "scenes": {},
+  "redirect": [
+    221,
+    0,
+    248,
+    0
+  ],
+  "deps": [
+    "internal"
+  ],
+  "packs": {
+    "0d01e44d0": [
+      56,
+      245,
+      246,
+      247,
+      244
+    ],
+    "0ac592b7c": [
+      100,
+      16,
+      101,
+      99,
+      102
+    ],
+    "0bec45750": [
+      103,
+      104,
+      105,
+      17
+    ],
+    "0c63a512b": [
+      106,
+      107,
+      18
+    ],
+    "07a6d2a18": [
+      109,
+      111,
+      110,
+      108,
+      19
+    ],
+    "0971f4c45": [
+      20,
+      113
+    ],
+    "0d5e36c4e": [
+      114,
+      21,
+      115
+    ],
+    "044e255a6": [
+      117,
+      118,
+      22,
+      116
+    ],
+    "081382f87": [
+      123,
+      121,
+      122,
+      124,
+      24
+    ],
+    "05fad7a1a": [
+      119,
+      120,
+      23
+    ],
+    "022113009": [
+      239,
+      243,
+      233,
+      242,
+      237,
+      241,
+      238,
+      234,
+      240,
+      236,
+      55,
+      235
+    ],
+    "09fd7ba3d": [
+      127,
+      126,
+      125,
+      25
+    ],
+    "094792ff9": [
+      130,
+      129,
+      26
+    ],
+    "05cb31070": [
+      131,
+      27
+    ],
+    "0c0e6ccab": [
+      134,
+      28
+    ],
+    "0d5c23ea1": [
+      132,
+      133
+    ],
+    "095f0cb15": [
+      135,
+      29,
+      136
+    ],
+    "05033e287": [
+      137,
+      30
+    ],
+    "0d2039419": [
+      144,
+      143,
+      32,
+      142
+    ],
+    "0c1195baf": [
+      139,
+      138,
+      31,
+      140,
+      141
+    ],
+    "0f4ffc4b4": [
+      33,
+      145,
+      149,
+      147,
+      146,
+      148
+    ],
+    "0d1499dfc": [
+      150,
+      151,
+      34,
+      152
+    ],
+    "0fdb10114": [
+      155,
+      156,
+      153,
+      154,
+      35
+    ],
+    "0d7d53112": [
+      36,
+      157,
+      158
+    ],
+    "03beb1c43": [
+      160,
+      37,
+      159
+    ],
+    "0fa04a681": [
+      161,
+      162,
+      38,
+      163
+    ],
+    "0c568f53f": [
+      168,
+      169,
+      40,
+      170,
+      171
+    ],
+    "04bbbade2": [
+      164,
+      165,
+      39,
+      167,
+      166
+    ],
+    "0d7256a3e": [
+      173,
+      41,
+      175,
+      174,
+      172
+    ],
+    "084033056": [
+      177,
+      176,
+      42
+    ],
+    "0168a9e27": [
+      43,
+      179,
+      178
+    ],
+    "0ab5eff78": [
+      180,
+      181,
+      44
+    ],
+    "06a5075a2": [
+      45,
+      185,
+      186,
+      184,
+      183,
+      182
+    ],
+    "06c49ccae": [
+      46,
+      187,
+      188,
+      189
+    ],
+    "071329c31": [
+      197,
+      49
+    ],
+    "06322a73a": [
+      201,
+      203,
+      51,
+      199,
+      200,
+      202
+    ],
+    "08d5665a3": [
+      47,
+      193,
+      190,
+      191,
+      192
+    ],
+    "0b842adea": [
+      230,
+      54,
+      227,
+      229,
+      228
+    ],
+    "07f83191b": [
+      10,
+      207,
+      215,
+      205,
+      209,
+      216,
+      214,
+      219,
+      211,
+      218,
+      213,
+      217,
+      208,
+      206,
+      204,
+      212,
+      210,
+      220
+    ]
+  },
+  "name": "resources",
+  "importBase": "import",
+  "nativeBase": "native",
+  "debug": false,
+  "isZip": false,
+  "encrypted": false,
+  "versions": {
+    "import": [
+      95,
+      "34ee4",
+      "0168a9e27",
+      "1ce59",
+      "022113009",
+      "79a0d",
+      6,
+      "e2705",
+      "03beb1c43",
+      "07160",
+      "044e255a6",
+      "f7e58",
+      "04bbbade2",
+      "e797b",
+      "05033e287",
+      "50e2f",
+      "05cb31070",
+      "93345",
+      77,
+      "1cd30",
+      "05fad7a1a",
+      "aa7fb",
+      "06322a73a",
+      "5a7fc",
+      "06a5075a2",
+      "540ac",
+      "06c49ccae",
+      "62da9",
+      "071329c31",
+      "60d30",
+      57,
+      "2c1ad",
+      "07a6d2a18",
+      "92b7d",
+      "07f83191b",
+      "b6195",
+      "081382f87",
+      "68976",
+      "084033056",
+      "bb5bd",
+      "08d5665a3",
+      "6a5cc",
+      "094792ff9",
+      "b2548",
+      "095f0cb15",
+      "bab48",
+      "0971f4c45",
+      "06278",
+      "09fd7ba3d",
+      "7c68e",
+      59,
+      "da9aa",
+      94,
+      "5e65a",
+      "0ab5eff78",
+      "82974",
+      "0ac592b7c",
+      "77150",
+      112,
+      "1e66f",
+      "0b842adea",
+      "80c41",
+      "0bec45750",
+      "29194",
+      "0c0e6ccab",
+      "23677",
+      "0c1195baf",
+      "c8a3b",
+      "0c568f53f",
+      "70626",
+      "0c63a512b",
+      "f20fa",
+      "0d01e44d0",
+      "c06fb",
+      "0d1499dfc",
+      "34b67",
+      "0d2039419",
+      "0e7fb",
+      "0d5c23ea1",
+      "4571a",
+      "0d5e36c4e",
+      "39e90",
+      "0d7256a3e",
+      "092ac",
+      "0d7d53112",
+      "0f747",
+      "0f4ffc4b4",
+      "27d87",
+      "0fa04a681",
+      "b11c9",
+      "0fdb10114",
+      "b9a58",
+      84,
+      "08de2",
+      223,
+      "bdea0",
+      90,
+      "4c655",
+      1,
+      "b4c50",
+      12,
+      "c12d9",
+      198,
+      "5c761",
+      98,
+      "cb2bd",
+      3,
+      "7b33e",
+      96,
+      "35d21",
+      69,
+      "6fa31",
+      60,
+      "c9aea",
+      85,
+      "26b3d",
+      232,
+      "c0e46",
+      226,
+      "2a42a",
+      224,
+      "b4a45",
+      65,
+      "8f246",
+      195,
+      "5680b",
+      81,
+      "3adc9",
+      91,
+      "7af3d",
+      80,
+      "f771d",
+      79,
+      "878fe",
+      225,
+      "61552",
+      61,
+      "5447f",
+      53,
+      "0e6a6",
+      0,
+      "53dea",
+      128,
+      "60c9a",
+      13,
+      "224ae",
+      82,
+      "b1e44",
+      5,
+      "6e127",
+      86,
+      "9685e",
+      196,
+      "1b6c8",
+      8,
+      "ba16f",
+      62,
+      "04d81",
+      48,
+      "09445",
+      66,
+      "9c46d",
+      71,
+      "14cd6",
+      64,
+      "8c078",
+      222,
+      "43d76",
+      88,
+      "f4c0f",
+      50,
+      "9e8c4",
+      89,
+      "8f845",
+      14,
+      "9f924",
+      7,
+      "55e57",
+      97,
+      "4ba2e",
+      9,
+      "04c04",
+      87,
+      "72625",
+      75,
+      "4b827",
+      74,
+      "0875f",
+      11,
+      "3b07a",
+      2,
+      "03772",
+      83,
+      "e4a8e",
+      4,
+      "f4c2e",
+      76,
+      "a36d1",
+      15,
+      "2d7d3",
+      92,
+      "1f96d",
+      73,
+      "648a6",
+      70,
+      "13118",
+      63,
+      "d5000",
+      194,
+      "c1f12",
+      52,
+      "9bf7e",
+      231,
+      "18de7",
+      93,
+      "01b94",
+      72,
+      "9ee13",
+      67,
+      "2aef7",
+      58,
+      "653b0",
+      78,
+      "b11cc",
+      68,
+      "51f34"
+    ],
+    "native": [
+      6,
+      "0511d",
+      10,
+      "df2ca",
+      207,
+      "afa8b",
+      215,
+      "daa61",
+      205,
+      "a4d6e",
+      201,
+      "9f1fa",
+      209,
+      "81b6b",
+      216,
+      "e3912",
+      214,
+      "9aabc",
+      219,
+      "ce04e",
+      211,
+      "b8a53",
+      218,
+      "ff919",
+      213,
+      "d7330",
+      217,
+      "aa5d1",
+      208,
+      "104c0",
+      206,
+      "938ed",
+      204,
+      "d15a1",
+      212,
+      "044b5",
+      1,
+      "67ad7",
+      210,
+      "9f018",
+      3,
+      "a21a9",
+      0,
+      "f108b",
+      5,
+      "49556",
+      203,
+      "da3b7",
+      8,
+      "90858",
+      220,
+      "e2bed",
+      7,
+      "ec550",
+      9,
+      "6a043",
+      199,
+      "87aaf",
+      200,
+      "f8e02",
+      2,
+      "1be98",
+      4,
+      "1853b",
+      202,
+      "75d6e"
+    ]
+  }
+}

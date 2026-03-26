@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-desktop",groupList:["default","game3d"],collisionMatrix:[[true,true],[true,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/loading.fire",orientation:"",jsList:[]};
