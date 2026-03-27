@@ -1,0 +1,106 @@
+<!Doctype HTML> 
+<html lang="en"> 
+	
+<head> 
+	
+	<title>Math Puzzles CG</title>
+	
+	<!-- Meta tags -->
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="initial-scale=1, maximum-scale=1, 
+				user-scalable=0, minimal-ui" />
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="HandheldFriendly" content="true" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+	<script type="text/javascript">
+		window.SDK_OPTIONS = {
+		   gameId: "1kj2eznpo4huvuys9encsrw55qvlx9a0",
+		   onEvent: function (a) {
+			  switch (a.name) {
+				 case "SDK_GAME_PAUSE":
+					// pause game logic / mute audio
+					break;
+				 case "SDK_GAME_START":
+					// advertisement done, resume game logic and unmute audio
+					break;
+				 case "SDK_READY":
+					// when sdk is ready
+					break;
+			  }
+		   }
+		};
+	 (function (a, b, c) {
+		var d = a.getElementsByTagName(b)[0];
+		a.getElementById(c) || (a = a.createElement(b), a.id = c, a.src = "https://api.gamemonetize.com/sdk.js", d.parentNode.insertBefore(a, d))
+	 })(document, "script", "gamemonetize-sdk"); 
+	 </script>
+	
+	<!-- Javascript -->
+	<script type="text/javascript" src="js/phaser.min.js"></script>
+	<script type="text/javascript" src="js/boot.js"></script>
+	<script type="text/javascript" src="js/loading.js"></script>
+	<script type="text/javascript" src="js/clarusgames.js"></script>
+	<script type="text/javascript" src="js/menu.js"></script>
+	<script type="text/javascript" src="js/levelselect.js"></script>
+	<script type="text/javascript" src="js/level1.js"></script>
+	<script type="text/javascript" src="js/level2.js"></script>
+	<script type="text/javascript" src="js/level3.js"></script>
+	<script type="text/javascript" src="js/level4.js"></script>
+	<script type="text/javascript" src="js/level5.js"></script>
+	<script type="text/javascript" src="js/level6.js"></script>
+	<script type="text/javascript" src="js/level7.js"></script>
+	<script type="text/javascript" src="js/level8.js"></script>
+	<script type="text/javascript" src="js/level9.js"></script>
+	<script type="text/javascript" src="js/level10.js"></script>
+	<script type="text/javascript" src="js/level11.js"></script>
+	<script type="text/javascript" src="js/level12.js"></script>
+	<script type="text/javascript" src="js/level13.js"></script>
+	<script type="text/javascript" src="js/level14.js"></script>
+	<script type="text/javascript" src="js/level15.js"></script>
+	<script type="text/javascript" src="js/level16.js"></script>
+	<script type="text/javascript" src="js/level17.js"></script>
+	<script type="text/javascript" src="js/level18.js"></script>
+	<script type="text/javascript" src="js/level19.js"></script>
+	<script type="text/javascript" src="js/level20.js"></script>
+	<script type="text/javascript" src="js/level21.js"></script>
+	<script type="text/javascript" src="js/level22.js"></script>
+	<script type="text/javascript" src="js/level23.js"></script>
+	<script type="text/javascript" src="js/level24.js"></script>
+	<script type="text/javascript" src="js/level25.js"></script>
+	<script type="text/javascript" src="js/level26.js"></script>
+	<script type="text/javascript" src="js/level27.js"></script>
+	<script type="text/javascript" src="js/level28.js"></script>
+	<script type="text/javascript" src="js/game.js"></script>
+	
+	<!-- CSS -->
+   <style type="text/css">
+	   
+   		body 
+	    {
+			margin: 0;
+			padding: 0;
+	    }
+	   
+		#orientation
+	   {
+			width:100%;
+			height:100%;
+			position:fixed;
+			top:0px;
+			left:0px;
+			background-color: white;
+			display:none;
+		}
+   </style>
+
+</head>
+	
+<body id="mygame" style="position:absolute;height:100%;width:100%;top:0;left:0;">
+	
+	<!-- Rotate device image -->
+	<span><img id="orientation" src="images/lock.png" /></span>
+
+</body>
+</html>
