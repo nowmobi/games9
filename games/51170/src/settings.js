@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-desktop",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/main/scenes/PetLLK/scenes/PT_GameLoad.fire",orientation:"portrait",jsList:[]};
